@@ -1,0 +1,232 @@
+BEST OF THE WEB
+Charlie Cook Has a Problem
+Sometimes conventional wisdom is not just unimaginative but self-serving.
+By James Taranto
+February 22, 2013
+"Why Obama Should Sit Down and Keep Quiet" is the headline on Charlie Cook's latest National Journal column. Normally we'd file that under "Longest Books Ever Written" and leave it at that, but Cook, whose carefully hedged bits of conventional wisdom often end up in this column's "Out on a Limb" heading, offers this beaut of an observation:
+
+In 2010, the GOP lost five of the seven Senate contests The Cook Political Report rated as toss-ups going into Election Day; in 2012, it lost eight of 10. When a party loses 13 of 17 toss-ups over two elections, it has a problem.
+Let's pause to stipulate that up to this point, we do not disagree with Cook's conclusion, although it is something of a tautology to observe that a political party has a problem if it loses elections. Actually, we'd say the GOP has multiple problems. But we shall demonstrate that the premise and logic he employs to reach this conclusion are laughably flawed--and self-serving to boot.
+
+Before we get to that, here's Cook's diagnosis of the problem:
+
+
+In many cases, Republicans nominated horrifically flawed candidates who didn't quite self-destruct but were too weak to win. In other cases, they nominated candidates who did self-destruct. And when these problematic candidates pulled the pin on the grenade, other GOP office-seekers in their states became collateral damage.
+This is at best simplistic, as Slate's Dave Weigel notes:
+
+On to that "eight of 10" number from 2012, from the final pre-election Cook report. [Todd] Akin's race wasn't on that list--by election time, Cook rated the race as a "likely" Democratic win. [Richard] Mourdock's race was on the list. But look at the other close races lost by Republicans: Montana, North Dakota, Virginia, Massachussetts [sic], Wisconsin, Connecticut, Maine. In the first four, they nominated current or former Republican legislators, not Tea Party candidates. In Wisconsin, they nominated a former governor who defeated Tea Party candidates in the primary. In Connecticut, they nominated a multi-millionaire who ran to the left. And in Maine, they nominated a fairly centrist Republican who tried, and failed, to win a three-way race against a Democrat and an Independent supported by Democrats. As Ramesh Ponnuru keeps writing, most GOP Senate candidates, even in places like Texas and Montana, ran behind Mitt Romney.
+"The gaffe/Tea Party theory of Republican defeat is just too pat, too easy," Weigel writes, an observation that seems indisputable. He argues that blaming the Tea Party distracts the GOP from the need to address "real questions about internal reform." We're not sure exactly what he has in mind, but we'd add that some of the Republicans' problems, such as media bias and the Democrats' edge in get-out-the-vote technology, are exogenous.
+
+It's Cook. Book!
+It's Cook. Book! MSNBC/NEWSBUSTERS.ORG
+But what's really funny about Cook's argument is the data on which he bases it. One could measure a party's performance in Senate races by any number of objective measures. One would be the overall number of seats won in a given year. On that score Republicans did quite well in 2010 (24 wins, 13 losses) and very poorly in 2012 (8 wins, 25 losses).
+
+That measure is a bit misleading, since it doesn't take into account the differences in the composition of Senate classes by state. As Larry Sabato noted in 2010, last year's class of senators were the "blue class"--the one with the greatest number of states Barack Obama carried in 2008, so one would expect the GOP to have done worse by this measure than in 2010, when the "purple class" was up. (A bright spot for the GOP: The 2014 class is the "red class," yet the Republicans, having done very poorly in 2008, are defending fewer seats than the Democrats.)
+
+Ponnuru's method of comparing a party's performance in Senate races with that of its presidential candidate is one way of dealing with this complication, at least in presidential years. That could cut both ways, however. In several states with competitive 2012 Senate races--Connecticut, Massachusetts, Nevada, New Mexico and Wisconsin--the Democrat's share of the Senate vote was smaller than Obama's. Obama also outpolled successful Democratic Senate candidates in Hawaii and Maryland.
+
+Cook avoids these complications by basing his conclusions on "Senate contests The Cook Political Report rated as toss-ups going into Election Day." That seems to focus on the contests that mattered most, but in reality it turns the exercise into a test of Cook's ability as a political prognosticator. And it turns out he doesn't do very well.
+
+Nate Silver, who runs the FiveThirtyEight blog for the New York Times, also issued rankings in Senate races last year. But his method is a lot more precise than Cook's. He used a mathematical model that crunched poll data and produced a probability of each candidate's victory. Importantly, he eschewed the "toss-up" hedge and assigned each candidate a probability to a percentage point.
+
+Of the eight Cook "toss-ups" that Republicans lost, Silver called six correctly on election eve. He rated Connecticut, Maine and Massachusetts "safe" and Indiana, Virginia and Wisconsin "likely Democratic." Montana was "lean Republican," and North Dakota, Silver's one big miss, "safe Republican."
+
+Whatever method Cook uses to designate races "toss-ups" overestimated the GOP's Senate prospects and underestimated the Democrats' in both 2010 and 2012. The same was true of Silver, but to a lesser extent notwithstanding the greater precision of his predictions. To be sure, the Republican Party has many problems. But in blaming the GOP for his undistinguished record as a prognosticator, Cook is trying to obscure the fact that Charlie Cook has a problem.
+
+Orwell, Meet Ed Markey 
+This is a bit of a man-bites-dog story: A politician is taking heat for an unfortunate allusion to slavery--and the pol in question is a Democrat. NPR's Frank James has the story:
+
+
+He caused a kerfuffle by citing, in the same breath, the Supreme Court's 2010 Citizens United campaign-finance decision and the opinion of a much earlier court, the infamous 1857 Dred Scott decision. In that case, the court told a black man seeking to be freed from slavery that he had no constitutional right to sue for his freedom.
+Markey's remarks at a Tuesday campaign stop were first reported on BuzzFeed and captured on video and uploaded, of course, to YouTube:
+"I want to go to the United States Senate in order to fight for a constitutional amendment to repeal Citizens United. The whole idea that the Koch brothers, that Karl Rove can sa [sic], 'We're coming to Massachusetts, we're coming to any state of the union with undisclosed amounts of money,' is a pollution that must be changed. And the Constitution must be amended. The Dred Scott decision had to be repealed--we have to repeal Citizens United."
+James offers a weak defense of Markey: "Of course, Markey never said that Citizens United equaled Dred Scott in infamy or in the harm they [sic] caused the nation." Then he adds this:
+
+Markey could have made an additional point. There aren't many examples to choose from of a well-known Supreme Court case that was later universally held to have been wrongly decided and that took constitutional amendments to erase. The Dred Scott decision is really it.
+There's a problem in the logic here. It can't be truth both that the decision is universally understood to be wrongly decided and that a constitutional amendment was necessary to reverse it. Since members of the Supreme Court are part of the universe, they would share the universal understanding and either reverse the decision outright or ignore it, effectively rendering it a dead letter. A constitutional amendment was sufficient to render Dred Scott a nullity, but it could not have been necessary absent a serious argument that the case was correctly decided under the unamended Constitution (which did, of course, countenance slavery).
+
+
+Markey's comparison is especially inappropriate for another reason: Citizens United was a case expanding a fundamental constitutional right, freedom of speech. He really seems to believe, à la "1984," that freedom is slavery.
+
+First They Came for the Millionaires and Billionaires 
+Give the New York Times credit for honesty. (Wait, did we just write that?) In an editorial today, the paper describes, as the headline has it, "Why Taxes Have to Go Up." And it isn't only the rich they want to soak:
+
+To reduce the deficit in a weak economy, new taxes on high-income Americans are a matter of necessity and fairness; they are also a necessary precondition to what in time will have to be tax increases on the middle class. . . . There will never be a consensus for more taxes from the middle class without imposing higher taxes on wealthy Americans, who have enjoyed low taxes for a long time.
+Call it the gorge-the-beast theory: Higher taxes on the wealthy make it easier to avoid spending cuts now, creating more dependence on the government and making it necessary to sock it to the middle class, and hard, in the long run. If you join Barack Obama's class war on the theory that you aren't part of the enemy class, it's likely you'll eventually become a casualty anyway.
+
+Illinois Guns: A Clarification 
+The Seventh U.S. Circuit Court of Appeals has denied a petition for an en banc rehearing of Moore v. Madigan, the December ruling holding that Illinois's blanket ban on carrying firearms in public violates the Second Amendment, the Associated Press reports. That likely means that lawmakers in Springfield will enact a more permissive gun-control law between now and June, when a stay on the ruling expires.
+
+A clarification: In yesterday's column, and also in our column of Dec. 12, we suggested that the court ruling would require Illinois to permit the carrying of concealed firearms. A closer reading of the decision makes clear this isn't necessarily the case. The court held only that a complete ban on carrying weapons in public was unconstitutional. Its decision leaves open the possibility that permitting open carry would be sufficient to remedy the constitutional infirmity.
+
+Whitewash! 
+Time.com's Sam Gustin makes an oddly gratuitous racial reference in the course of reporting on possible successors to Julius Genachowski, chairman of the Federal Communications Commission:
+
+A [sic] FCC commissioner since 2009, Mignon Clyburn is the daughter of Rep. James Clyburn (D-SC). Clyburn served for 11 years as the representative of South Carolina's sixth district on the Public Service Commission of South Carolina. Prior to that, she spent 14 years as publisher of The Coastal Times, a Charleston-based weekly newspaper focused primarily on issues affecting the African-American community.
+If Genachowski does step down, Clyburn would become the most senior Democrat on the commission. And as an African-American woman, she would be a ground-breaking choice to lead an agency that has only been led by men over the course of its 80-year history.
+We get that she's the first woman, but why is it relevant that she's "African-American"? If you remember yesterday's column, you know why: because Gustin originally stated that the agency "has only been led by white men," forgetting about Michael Powell (and also Powell's immediate predecessor, Bill Kennard, whom we overlooked as well). After we noted Gustin's error, he seems to have corrected it, but without acknowledgment.
+
+Two Lefty Hacks in One!
+
+"Make no mistake: The Bush Administration and its ideological allies are employing every means available to undermine journalists' ability to exercise their First Amendment function to hold power accountable. In fact, the Administration recognizes no such constitutional role for the press. White House Chief of Staff Andrew Card has insisted that the media 'don't represent the public any more than other people do. . . . I don't believe you have a check-and-balance function.' Bush himself, on more than one occasion, has told reporters he does not read their work and prefers to live inside the information bubble blown by his loyal minions. Vice President Cheney feels free to kick the New York Times off his press plane, and John Ashcroft can refuse to speak with any print reporters during his Patriot-Act-a-palooza publicity tour, just to compliant local TV."--Eric Alterman, The Nation, May 9, 2005 issue
+"According to a much-discussed recent report in Politico, members of the press are frustrated by their lack of face time with President Barack Obama. . . . It would be hard to find an administration that did not inspire unhappiness among those who have the misfortune of drawing the assignment of covering it for their media outlet. What a remarkably ahistorical bunch these reporters are--and they're apparently dealing with a collective case of short-term memory loss, too. 'He gives interviews not for our benefit, but to achieve his objective,' complained Mark Knoller, a veteran CBS News reporter—as if this were not true of every single politician who has ever given a press interview anywhere, anytime. It may or may not be true that President Obama is less available to the press corps than previous presidents—though in many respects, that means he is probably telling fewer lies to the media and the people than his predecessors did."--Eric Alterman, Center for American Progress website, Feb. 21, 2013
+Fox Butterfield, Is That You? 
+"A National Journal study released Thursday found that Republican Rep. Michael Grimm of Staten Island is at the ideological center of the House of Representatives: 217 members are more liberal and 217 members are more conservative. In a remarkable coincidence, the lawmaker he replaced, Democrat Michael McMahon, was found to be at the ideological center in the same study of House members released three years ago. . . . Each took the center spot on the conservative-liberal spectrum, even though the composition of Congress changed: McMahon served when Democrats were in the majority, and Grimm has served when Republicans were in control."--Dan Friedman, Daily News (New York), Feb. 22
+
+Out on a Limb 
+"Prosecutor: Man Who Killed His Wife Wanted Out of Marriage"--headline, KCCI-TV website (Des Moines, Iowa), Feb. 21
+
+Whatever You Do, Don't Tell Anyone! 
+"President Obama Holds Off-Record Meeting With Top White House Reporters"--headline, Politico.com, Feb. 21
+
+Longest Books Ever Written 
+"On the Dangers of Listening to Joe Biden"--headline, Commentary website, Feb. 21
+
+'You Can't Fire Me, I Quit!' 
+"1 Person Injured in Benedict Fire"--headline, Associated Press, Feb. 22
+
+Same-Sex Marriage Really Is Becoming More Popular 
+"South Carolina: Duncan, Mulvaney Endorse Grooms in 1st District"--headline, RollCall.com, Feb. 21
+
+Like Joseph Stalin and Gandhi / It's the Cult of Personality 
+"Adolf Hitler Running for Election in India"--headline, Associated Press, Feb. 22
+
+Helen Thomas, Please Pick Up a White Paging Phone 
+"Waiting for bags. Hagel is a done deal now that Shelby flipped. Inhoff needs to give it up or will die on this unwinnable hill #whcdblktie?"--tweet, @JoseCanseco, Feb. 21
+
+If-- 
+"China Set to Keep Central-Bank Head in Place"--headline, WSJ.com, Feb. 22
+
+So Much for the War on Drugs 
+"White Snow May Herald Green Grass in Dry Nebraska"--headline, Associated Press, Feb. 21
+
+To Serve Man 
+"Tesla Needs a Tim Cook"--headline, TechnologyReview.com, Feb. 21
+
+The Lonely Lives of Researchers 
+"Alligators Sport Always-Erect, Hidden Penises, Researcher Finds"--headline, NBCNews.com, Feb. 21
+
+'As God Is My Witness, I Thought Rodents Could Fly!' 
+"US Gov't to Air-Drop Toxic Mice on Guam Snakes"--headline, Associated Press, Feb. 22
+
+Questions Nobody Is Asking
+
+"Betty Friedan and Black Women: Is It Time for a Second Look?"--headline, Washington Post webite, Feb. 21
+"What if All the NFL Logos Were British?"--headline, DaveArtLocker.blogspot.com, Feb. 19
+"Blueberry Coffee and Bourbon Ham: Hot or Not?"--headline, AdAge.com, Feb. 21
+Answers to Questions Nobody Is Asking
+
+"Why Your Boss Is Dumping Your Wife"--headline, MarketWatch.com, Feb. 22
+"Sandra Fluke: Military Should Accept Transexual Recruits"--healdine, DailyCaller.com, Feb. 22
+Question and Answer
+
+"How Do I Maximize My Burrito-Eating Skills?"--headline, Westword.com (Denver), Feb. 20
+"¡Ask A Mexican!"--headline, Inland Empire Weekly (Corona, Calif.), Feb. 21
+It's Always in the Last Place You Look
+
+"Al-Qaeda Tipsheet on Avoiding Drones Found in Timbuktu"--headline, Denver Post, Feb. 22
+"Has Anyone Seen My Google Glasses?"--headline, Los Angeles Times website, Feb. 21
+News You Can Use 
+"How to Post to Facebook, Twitter After You Die"--headline, CNN.com, Feb. 22
+
+Bottom Stories of the Day
+
+"No Animals Hurt in Barn Fire"--headline, Democrat and Chronicle (Rochester, N.Y.), Feb. 21
+"Detroit Tops 2013 List of America's Most Miserable Cities"--headline, Forbes.com, Feb. 21
+" 'Zero Dark Thirty' Unofficially Banned in Pakistan"--headline, NBCNews.com, Feb. 21
+A China Man's Chance 
+Despite high sex ratios owing to the notorious one-child policy, Chinese women are increasingly likely to end up as shengnu--literally, "leftover women"--unmarried as they approach and surpass the age of 30, the BBC reports:
+
+Census figures for China show that around one in five women aged 25-29 is unmarried.
+The proportion of unmarried men that age is higher - over a third. But that doesn't mean they will easily match up, since Chinese men tend to "marry down", both in terms of age and educational attainment.
+That formulation reflects the common misconception that mating markets are driven entirely by men's choices. In fact, while it's true that men generally prefer younger women, the tendency to "marry down" is a result of the female preference for dominant or high-status men.
+
+The elevation of female status causes an imbalance in the sexual marketplace, as an unmarried 29-year-old Chinese woman explains:
+
+"There is an opinion that A-quality guys will find B-quality women, B-quality guys will find C-quality women, and C-quality men will find D-quality women," says Huang Yuanyuan. "The people left are A-quality women and D-quality men. So if you are a leftover woman, you are A-quality."
+As we've noted, the same trend is evident, and likely to accelerate, in America as our society produces more and lonelier "A-quality" women. Such are the fruits of E-quality.
+
+Follow us on Twitter.
+
+Join Fans of Best of the Web Today on Facebook.
+
+Click here to view or search the Best of the Web Today archives.
+
+(Carol Muller helps compile Best of the Web Today. Thanks to Irene DeBlasio, David Hallstrom, Ray Hull, Eric Jensen, Chris Papouras, Steve Bartin, Michele Schiesser, Irwin Chusid, Scott Patrick, John Henke, Scott McIntyre, Jeryl Bier, Dave Mason, Miguel Rakiewicz, Mark Nicholas, John Sanders, John Bobek, John Williamson, Walter Thornton, William Thode, Bruce Goldman, Zack Russ, Eric Tull, Mark Zoeller, Bob Sauerteig and Marc Lanman. If you have a tip, write us at opinionjournal@wsj.com, and please include the URL.)
+
+EARNINGS
+Loss Widens at Electric-Car Maker
+By Joseph B. White
+Feb. 20, 2013 5:08 p.m. ET
+Electric-car maker Tesla Motors Inc. TSLA 1.76% on Wednesday reported a wider fourth-quarter loss and promised new cost cuts, but said production of its Model S sedan is running at a rate of 20,000 vehicles a year, a key benchmark for investors.
+
+Tesla shipped 2,400 of its Model S sedan, above in Detroit, last quarter.
+Tesla shipped 2,400 of its Model S sedan, above in Detroit, last quarter. ZUMA PRESS
+The Palo Alto, Calif., auto maker said higher expenses for manufacturing and sales operations contributed to a loss of $89.9 million, or 79 cents a share, compared with a loss of $81.5 million, or 78 cents a share, a year earlier. It also missed its target for fourth-quarter production.
+
+Tesla shares fell nearly 8% in late trading on Wednesday after declining 74 cents to $38.54 in 4 p.m. Nasdaq trading.
+
+
+The company said its store of unrestricted cash had dropped to just under $202 million at the end of the quarter, and it promised a fresh round of cost cutting measures.
+
+Tesla Chief Executive Elon Musk said he is confident the company will be narrowly profitable this quarter, and forecast deliveries of 20,000 Model S battery-powered sedans this year. In an interview, Mr. Musk said he doesn't expect Tesla will need to raise additional money through share sales or debt offerings to fund the "couple hundred million" dollar costs of bringing its Model X electric sport utility vehicle to production by 2014.
+
+Instead, Mr. Musk said he expects Tesla will fund the new model from customer deposits and profits from what he forecast will be about $2 billion in annual revenue. "I'm talking about good old profits," he said.
+
+Mr. Musk also doesn't plan to seek more investments from partners Toyota Motor Corp. TM -0.66% or Daimler AG DMLRY 0.61% . "We are not looking to raise money or sell a chunk of the company," he said.
+
+In the short term, Mr. Musk said Tesla is focusing on cutting manufacturing costs, including cutting temporary positions at its factory, and smoothing out parts supply problems that at one point forced Tesla to airlift tires from the Czech Republic.
+
+Tesla in November had projected fourth-quarter Model S deliveries of between 2,500 and 3,000 cars. The company said Wednesday it fell short of that goal, delivering about 2,400 cars. Peak production "coincided with vacations during the holiday season," contributing to the shortfall.
+
+Analysts said ahead of Wednesday's disclosures that the fourth-quarter results—and especially hitting the 20,000 annual rate for Model S production—would be critical to the company's effort to convince investors that it can find a road to long-term viability.
+
+Mr. Musk wrote that customers placed orders for some 6,000 Model S cars in the fourth quarter, up from about 2,900 orders in the third quarter of the year. Factoring in cancellations, Tesla said it has "reservations" for about 15,000 Model S cars, up from 13,000 as of Sept. 30. Investors are closely watching the pace of new orders and cancellations, in part because Tesla has to refund deposits from customers who decide not to take cars.
+
+
+Mr. Musk also said, in a Nov. 5 letter to shareholders, that the company would by the end of 2012 "get approximately halfway to the 25% gross margin target." The company said its fourth-quarter gross margin was 8% of sales—but higher parts prices and high costs in the company's Fremont, Calif., factory weighed on margins.
+
+Tesla said that now that Model S production has stabilized, it has "shifted our focus to cost reduction" and says it expects to achieve a 25% gross margin by the end of this year.
+
+Tesla has reported a loss every quarter since it went public in 2010.
+
+Tesla said it made its first quarterly principal payment of $12.7 million on $465 million it borrowed from the U.S. Department of Energy. Last September, Tesla negotiated more breathing room on the terms of repaying that loan and sold more shares to negotiate a revenue squeeze caused by delays in production of the Model S.
+
+Write to Joseph B. White at joseph.white@wsj.com
+BUSINESS WORLD
+A Spectator's Stake in the Tesla Test-Drive Spat
+Oh, for the day when electric-car enthusiasts didn't expect the rest of us to subsidize their hobby.
+ 
+By Holman W. Jenkins, Jr.
+Feb. 15, 2013 6:51 p.m. ET
+Somebody once asked the late, great British motorcycle journalist Kevin Ash about the electric motorcycles then arriving on the market. After noting that most electricity comes from coal, casting doubt on any eco-benefit, he dug in: "The silly small range and long recharge times make them impractical. . . . An entirely new method of storing electricity is needed to transform practicality, and it must be invented (and then refined in labs) first. Developing electric road vehicles using existing technology is a waste and a deception."
+
+RELATED VIDEO
+
+
+Opinion: New York Times vs. Tesla
+Columnist Holman Jenkins on the electric car maker Tesla's vendetta against the New York Times. Photo: Getty Images
+Ash, who was killed last month testing a new BMW bike in South Africa, naturally comes to mind amid this week's spat between the New York Times and Tesla over a road trip from Washington to Boston attempted by a Times reporter in one of the company's electric cars. The car ran out of juice. Recriminations flew.
+
+Ecumenically, let's dispense blame to all involved. Tesla certainly has a point that, on such an extended journey, Priorities A through F should be attending to the battery, not keeping up with traffic or enjoying the ride. The New York Times has a point if the purpose of the Tesla-designed exercise was to show the Tesla S can be a worry-free substitute for a gas-powered car on a long trip. It can't.
+
+
+The best point, though, is had by those green-car advocates who say Tesla was nuts to concoct such a PR stunt in the first place. "If an average driver needs such hand-holding from an automaker to make the trip, it's the wrong car for the trip," writes GM's former in-house electric-car enthusiast Chelsea Sexton at Wired.com.
+
+Tesla CEO Elon Musk
+Tesla CEO Elon Musk REUTERS
+The ensuing furor undoubtedly owes much to the fact that Tesla and its affluent fans are heavily subsidized by the U.S. taxpayer. More power to Tesla founder Elon Musk and his customers if, with entirely their own money, they wish to indulge an interest in electrical vehicles. But that's not the case here, and the delusions of U.S. government policy seem to have filtered into Tesla's public relations.
+
+Kevin Ash was right. To subsidize the take-up of immature technologies that can't meet ordinary expectations of the marketplace is a formula for embarrassment, scandal and discrediting the very technology being promoted. We like to imagine coherent government planning. We like to think policy actions are predicated on careful and intelligent anticipation of consequences. But the nature of the beast is otherwise. Any rational coordination of means and ends goes out the window as soon as the political scramble for subsidies begins.
+
+Tesla, let's recall, set out to market an electric car before Washington entered the business with its vast and distorting subsidies. Most troubling, to Tesla at least, ought to be the new Obama fuel-economy rules that virtually require the big auto makers to build electric cars and bribe consumers to drive them off the lot in order to create headroom for the cars that auto makers really want to sell. Hard to devise would be a better strategy for discouraging the profitable emergence of a niche maker of electric vehicles.
+
+The Ash rule applies not just to electric cars, but to wind farms, solar power and other renewable energy projects, all of which may have potential, all of which would be better served if government limited itself to funding basic research until a technology emerges that the marketplace can support on its merits.
+
+Consider the spectacle Germany has been making of itself in this regard. German politicians decided it would be nice if 35% of the country's electricity came from renewables by 2020. German politicians, after Fukushima, decided it would be nice to phase out the country's nuclear plants. German politicians decided factories should be protected from any increase in electricity prices. In their home districts, politicians thought "factory" should be extended to cover any large and influential employer.
+
+Now the green future has arrived and German voters are in revolt over rising power prices. "Fuel poverty" has become a buzz term as thousands have been shut off for nonpayment of bills. Politicians have begun trying to claw back subsidies from companies that say the subsidies are the only reason they're in business. A scandal seems to emerge weekly over some big-name company illicitly benefiting from subsidized electricity rates.
+
+Though Germany is burning more coal than ever, though carbon-dioxide emissions are higher than ever, its fossil-fuel plants are going broke while waiting for the wind to die down or the sun to disappear behind a cloud. Operators at one point were receiving negative prices (i.e., paying) to get customers to accept power created by coal- and gas-fired generators that must be kept spinning in order to support the heavily subsidized renewables.
+
+Yet somehow Germany continues to feature as a role model in the rhetoric of U.S. policy makers. One hopes the news will catch up with them before the U.S. economy is stuck on the roadside needing a tow.
