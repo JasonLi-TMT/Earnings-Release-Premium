@@ -2,7 +2,7 @@
 
 Term: Spring 2017
 
-+ Team #
++ Team #15
 + Projec title: Stock strategy based on NLP and Time series?
 + Team members
 	+ Jason LI
@@ -10,7 +10,7 @@ Term: Spring 2017
 	+ Yuxin ZHU
 	+ Ke HAN (Presenter)
 
-+ Project summary: ....
++ Project summary: Using the stock market data and data science methodologies (including NLP and predictive modeling ) to generate strategy.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
