@@ -1,0 +1,1838 @@
+https://www.wsj.com/articles/a-19-year-old-just-built-the-first-fingerprint-reading-smart-gun-1475850207
+The Future of Everything/By   Geoffrey A. Fowler    Geoffrey A. Fowler  The Wall Street Journal  Biography Geoffrey A. Fowler/Updated Oct. 28, 2016 5:28 p.m. ET/Life
+            
+
+            
+              Ideas
+            
+
+              
+                
+                    The Future of Everything
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  A 19-Year-Old Just Built the First Fingerprint-Reading Smart Gun
+
+    Geoffrey A. Fowler takes an exclusive look at the only handgun that unlocks like an iPhone
+
+You don’t typically see guns at San Francisco tech confabs. The city itself saw its last gun store close in 2015. But on a sunny February morning, a ballroom at the Palace Hotel is filled with an unusual mix of engineers, veteran police officers, dot-com investors and gunsmiths. Some of them—mostly cops—are visibly packing.
+We’re gathered for the 2016 International San Francisco Smart Gun Symposium, billed as a response to
+. After citing gun accident statistics, Obama asked: “If we can set it up so you can’t unlock your phone unless you’ve got the right fingerprint, why can’t we do the same thing for our guns?” It’s a question Ron Conway, a co-sponsor of the symposium, is eager to answer. Conway is one of tech’s most influential angel investors, known for his
+and Airbnb. In recent years he has become San Francisco’s agitator in chief, fighting limits on short-term rentals, assembling an immigration-reform lobbying group and financing mayor Ed Lee’s campaign. Today’s cause: his Smart Tech Challenges Foundation, which is spending $1.5 million to spur development of firearm safety tech.
+Conway takes to the podium to announce he has found a solution: the 18-year-old sitting near him, smiling politely but confidently in his well-tailored suit. His name is Kai Kloepfer and he’s from Colorado, a state that’s had more than its share of mass shootings. “He is the 
+
+
+
+      Mark Zuckerberg
+
+
+
+       of guns,” Conway tells the room.
+Kloepfer has spent the past four years designing a handgun with a fingerprint reader built into the grip, and he deferred his acceptance to MIT after winning a grant from the Smart Tech Challenges Foundation in 2014. His startup, Biofire, is just a few months from a live-firing prototype, which, assuming it works, will be the first gun to unlock like an iPhone.
+“Congratulations,” Conway says to Kloepfer. “You are going to save America. You are going to save lives. The gun companies won’t tell you, but the tech industry will.”
+
+how much faith you place in new technology. Conway’s faith is more or less absolute. As a longtime funder of fast-moving, disruptive startups, he’s frustrated by gun violence and what he sees as the industry’s nonresponse. “They don’t seem motivated to innovate,” he says. “If the gun companies don’t want to do it, we have young innovators who want to do it and are capable.” His foundation has backed 15 firearm-safety tech inventors, including Kloepfer, who stands out for his age.
+Conway is quick to point out that he has spotted young tech talent before. “I invested in Napster when Shawn Fanning and 
+
+
+
+      Sean Parker
+
+
+
+       were 19 years old,” he says. “I worked with Mark Zuckerberg when he was 19 years old. These great founders have an air about them, and Kai completely reflects that.”
+He is correct that the firearms establishment does not share his enthusiasm for smart guns. The National Rifle Association does not officially oppose what it calls “user-authorized technology,” but it would be a stretch to say the group is an advocate. “Failed attempts to develop and market ‘smart guns’ have been going on for years,” says NRA spokeswoman Catherine Mortensen. “NRA does not oppose new technological developments in firearms; however, we are opposed to government mandates that require the use of expensive, unreliable features, such as grips that would read your fingerprints before the gun will fire.”
+Larry Keane, 
+
+
+
+       general counsel for the National Shooting Sports Foundation, a trade group for gun makers, believes the market should decide the fate of smart guns. But the offerings to date have left him unimpressed. “No one has solved the technology challenges to make the smart gun work as reliably as existing technology,” he says. When your iPhone misreads your fingerprint, it’s a momentary setback. Not so with a handgun, Keane says. “If you’re using it for self-defense and it doesn’t work, you’re not inconvenienced. You’re dead.”
+His assessment of smart-gun technology to date is hard to argue with. In 1999, Colt produced a prototype called the Z40, a pistol that could be unlocked and fired only by a user wearing a radio-frequency wristband. But later that year, the
+for the Wall Street Journal, and Colt scrapped the project. Smith & Wesson shut down its smart-gun development after a boycott in 2001. The Armatix iP1, a .22-caliber pistol, came to market in 2014 with a price tag of $1,800, about six times the cost of a comparable “dumb” model. The unlocking process—which involved a wristband and a pin code—took 12 seconds. An NRA publication called the gun “disappointing at best, and alarming at worst.” The model lasted just about a week on shelves after the only two stores willing to stock it received threats.
+These false starts have complicated smart-gun politics. In 2002, New Jersey passed the Childproof Handgun Law, which mandated that all handguns sold in the state be smart guns—once the technology was approved by the state’s attorney general. Gun rights activists, fearing new designs would bring the law into effect, threatened boycotts to discourage research by gun manufacturers. Thus a law intended to promote smart guns became a boogeyman holding them back.
+The cultural divide between Silicon Valley and the gun industry is understandable; a century of engineering separates a handgun from your smartphone. But technology could offer some much-needed common ground on the issue of gun safety. The Smart Tech Challenges Foundation says that improperly secured guns are responsible for about 20,000 youth suicides, unintentional gun injuries and deaths each year—a number that effective technology could reduce. Smart guns could help good gun owners be better gun owners without legal mandates or restrictions on access to firearms. Like seatbelts, which took decades to gain acceptance and dramatically reduce auto deaths, new safety tech will not be adopted overnight. The political and technological challenges are considerable. But adapting biometric technology for firearms isn’t nearly as challenging as, say, making cars that can pilot themselves through a rainstorm. And big leaps in tech don’t usually come from insiders.
+
+the only shooting experience he can recall from his childhood is a few rounds of skeet on a family vacation. Kloepfer grew up building circuit boards and writing software. When he was 11, he made a blimp out of mylar sheets and parts from radio-controlled airplanes—a kind of homemade drone.
+He was a rising sophomore at Boulder’s Fairview High School when, shortly after midnight on July 20, 2012, James Holmes walked into the Century 16 multiplex in Aurora, Colorado, and shot 82 people, killing 12. Aurora is just 35 miles from Boulder, where Kloepfer still lives with his parents.
+The massacre made Kloepfer wonder if guns could be made safer. One month later, he did what any precocious 15-year-old engineer would do: He turned his interest into a science project.
+As he studied mass shootings, he realized that ID tech wouldn’t prevent another Aurora; Holmes, like a majority of mass shooters, had lawfully purchased his arsenal.
+Kloepfer shifted his focus to deaths he could possibly prevent. Of America’s 33,000 annual gun deaths, 62% are suicides; many—particularly among youth—are committed with guns that don’t belong to the victim. Criminals steal about 250,000 guns every year. And at last count, 1.7 million children lived in homes with unlocked, loaded firearms. “We have an equivalent of a mass shooting every day,” Kloepfer says. “It just doesn’t happen in one place.”
+Accidents, he reasoned, are a problem that can be solved with engineering. He kept a 55-page logbook filled with sketches and notes for potential designs. His first model, a stage-prop gun with a fingerprint reader and circuitry taped to its grip, didn’t win a grand prize at his school, but Kloepfer progressed to the regional fair and kept iterating. Officially titled “Biometric Electromechanical Firearm Safety,” the project took over his life. By his estimation, he spent 1,500 hours over 10 months making 140 revisions to his design. In school, while appearing to take notes in class, he was CAD-modeling on his laptop.
+By the time he advanced to the 2013 International Science Fair in Phoenix, Kloepfer had upgraded from the prop gun to 3-D-printed plastic models. His design won him a First Award blue ribbon and tied with a machine that removes weeds from ridges of rice-paddy plots, developed by a 19-year-old from Sri Lanka.
+Kloepfer did not have grand ambitions for his smart gun. “I thought it would get me into a good school,” he says. He planned to spend the $4,000 in prize money on a new bike instead of more research. But that summer someone at
+
+which sponsors the fair, told Kloepfer about the Smart Tech Foundation grants. He applied.
+The foundation wrote almost a year later, awarding him a $50,000 grant and requesting his budget and work plan. Kloepfer, who had never written a business budget before, requested a one-month extension. A startup was born.
+
+, I meet Kloepfer for the second time at Biofire headquarters, a room off his parents’ garage that Kloepfer designed as a workshop. At 19, he’s still not old enough to purchase a pistol under federal law, but for his 18th birthday, his mother bought a Glock 22 and gave it to him, which is perfectly legal. Kloepfer plans for Biofire to eventually design and produce guns from scratch. But his first firing prototype is a modified version of a pistol originally registered to his mom.
+Viewed from its right side, Kloepfer’s prototype looks like any other Glock. But turn the gun over and there, flush with the grip, is the dime-size sensor positioned exactly where the shooter’s middle finger falls. The sensor reads prints. It’s connected to a circuit board and battery, both hidden inside the pistol’s grip. The technology owes a huge debt to smartphones, which made the necessary sensors, processors and high-capacity batteries both accessible and inexpensive. “Every single electrical component we’ve used,” Kloepfer says, “didn’t exist a decade ago.”
+Compared with past smart-gun designs, what Biofire gets right is technology that’s almost invisible to the user; anyone who knows how to fire a handgun and unlock an iPhone needs no special instruction. When you pick up the Biofire gun, it wakes up from a low-power mode and activates the microprocessor and sensor. Processing your print requires roughly a second and a half; Kloepfer says he can get the delay down to less than half a second with more work on the software. Assuming your fingerprint is a match, the circuitry releases an internal trigger lock. As long as your middle finger remains in place, the pistol is ready to fire.
+A protective barrier separates the battery and sensitive electronics from the explosions that take place nearby, and the addition of technology has reduced the Glock’s usual magazine capacity from 15 rounds to nine.
+The tiny “on” light set into the pistol’s grip embodies the disconnect between consumer tech and firearms, the one that Biofire aims to reconcile. On a typical charger, a green light means “on,” while a red light signals that the device is not ready for use. “I mentioned this to a gun-store owner and he looked at me like I just grew another head,” Kloepfer says. In the shooting world, the opposite is true—red means “armed” on a gun’s safety mechanism. The light on Biofire’s prototype turns white when the gun is charged and ready to be unlocked, and blue while the sensor is reading a fingerprint. A red light means the lock is off and Kloepfer’s prototype is ready to fire—in theory, at least.
+
+on worst-case scenarios, in which complex tech could fail at the worst possible moment. Kloepfer knows this.
+“Very few people are super-receptive at the beginning,” he says.
+He’s prepared for my barrage of what-ifs.
+What if your finger is wet? The sensor can’t read a wet fingerprint, as Kloepfer demonstrates by dipping his finger in water. But after running his finger across the fabric of his pants, Kloepfer presses it to the sensor and the light goes from white to blue to red.
+What if you’re wearing gloves, or your hands are dirty? The first Biofire model is designed for home users, who don’t often encounter these issues. Radio technology—which usually involves an identifying ring or bracelet—is a better fit for hunters and law enforcement, Kloepfer says.
+What if your spouse needs to fire the gun? The sensor can remember up to 10 fingerprints if its owner adds them by authenticating with his or her own fingerprint, which is also required to reset the gun.
+What about battery life? A full charge, which happens via a USB plug in the grip, takes about an hour and will last more than a year. And a sensor ensures that the gun only sips battery until it’s picked up. Three lights on the grip indicate the battery level.
+What if the gun is hacked—or disabled by the government? There’s no way to access the tech in Kloepfer’s gun without taking it apart. The USB plug is just for charging; it doesn’t connect to the internet or even a smartphone app and can’t be controlled remotely. The gun is a “single-purpose application,” he says—more like a toaster than a smartphone—that makes it much, much more difficult to hack or for the government to control.
+“We are not going to sell a product that is not as reliable as a normal firearm,” Kloepfer says.
+
+Biofire’s technology is almost invisible to the user; anyone who knows how to fire a handgun and unlock an iPhone needs no special instruction.
+
+
+a science-fair project, Kloepfer’s original design was unencumbered by manufacturing and political concerns. To make a prototype that works in theory requires ingenuity and technical expertise. But turning that prototype into a smart gun with the reliability of a standard firearm requires money—$1 million, in Kloepfer’s estimation. When I visit his workshop in August, Kloepfer has raised $125,000, which includes Conway’s grant and funds from an Indiegogo campaign. He has two investor demonstrations scheduled in the days after my visit and needs the money to move forward. The stakes of these demonstrations are high for any startup—investors are looking for reasons not to invest—but for Kloepfer, they are significantly higher. The spectacular failure of Colt’s smart gun was enough to taint the whole idea for nearly two decades. Kloepfer needs his prototype to—literally—go off without a hitch, but he has never actually fired the gun before my visit.
+For the smart gun’s first demo, he chooses Shoot Indoors, a range just outside of Boulder. Our start time is 10 p.m. to accommodate a bowling-pin shooting tournament, which is exactly what it sounds like.
+Kloepfer, in true freshman-year form, is cutting it close. That morning he was still putting the finishing touches on the fingerprint-reading algorithm. I meet him at Shoot Indoors, where Kloepfer shows his gun to the manager, who seems impressed. The pistol, open at the base of the grip, looks very much like a prototype. Kloepfer hasn’t made his own base shield yet, but that’s done with more resources, he says.
+We’re about to step into the soundproof shooting range when Kloepfer approaches me with a panicked expression on face. “We have a problem,” he says. While disassembling his prototype to show me its circuit boards, he accidentally knocked some wires loose. Kloepfer is a remarkably poised teenager but seems to be regretting his decision to invite a journalist and a full video team to his first live demonstration. He needs the soldering iron in his workshop for the technology to have any chance.
+He’s sweating when he returns to the range an hour later. After running through some ground rules, Kloepfer, stone-faced, hands me the gun and tells me to pull the trigger with the barrel pointing safely downrange. The trigger is stiff, locked. It won’t fire—nor should it: My fingerprint isn’t registered with the gun.
+I hand the gun to Kloepfer, who wraps his hands around the grip and touches his middle finger to the sensor. A second or two later, he fires the gun. A smile flashes across his face. “That was horrible,” he whispers conspiratorially, nodding to where his first shot hit the target.
+Kloepfer resets the gun—erasing his fingerprint from its memory—by using a pin to press a tiny button hidden inside the handle and scanning his finger to confirm. I put my fingerprint on the reader, a light blinks to say my finger has been registered.
+Then I lean forward, place my middle finger on the sensor and, after about a second, watch the light go from white to red. I pull the trigger and pop off a round.
+“Perfect,” says Kloepfer. He’s beaming.
+
+his prototype to Conway, who invests an additional $50,000 in Biofire and promises to help raise more from Silicon Valley. “He is on plan and has already shown us a working prototype of his invention,” Conway says. “This is a great inventor who is going through all the steps. This is possible. It just has to be mass-produced.”
+Whether the market is ready for Biofire is another matter. I spoke to marksman Chris Cheng, who won Season 4 of the TV show “Top Shot.” Cheng is also a longtime San Francisco resident and tech-industry executive; if any gun guy could appreciate smart guns, I figured, it was him. Cheng says he wouldn’t buy a smart gun himself because Armatix and the New Jersey mandate gave the whole genre a bad rap. “The concept of a smart gun is untested and unproven. Consumers need to hear positive reinforcement or endorsements—some established entity saying the smart gun is a good thing,” he says.
+The earliest smart guns were certainly duds, but five years is an eternity in tech. New technologies, like tablet computers, often fail the first time around.
+Three years ago, a survey funded by the gun industry found that just 14% of gun owners would consider buying a smart gun. Yet technology has a funny way of shifting culture—fast. A new study, published earlier this year by the Johns Hopkins Bloomberg School of Public Health, found support for buying a smart gun in 4 out of 10 gun owners.
+Kloepfer says the market for his invention is a generation of owners who look a lot like him. They’ve grown up in a world where technology and gun violence are both omnipresent. When they shop for a gun, “they’re looking for the same things they look for in a smartphone,” Kloepfer says. He expects the premium for his product to be around $250, and he believes his generation of gun owners won’t mind paying extra for a weapon with a lock whose key is always on you.
+Big gun makers aren’t interested in messing with success. “This is a world where a Model T is competitive with a Tesla,” says Kloepfer.
+But nobody has made the gun world’s Tesla, at least not yet. For the mindset that requires, a teenager might just be the man for the job.
+
+********************************************************************************
+
+https://www.wsj.com/articles/volvo-s90-luxury-in-the-scandinavian-sense-1476993705
+Rumble Seat/By   Dan Neil    Dan Neil  The Wall Street Journal  Biography Dan Neil  @Danneilwsj  Dan.Neil@wsj.com/Updated Oct. 23, 2016 6:20 p.m. ET/Life
+            
+
+            
+              Cars
+            
+
+              
+                
+                    Rumble Seat
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  2017 Volvo S90 Review: Luxury, In the Scandinavian Sense
+
+    Does the Volvo S90 edge out other luxury sedans from Mercedes-Benz, Audi and BMW? Dan Neil takes one for a test drive
+
+My house is a bit of a curiosity in the neighborhood. When I built it I was obsessed with woodworking, so I clad the thing in 3½-inch tongue-and-groove cypress boards, sealed on both sides with boat varnish, and hand-nailed on stringers with 20 boxes of spiral shank. The neighbors call it “The Sauna.”
+The house betrays my design tastes, which run toward the Scandinavian. Consider that a bias where Swedish-made Volvos are concerned, and Scandinavians in towels, for that matter.
+This siding also commits me to regular cleaning and re-staining in the fall. So when I first sat in the Volvo S90 T6 Inscription sedan ($66,105) last week, all I really wanted was to slap a coat of marine finish on the gorgeous, linear walnut-wood trim on the center console, dash and doors. I mean, what if somebody left the moonroof open?
+Living, breathing, ready-to-lease consumers looking for a premium/luxury sedan, this is what you want to know: Yes, you should definitely cross-shop the S90 with the relevant Mercedes-Benz (the S90 is slightly bigger than E-Class), or Audi (A6), or
+(5 Series). When you do, you’ll find that feature-for-feature, number-for-number, the S90 makes a strong economic case.
+The S90 is particularly tech-forward this season when it comes to driving assistance and safety. Under the rubric of IntelliSafe, Volvo offers standard adaptive cruise control and “Pilot Assist,” up to Level II autonomy: collision-avoiding smart braking; assisted lane-keeping; lane-departure warning. If all that fails and Sven falls asleep coming home from the Moose Lodge, there is the delightfully named Run-off Road Mitigation and Protection. At that point Sven will be grateful to find himself held securely in the S90’s resilient steel unibody and all those conveniently exploding air bags. Speaking of moose, the car’s City Safety system will avoid them and other large animals, even at night, thanks to new forward-sensor array.
+So, yes, the Swede’s a contender. That said, the S90 is very much its own flavor of personal luxury, and whatever that flavor is, it’s low-carb. For example, the S90 wades in against the luxury competitors armed only with a 2.0-liter, four-cylinder engine. Yes, most premium luxury companies now sell cars with nose-bleeding turbo fours, but they also offer the upsell of more powerful V6s and V8s.
+Volvo’s U.S. customers will choose between a turbocharged four in the T5 (250 hp); or the same engine with an added supercharger, in the T6. This dull-red windmill produces 316 hp and 295 pound-feet between 2,200-5,400 rpm. Buttoned to an eight-speed automatic transmission with nothing better to do than to sort gears, the 4,080-pound T6 moves with gliding dispatch: 0-60 mph in 5.7 seconds, very much in the hunt among personal luxury sedans.
+Granted, it doesn’t sound particularly effortless. At full throttle load, the furious atmospherics around the cylinders moan like ghosts sitting in with the tenor saxophones. But you have to listen hard. Engine noise and vibration are highly damped thanks to some very smart compensating engine mounts. Volvo now makes sewing machines.
+Cruising along at interstate speeds of 85 or 90 mph, with a sudden need to pass, it’s easier to find the bottom of the 2.0-liter’s well. You’re not igniting anybody’s Autobahn with the S90. And that’s OK. This series of cars is based on the sufficiency, the appropriateness, of the turbo’ed four. The hot-rodded version, due next year, will be a hybrid: the T8, with the super-turbo engine assisted by a rear-mounted electric motor, for hybrid all-wheel drive, EV-mode city driving and system output of 400 hp.
+Don’t let your eyes glaze over here: The S90 is second of four E-segment (big) vehicles built on Volvo’s new Scalable Product Architecture (SPA), part of an $11 billion company reboot funded by private equity raised by Volvo’s Chinese owner, Geely. The first one we saw was the XC90, a big blond elephant of an SUV, and all of its Nordic vibe, its furniture-fashionista palette of materials, its sweetness of demeanor, has been squeezed into the sedan-shaped bottle.
+
+The Volvo S90 is very much its own flavor of personal luxury, and whatever that flavor is, it’s low-carb
+
+Yet to come to our shores are two wagon variants: the V90 and the V90 Cross Country, the latter with raised, leggier suspension like the old Audi Allroad. These are the vehicles that guys like me, with houses that look like overturned vintage rowboats, are panting for.
+Not to interrupt myself, but: Because wagons are unquestionably cooler, that’s why. SUVs are bourgeois; wagons are bohemian. SUVs are classic rock; wagons are alt-bluegrass. SUVs are football; wagons are soccer, unless you are European, then it’s football and a wagon is called an estate. Sigh.
+The S90 has the toughest assignment of any of these platform variants: to crack the code for a personal luxury sedan, especially one with the Volvo emblem in its teeth like a rose. For one thing, the market for luxury sedans is folding up like tents chasing the circus train.
+Here Volvo’s cost-saving SPA anatomy interferes a bit with the S90’s destiny. Almost every dimension of SPA is scalable except the distance between the front axle line and engine-compartment firewall, roughly, the axle-to-dash distance.
+What’s that mean? It means the S90 cannot have a nice long hood, with short overhangs. Vehicles like the front-drive biased S90, with its engine mounted sideways under the hood, are always going to have at least half the engine hanging in front of the axle, which makes cars look, well, full of nose.
+In observance of a century of automotive design, longer hoods and short front overhangs have always signaled power and luxury (ask yourself why a Tesla Model S has a long hood). The historical posture of prestige is cab-rearward, with the greenhouse swept back as if by the force of nature, driven by the rear wheels.
+
+And while Volvo’s design team pulled the base of the A-pillars as far forward as feasible to lend the silhouette some heat, the S90’s at-a-glance does not kindle mad want in me.
+Which is a long way to say it looks like a Ford Fusion.
+The Swedes value an inner life anyway. Much that is winning about the S90 isn’t conveyed through online search engines, like the lightwood wainscoting or the supportive, office-contemporary seats of glove-soft double-stitched leather. I’m a huge fan of the Sensus tablet-oriented central touch-screen display, the graphics for which—the typography, the GUIs—were created in-house, by Volvo’s own eager young minds. It’s beautiful.
+It seems like a small thing, but many would-be premium-car experiences are trashed by their underbaked, out-of-date displays.
+and Lexus, to name names.
+There’s another way to read the S90’s staid exterior. While last year’s launch of the SUV signaled the rebirth of Volvo in the U.S., in China the big sedan represents the marquee event. The S90’s design sobriety—reflected by the very un-coupe-like rear window and defined trunk lid—reads as motoring authority in China. The bold spears of chrome and mirrored rictus read as badges or rank, or face.
+The Chinese market will see an extended-wheelbase version of the S90, built in-country, and I’d actually like to see one too.
+Appeared in the Oct. 22, 2016, print edition as 'Volvo S90: Luxury, In the Scandinavian Sense.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/consumer-reports-yanks-honda-civic-recommendation-on-poor-reliability-1477331492
+/By   Christina Rogers/Oct. 24, 2016 1:51 p.m. ET/Business
+            
+
+
+
+
+      
+
+    
+
+
+  
+
+  Consumer Reports Yanks Honda Civic Recommendation on Poor Reliability 
+
+    Another ding to Japanese car maker struggling to maintain its stellar quality reputation
+
+Consumer Reports has pulled its recommendation for the Honda Civic after owners of the popular compact car reported many reliability issues, representing yet another ding to the Japanese car maker which in recent years has struggled to maintain its stellar quality reputation.
+The influential product-review magazine pointed to several problems on the redesigned Civic—ranging from electronics failures to entire dashboard consoles needing replacement—as reasons for withdrawing its coveted stamp of approval for the second time in five years.
+Jake Fisher, 
+
+
+
+       head of auto testing for Consumer Reports, said this is the first time in recent memory the magazine has yanked its recommendation of the Civic for poor reliability scores, a surprise given Honda’s long record for finishing near the top of the magazine’s quality rankings.
+Honda slipped two notches to no. 10 in Consumer Reports’ latest reliability study released on Monday, while rival
+
+held steady with its
+topping the list of most reliable brands.
+Honda, in a statement, said it values both customer and third-party feedback and will continue “working diligently to enhance the usability and functionality of these in-demand technologies in our unrelenting effort to create new value for our customers.”
+
+
+Buick brand jumped four spots to no. 3 in the latest rankings, making it the first domestic brand in more than three decades to break into the top three for reliability.
+
+luxury Infiniti brand climbed 16 notches to land in the top 10.
+“We see across the board as auto makers introduce complex electronic systems they’re having more problems,” Mr. Fisher said.
+Honda made extensive design changes when it overhauled the Civic for the 2016 model year, increasing the chances of problems occurring, he added.
+Whereas Honda once took a more conservative approach to model redesigns—phasing in major changes over several years rather than all at once—it has become more aggressive in recent years in moving quickly to introduce new technology, Mr. Fisher said.
+In 2011, Consumer Reports dropped its recommendation for the 2012 Honda Civic, citing “lower interior quality” and “a choppy ride, long-stopping distances and pronounced road noise.”
+Honda has also encountered other quality woes in recent years
+
+air bags and multiple recalls on its subcompact Fit.
+GM continues to improve in Consumer Reports’ reliability rankings with its Chevrolet brand climbing five spots to no. 15. The Detroit car maker, however, continues to struggle with its large trucks and sport-utility vehicles, Mr. Fisher said, with the Cadillac Escalade ranking among the least reliable vehicles in this year’s study.
+
+
+fell one spot to no. 18, mostly because of problems with the dual-clutch transmissions in the Focus and Fiesta small-car models, while four brands owned by
+NV—Ram, Fiat, Chrysler and Dodge—ranked at the bottom of the pack in reliability.
+Consumer Reports restored its recommendation for
+
+Model S sedan after yanking the accolade last year due problems, ranging from battery charging issues to leaky sunroofs.
+Tesla’s overall score, however, landed it fifth from the bottom as continued reliability problems with its Model X sport-utility vehicle continue to dog its quality performance.
+
+Christina Rogers at
+
+********************************************************************************
+
+https://www.wsj.com/articles/startup-comma-ai-ditches-semiautonomous-car-kit-after-regulatory-scrutiny-1477683734
+Technology/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Oct. 28, 2016 3:42 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Startup Comma.ai Ditches Driver-Assistance Kit After Regulatory Scrutiny 
+
+    Company had promised to sell system by year end for retail price of $999
+
+A high-profile Silicon Valley startup has abandoned its plan to market equipment that car owners could install in some vehicles to take over driving, after U.S. regulators began asking questions about the product.
+Comma.ai disclosed on Friday on
+that it had canceled the system, called comma one, which it had promised to sell by year end for a retail price of $999.
+The company posted a letter from the National Highway Traffic Safety Administration dated Thursday that sought a detailed description of how the advanced driver-assistance system would work and plans for ensuring safe operation.
+“We are concerned that your product would put the safety of your customers and other road users at risk. We strongly encourage you to delay selling or deploying your product on the public roadways unless and until you can ensure it is safe,” Paul Hemmersbaugh, NHTSA’s chief lawyer, wrote in the letter addressed to Comma.ai founder and Chief Executive George Hotz.
+The company said on Twitter: “Would much rather spend my life building amazing tech than dealing with regulators and lawyers. It isn’t worth it.” The message was signed “GH.”
+Mr. Hotz didn’t respond to a request for comment.
+The automotive industry’s regulator has been flexing its muscles on the issue following the fatal crash in May of a
+
+vehicle. The driver, who
+, was the first fatality involving the system, according to Tesla.
+Mr. Hotz, who
+for the being first to hack an iPhone, roiled the automotive industry late last year with the revelation in Bloomberg Businessweek that he had outfitted his 2016 Acura ILX with a system similar to Tesla’s Autopilot. The California Department of Motor Vehicles warned him in January against using self-driving technology on the road without a permit from the state, saying he risked violating the law.
+In April, the venture-capital firm Andreessen Horowitz announced that it led a $3.1 million investment in Mr. Hotz’s company.
+At a technology conference in September, Mr. Hotz claimed that his aftermarket kit would be “all you need to drive a car.”
+However, last week he backed away from that position in a blog post on Comma.ai’s website. The post announced that, in fact, the company’s first product would be more of an automatic lane-keeping assistant than a fully self-driving system.
+“The comma one will not turn your car into an autonomous vehicle,” he wrote. “It is an advanced driver assistance system.”
+Automotive and tech companies are racing to develop technology that would enable cars to drive themselves under all road conditions. Tesla last week announced that all its vehicles henceforth
+with the addition of software, which is under development and remains to be validated and approved by regulators.
+
+earlier this year
+—a startup that, like Comma.ai, is developing a system to add self-driving capability to a car already on the market.
+NHTSA and the Obama administration are trying to encourage the rapid development of autonomous car technology while also ensuring public safety. Regulators in September released a new policy to guide development of such technology. Under the new policy, companies must submit 15-point safety assessments outlining how their cars are tested and their safeguards.
+On Friday, Mr. Hotz told his Twitter followers that he would explore other products and markets. “The NHTSA never asked for a test drive,” he lamented.
+
+Tim Higgins at
+
+Appeared in the Oct. 29, 2016, print edition as 'Startup Drops Plan For Self-Driving Kits.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/panasonic-a-safer-bet-on-tesla-than-tesla-itself-1477992379
+/By   Jacky Wong    Jacky Wong  The Wall Street Journal  Biography Jacky Wong  @jackycwong  jacky.wong@wsj.com/Nov. 1, 2016 5:26 a.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Panasonic: A Safer Bet on Tesla Than Tesla Itself 
+
+    A plunge in Panasonic’s shares offers a safer entry point for exposure to electric cars
+
+In Tesla’s case, it may be better to own the battery than the electric car.
+Japanese
+
+is the sole supplier of batteries to Tesla’s Model S, Model X and Model 3. Its shares plunged nearly 7% Tuesday after it slashed its adjusted operating profit forecast for this fiscal year by 17%. But the reasons for the fall may just be entry points for the stock.
+The main blame for cutting the operating profit forecast was a
+, though it is hard to see how investors hadn’t seen that one coming. The other reason: an earlier-than-expected investment in the so-called
+. Panasonic spent ¥15 billion ($143 million) on the factory, which sits on more than 3,000 acres in the Nevada desert, in the six months ended September. It expects to sink in more in the second half.
+Though the cash outlay hurts Panasonic’s earnings in the short term, it may not be all bad. While ultimately it depends on whether
+, is timely in
+on its mainstream Model 3 sedan, the need to bring forward the investment schedule may mean returns could come earlier than expected, too. The company raised ¥400 billion yen through issuing bonds with a maximum coupon of a mere 0.47% in September, so funding is both secured and inexpensive.
+Anyway, the ramping up of the investments has shaved only 3% off Panasonic’s forecast for adjusted operating profit. The bulk of the reduction comes from the
+, which has appreciated 15% versus the dollar over the past year. Panasonic reports its results in yen, but a big part of its sales is in other currencies, so a rising yen hurts its earnings. Worse still, its earnings have become more sensitive to a strengthening yen as it relies more on exports.
+Stripping away the currency effects,
+are, in fact, pretty stable, and the stock offers a sustainable 2% dividend yield. Panasonic trades at 12 times next fiscal year’s expected earnings after the selloff, according to S&P Global Market Intelligence. Analysts may follow the company to adjust down their forecasts, but that is still a safer and cheaper bet on an electric-car future than Tesla itself.
+
+********************************************************************************
+
+https://www.wsj.com/articles/sec-probes-whether-companies-are-misusing-adjusted-earnings-metrics-1477577108
+Financial Regulation/By   Michael Rapoport    Michael Rapoport  The Wall Street Journal  Biography Michael Rapoport  @rapoportwsj  michael.rapoport.7  michael.rapoport@wsj.com/Updated Oct. 27, 2016 10:23 a.m. ET/Markets
+            
+
+
+              
+                
+                    Financial Regulation
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  SEC Probes Whether Companies Are Misusing Adjusted Earnings Metrics
+
+    SEC’s inquiries focusing on if companies use adjusted earnings too prominently
+
+The Securities and Exchange Commission’s enforcement division has informed some companies in recent weeks that it is examining their use of adjusted earnings measures, according to people familiar with the matter.
+The inquiries are the latest in a series of steps by the agency this year to
+, which critics contend allow companies to flatter their financial performance. The SEC’s focus on this issue has occurred as the difference between these adjusted measures and results under generally accepted accounting principles showed their widest difference last year since 2008.
+A primary focus of the SEC’s latest inquiries is whether companies have featured customized measures too prominently in earnings releases and other disclosures, the people familiar with the matter said. It isn’t known how many companies the SEC is targeting, or when or whether it might take any action.
+“The SEC has made it clear it is serious about trying to put at least some of the non-GAAP genie back in the bottle,” said David Trainer, chief executives of New Constructs, an investment-research firm. “Non-GAAP” refers to results provided by companies that don’t conform to generally accepted accounting principles.
+The SEC declined to comment on the latest inquiries.
+Companies that use non-GAAP metrics contend they provide a truer picture of performance, often by stripping out noncash and nonrecurring items. But their growing prominence has stoked memories of similar usage during the dot-com bubble.
+In May, the commission
+on non-GAAP use, and there have been a series of sometimes-pointed comment letters from the agency to companies about the practice.
+In the May guidance, the SEC detailed some ways it might find use of non-GAAP numbers objectionable—tailoring numbers to remove costs that are important to measuring the company’s performance, for instance, or spotlighting non-GAAP measures so much they obscure the official GAAP numbers.
+The commission suggested companies should use their next earnings reports to “self-correct” any problems, and many did so: More than a quarter of S&P 500 companies reporting earnings in July and August shifted to giving GAAP numbers the greatest prominence in their earnings releases instead of non-GAAP numbers,
+from consulting firm Audit Analytics conducted for The Wall Street Journal.
+That hasn’t completely alleviated the SEC’s concerns, however. Since the May guidance, the SEC’s corporation-finance division has sent more than 100 comment letters to companies questioning whether their non-GAAP disclosures comply with it.
+The latest SEC enforcement inquiries appear to be separate from the May guidance because they pertain to companies’ disclosures from before it was issued, one of the people with knowledge of the situation said. “I think the enforcement people think (the companies) have violated longstanding rules,” this person said.
+Even after the May guidance, some companies kept using non-GAAP metrics in ways the SEC had cautioned against, though some have since said they plan to change. “There are some judgment calls that need to be made,” said Matthew E. Kaplan, a securities attorney at law firm Debevoise & Plimpton.
+Electric-car maker
+
+for instance, reported adjusted non-GAAP revenue of $1.6 billion when it
+in August. In doing so, it added back nearly $300 million in deferred revenue the company collects up front but doesn’t book until future quarters. The SEC said specifically in its May guidance that companies shouldn’t report non-GAAP revenue that way.
+Tesla has since said it would stop reporting non-GAAP revenue in that fashion; it didn’t include non-GAAP revenues in its
+Wednesday. A Tesla spokeswoman said the company had no further comment.
+Another example: Medical-device maker
+
+touted its second-quarter non-GAAP earnings of 9 cents a share in the headline of
+, and didn’t disclose until much further down in the release that its GAAP net income was only 3 cents a share.
+The SEC had said in its guidance that if companies use non-GAAP measures in earnings-release headlines, they must include the comparable GAAP measure as well. 
+
+
+
+      Hugo Goldman, 
+
+
+
+       Syneron’s chief financial officer, said the company wasn’t under SEC investigation and was “changing the format of our non-GAAP reporting to comply with SEC rules and the recent guidance.”
+
+Michael Rapoport at
+
+Appeared in the Oct. 28, 2016, print edition as 'SEC Studies Profit Metrics.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-sets-price-for-self-driving-feature-lays-groundwork-for-ride-hailing-service-1476993474
+Autos/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Updated Oct. 20, 2016 9:50 p.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Sets Price for Self-Driving Feature, Lays Groundwork for Ride-Hailing Service 
+
+    Tesla sets retail price of $8,000 for self-driving feature
+
+said it plans to charge buyers of its newest cars $8,000 to activate autonomous-driving technology, hinting those who do would be able to offset the cost through a ride-hailing network similar to Uber Technologies Inc. and Lyft Inc.
+The $8,000 price covers the software to enable a new hardware option, called Full Self-Driving Capability, which will cost $10,000 if purchased separately from the vehicle.
+The autonomous-driving software still needs to be validated, and regulators must approve it, the company said.
+Several companies are racing to develop fully self-driving cars, and some are betting that ride-hailing services will be the first commercial use of autonomous vehicles. Tesla’s price for autonomous driving activation sets a benchmark for car manufacturers that aim to market self-driving cars including
+
+
+,
+
+
+and General Motors Co. Alphabet Inc.’s Google and Uber are also testing self-driving cars on public roads.
+“This is the first time somebody has put a price—a consumer price—toward what that feature set might cost,” 
+
+
+
+      Stephanie Brinley, 
+
+
+
+       an industry analyst with
+
+said. “It sets a level of expectations.”
+The description of Full Self-Driving Capability confirms Tesla is planning to launch a ride-sharing business. Its website noted that “using a self-driving Tesla for car sharing or ride hailing for friends and family is fine, but doing so for revenue purposes will only be permissible on the Tesla Network, details of which will be released next year.”
+Tesla didn't say how it plans to limit its self-driving vehicles to its own ride-hailing network. However, its statement to potential customers highlights a shift in the ride-share industry as Uber seeks to replace car ownership with on-demand transportation, and it underscores the potential benefit in a ride-hail company developing its own autonomous cars.
+“Any smart car manufacturer sees that as a possibility and is also thinking about their own on-demand, autonomous transportation network,” said Arun Sundararajan, a professor at New York University who has written about the sharing economy. “In the early stages, allowing your cars onto someone else’s network reduces your ability to use your service.”
+Tesla buyers who use the network “could potentially pay back your lease or the cost of the car by doing so,” said 
+
+
+
+      Tasha Keeney, 
+
+
+
+       an equity analyst with ARK Investment Management LLC.
+Customers who don’t want full self-driving capability could spend $5,000 for an enhanced version of the company’s Autopilot semiautonomous system that will also use the new hardware.
+Chief Executive Officer 
+
+
+
+      Elon Musk
+
+
+
+       said on Wednesday he expects to deliver within two to three months software running on the new hardware that would be equivalent to Autopilot. After that, the software would be updated gradually to full autonomy. He aims to demonstrate a fully autonomous trip across the country by the end of 2017, he said.
+
+Economic utility of a true self-driving car is likely to be several times that of a car which is not.
+
+The hardware that will enable Tesla cars to drive themselves includes front-facing radar, 12 sonar sensors, and eight cameras. The previous semiautonomous hardware included one camera. The additional cameras give the vehicle 360-degree visibility of objects up to 250 meters away.
+Data collected by the cameras and other sensors is processed by onboard computer that has 40 times more power than the previous generation, according to Tesla. Chip maker
+
+is providing its Titan graphics processing unit to help power the new system.
+Mr. Musk in July laid out his vision of self-driving cars forming the basis of a ride-hailing network as part of the company’s long-term plan in July.
+“Since most cars are only in use by their owner for 5% to 10% of the day, the fundamental economic utility of a true self-driving car is likely to be several times that of a car which is not,” Mr. Musk wrote in July.
+Appeared in the Oct. 21, 2016, print edition as 'Tesla Targets Car-Sharing.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-ceo-elon-musk-aims-to-make-solar-panels-as-appealing-as-electric-cars-1477705988
+Technology/By   Cassandra Sweet and   Cassandra Sweet  The Wall Street Journal  Biography Cassandra Sweet  @CassandraSweet  Google+  Cassandra.Sweet@wsj.com     Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Updated Oct. 28, 2016 10:50 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla CEO Elon Musk Aims to Make Solar Panels as Appealing as Electric Cars
+
+    Mr. Musk lays out vision of how his proposed merger of Tesla Motors, SolarCity would work
+
+Elon Musk wants to make solar-roof panels as sexy as his electric luxury cars.
+Mr. Musk, 
+
+
+
+       who is chairman of both
+
+
+and
+
+, laid out in broad strokes his vision for how
+would result in an integrated system of solar panels, wall-mounted batteries and electric cars.
+“People always think of Tesla as an electric-car company, but really the whole point of Tesla was to accelerate the advent of sustainable energy,” Mr. Musk said on a stage at Universal Studios in Los Angeles surrounded by houses outfitted with glass solar tiles roughly the size and shape of roofing shingles.
+“The goal is…to make solar roofs that look better than a normal roof, generate electricity, last longer, have better insulation and an installed cost that is less than a normal roof plus the cost of electricity,” he said.
+The audience greeted his words with cheers of encouragement, including an attendee who yelled, “Save us, Elon!”
+Consumers equipped with the products of the combined companies could generate enough clean energy to help reduce global greenhouse gases, he said, and score points with neighbors.
+“The key is really to make solar something desirable where if you install a solar roof on your house, you’re really proud, you want to put it on the most prominent part of the house, you want to call your neighbors over and say, ‘Check out the sweet roof,’” Mr. Musk said.
+The new product comes as Mr. Musk works to persuade shareholders to approve Tesla’s proposed $2.2 billion acquisition of SolarCity.
+He is expected to disclose his expectations for the combined company’s financials on Tuesday.
+Unlike conventional solar panels, in which photovoltaic cells are assembled into a rectangular glass frame that is installed onto the roof of a building, Tesla and SolarCity have developed glass roofing tiles that are embedded with the devices that convert sunlight into electricity.
+SolarCity, which is the largest U.S. home-solar-panel installer, would likely target the products at homeowners. Mr. Musk didn’t provide details as to how, exactly, each company would contribute to the venture.
+Tesla plans to make four different glass roof tiles: an American-style textured glass tile; another that resembles a French slate roof; a third that has a smooth, contemporary look; and a Tuscan tile that resembles Italian terra-cotta roofing materials.
+SolarCity has said it plans to start making solar products next summer at a factory in Buffalo, N.Y. Mr. Musk didn’t say how much the solar tiles would cost.
+Mr. Musk said Tesla’s newest generation home battery, called the Powerwall 2, would cost $5,500, and could store and provide 14 kilowatt-hours of electricity, enough to power a four-bedroom home for a day. The earlier model had about half that capacity.
+
+The key is really to make solar something desirable where if you install a solar roof on your house...you want to call your neighbors over and say, “Check out the sweet roof.”
+
+Tesla and SolarCity are unprofitable, and SolarCity is low on cash and in a different industry, which has led some analysts and investors to question the combination. Mr. Musk, however, has pitched the merger as
+to build a company that makes clean transportation and energy products aimed at helping the world transition to a low-carbon economy. Shareholders on both sides of the transaction are scheduled to vote on the merger on Nov. 17.
+
+on Wednesday, helped by record auto sales and efforts to make its operations more cost-effective. Mr. Musk said
+and that he could bring to market the Model 3 midprice electric car next year without raising additional funds, though he suggested it might be prudent to do so. He is depending upon demand for the $35,000 sedan to help boost production to 500,000 vehicles in 2018 from about 50,000 last year, generating cash to help fuel his ambition to promote electricity over fossil fuels.
+Mr. Musk has been building a case for the merger as part of his long-term vision for Tesla. He aims to transform the 13-year-old company from a niche maker of luxury cars into a vertically integrated transportation company that helps customers generate solar power, store it and use it to fuel vehicles that eventually will drive themselves—and
+.
+
+It’s hard enough to be a successful auto company without commingling the risks related to solar-panel adoption simultaneously.
+
+SolarCity, for its part, sells solar panels primarily to homeowners, although it also markets to commercial property owners. In addition to the panels, the San Mateo, Calif., company sells and installs batteries, made by Tesla, that connect to the panels as a way to store excess power at homes and office buildings.
+Tesla sells its stationary energy-storage batteries to other installers too, for an array of applications.
+The companies plan to manufacture solar panels in
+. New York state has spent about $480 million to construct the facility and another $120 million on manufacturing equipment, said a spokesman at Empire State Development, the state agency overseeing the project.
+SolarCity, in return for government assistance, has promised to spend $5 billion in New York over 10 years and create 500 jobs in Buffalo, plus thousands of positions elsewhere in the state.
+Tesla has agreed with
+
+to make its own panels at the factory, which SolarCity would then install on the roofs of homes and possibly commercial buildings.
+Some analysts are skeptical that Tesla and SolarCity can kick-start a new business for the solar-roofing product that would significantly boost revenue.
+“It’s hard enough to be a successful auto company without commingling the risks related to solar-panel adoption simultaneously,” said 
+
+
+
+      Jamie Albertine, 
+
+
+
+       an analyst at Consumer Edge Research LLC.
+The combined Tesla-SolarCity would face a slowing consumer market for solar panels, as well as falling prices.
+U.S. residential solar panel installations are likely to grow 23% this year and 17% to 18% in 2017, according to forecasts by clean-energy research firm GTM Research. That compares to 66% growth in 2015 over the previous year. The growth rate is slowing as the market matures in California, where about half the nation’s home panels are installed, and installers are finding it more expensive to reach the next wave of homeowners, said Shayle Kann, GTM’s vice president of research.
+“This is a market that has historically, through 2015, been growing at more than 50% a year, and it is not doing that this year and won’t do that anymore,” he said. “It’s reverting back to more incremental, but hopefully sustainable, growth.”
+Wholesale prices for high-quality Chinese panels have fallen to an average of less than 40 cents a watt, from 55 cents a watt earlier this year, according to analysts at
+
+.
+Cash-strapped SolarCity has said
+and shore up its balance sheet. The company spent $751 million in 2015 on sales, administrative and research costs, 88% more than its annual revenue of $400 million and the $399 million it spent the previous year. This year through June, the company spent $438 million, 42% more than its revenue of $308 million. The company had $146 million in cash, as of June 30, compared with $421 million of cash it had a year earlier.
+SolarCity raised $305 million in September through a cash equity transaction with Quantum Strategic Partners Ltd., the hedge fund of billionaire investor 
+
+
+
+      George Soros.
+
+
+
+       It sold $100 million of bonds last August to Mr. Musk, SolarCity Chief Executive 
+
+
+
+      Lyndon Rive
+
+
+
+       and SolarCity Chief Technology Officer 
+
+
+
+      Peter Rive.
+
+Cassandra Sweet at
+and Tim Higgins at
+
+Appeared in the Oct. 31, 2016, print edition as 'Tesla’s Chief Offers Merger Vision.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/todays-top-supply-chain-and-logistics-news-from-wsj-1477564987
+/By   Paul Page    Paul Page  The Wall Street Journal  Biography Paul Page  @PaulPage  paul.page@wsj.com/Oct. 27, 2016 6:43 a.m. ET/Business
+            
+
+            
+              Logistics Report
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Today’s Top Supply Chain and Logistics News From WSJ
+
+    Delivering up-to-the minute news, analysis, interviews and explanatory journalism on logistics, supply-chain management, e-commerce and more
+
+With one click,
+.
+
+. 
+
+
+
+      Jorge L. Quijano, 
+
+
+
+       the authority’s chief executive, tells the WSJ’s Costas Paris
+as the shipping industry emerges from one of its deepest downturns ever. The canal is in position to gain after its $5.4 billion expansion gave Pamama the ability to handle far larger container ships. It also prompted more direct competition with the Suez Canal, which is offering toll discounts to carriers for advance bookings. Mr. Quijano says he’s not interested in matching that proposal, and not concerned that the flurry of populist anger over trade during the U.S. presidential campaign will dim growth prospects. Once the dust settles, he says, “we expect consumers will start buying again.”
+
+. A pair of deals among mid-tier freight services providers will change ownership at those operations,
+. That’s a sharp change from 2015, WSJ Logistics Report writes, when a spate of mergers and acquisitions consolidated the list of players at the top. M&A has been quieter this year, with companies scrambling in a tough freight market, and the deals announced this week apparently took several months to iron out. In one, freight forwarder Pilot Freight Services sold a controlling stake to two investment firms in a transaction that will leave Chief Executive Richard Phillips, Jr. remaining at the helm of the business. Separately, privately-held logistics companies TTS LLC, and Sunteck Transport Group say they will combine operations, pulling together businesses with a combined $890 million in gross revenue, according Armstrong & Associates.
+
+. The freight railroad improved its profit slightly in the third quarter, the WSJ’s Anne Steele writes,
+. Norfolk Southern felt the ongoing decline in commodities business, with revenue from coal and chemicals off by double digits. But the railroad is also slashing costs and says it’s on its way to productivity savings of more than $650 million. That could bring a big boost in profits if demand heats up, and the latest broad industry reports from the Association of American Railroads may give carriers some hope. Intermodal volume has been positive year-over-year this month, and the slide in some commodity categories is leveling off, suggesting the railroads may not be struggling uphill toward better profitability much longer.
+
+to avoid punitive import tariffs on Chinese aluminum. The Department of Homeland Security recently joined the probes into whether companies linked to a Chinese billionaire
+, the WSJ’s Scott Patterson and 
+
+
+
+      John W. Miller
+
+
+
+       report. The DHS investigation comes as the U.S. Commerce Department is looking at Aluminum Shapes LLC, a New Jersey business tied to Liu Zhongtian, the founder and chairman of aluminum giant
+
+The investigation puts a spotlight on the complicated global supply chain behind the movement of industrial materials, including the use of transshipment through other countries through front businesses. The DHS probe is looking at allegations of a simpler maneuver: whether aluminum from Zhongwang was imported into the U.S. in disguised form, by being melted into the shape of shipping pallets.
+
+Talk of trade barriers and protectionism are a big part of the U.S. campaign, but globalization is here to stay.
+
+Year-over-year growth in intermodal loads carried by U.S. railroads last week, after container and truck trailer traffic fell 3.2% in the first nine months of the year.
+Crude oil prices
+, slipping to below $50 a barrel on world markets. (WSJ)
+A dozen trade groups called for the U.S. to restore Chinese e-commerce giant
+
+to a list of global marketplaces
+. (WSJ)
+A key measure of U.S. consumer confidence
+. (WSJ)
+U.S. home-price growth accelerated to
+amid tight inventory and low interest rates. (WSJ)
+
+
+posted its second quarterly profit ever as car deliveries doubled and
+. (WSJ)
+Mexico’s exports of manufactured goods
+. (WSJ)
+Retailer
+
+B reported
+across Mexico and Central America. (WSJ)
+
+
+improved its third-quarter profit on cost cuts as
+cut into revenue. (WSJ)
+
+
+is adding
+
+
+to its OnStar car system to offer mobile-commerce beyond navigation and entertainment. (WSJ)
+
+
+
+in coming months despite the strongest sales gain in more than a year in the third quarter. (WSJ)
+Drewry Shipping Consultants Ltd. expects the container shipping industry to
+next year amid improving freight rates and trade volume. (The Guardian)
+Unknown attackers
+at a
+
+gas tanker off the coast of Yemen. (Reuters)
+Emirates Airlines became the latest carrier to
+because of the country’s currency crisis. (The Loadstar)
+A New Jersey property firm that owns
+
+U.S. headquarters building filed for
+. (Bergen County Record)
+Logistics technology provider 10-4 Systems will integrate project44’s trucking transportation tool
+. (Logistics Management)
+Northern Air Cargo is starting four-times-weekly
+to Caribbean points. (Air Cargo News)
+Illinois-based delivery materials distributor The Packaging Wholesalers will
+outside Hazleton, Pa. (Hazleton Standard-Speaker)
+New England Central Railroad
+of tracks in Connecticut meant to allow for heavier freight loads. (WTNH)
+Paul Page is deputy editor of WSJ Logistics Report. Follow him at
+, and follow the entire WSJ Logistics Report team:
+,
+and
+, and follow the WSJ Logistics Report on Twitter at
+.
+Subscribe to this email newsletter by clicking here:
+
+
+
+Paul Page at
+
+********************************************************************************
+
+https://www.wsj.com/articles/japan-battery-maker-hopes-charge-into-future-wont-fall-flat-1477479565
+Technology/By   Mayumi Negishi    Mayumi Negishi  The Wall Street Journal  Biography Mayumi Negishi  @meiyume  Google+  mayumi.negishi@wsj.com/Updated Oct. 27, 2016 12:42 a.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Japan Battery Maker Hopes Charge Into Future Won’t Fall Flat
+
+    Decades can be devoted to developing a technology only for others to grab the limelight
+
+KOMAKI, Japan—One of Japan’s biggest makers of power-industry gear spent nearly two decades researching the next great thing in energy storage. Now its storage battery is ready, but the company may have bet on the wrong technology.
+Welcome to one of the highest-risk parts of the energy business, where fortunes are likely to be made or lost over the next decade as
+in time to meet rapidly changing demand.
+Wind and solar power are the fastest-growing sources of renewable energy. Since the wind doesn’t always blow and the sun doesn’t always shine, finding efficient ways to store their energy for later use is crucial.
+
+
+
+, based in this central Japan industrial area, is the only company to succeed in mass-producing batteries that use molten sulfur and molten sodium as electrodes. Compared with the lithium in widely used smartphone and laptop computers, these materials are highly efficient and can pack enough power into a 20-foot shipping container to keep 120 homes running.
+The problem is competition. South Korean rivals
+
+and
+
+have made advances in lithium-ion batteries for mass storage. And utilities are taking a closer look at technology that would undercut batteries altogether.
+“We see a lot less growth in sodium-sulfur batteries,” said 
+
+
+
+      Alex Eller, 
+
+
+
+       an analyst at Navigant Research. For lithium-ion batteries, he said he expected the price per kilowatt-hour stored to fall by nearly 50% of current levels by 2021, likely a quicker pace than NGK’s technology.
+In Japan, which has spent billions of dollars on subsidies to support battery research and deployment, the NGK batteries have found some use with government help.
+
+has installed more than 6,000 battery modules to store power generated by solar panels, enough to supply 30,000 homes for a day—making it the biggest such system in the world. More modest NGK systems support grids serving cities such as Presidio, Texas, and Los Alamos, N.M.
+Though they store less juice than sodium-sulfur batteries, lithium-ion batteries provide quick output, making them attractive to utilities whose primary concern is sudden fluctuations in power supply or demand.
+Lithium-ion batteries may also attract homeowners and companies seeking to store
+, a market targeted by
+
+and battery partner
+
+
+NGK, whose history dates to 1919, says it is playing a long game. It expects its technology will ultimately prove superior in terms of safety, lower maintenance costs and compatibility with power companies’ needs.
+“Demand will come—maybe around 2020,” said 
+
+
+
+      Toshiyuki Mima, 
+
+
+
+       who has spearheaded NGK’s research into sodium-sulfur batteries since the 1990s and heads the battery division. “Our job now is to plant the seeds, and prepare so that we are ahead of the competition when the market grows.”
+Japan has been in this position before: devoting decades of research to a cutting-edge technology, only to find others grabbing the spotlight when the technology is ready for prime time.
+
+
+was a pioneer in solar panels, enabling their use in calculators, but when the global market demanded large volumes of cheap panels, Chinese rivals such as
+
+and Yingli Solar took the lead.
+
+was years ahead of
+
+in marketing phones with internet access but was unable to get its standard adopted globally.
+For all the battery makers, safety is a big concern—highlighted by
+
+Ltd’s
+after some overheated and caught fire. NGK’s batteries are potentially combustible because they operate at above 300 degrees Celsius.
+Another problem for battery makers is the relatively limited scale of their storage compared with the tens of gigawatt-hours that would be needed to run a major city on intermittent renewable sources such as solar and wind.
+Some in the industry say the best bet isn’t batteries but a solution that already supplies about 90% of energy storage: pumped hydroelectric storage, in which giant facilities push large volumes of water uphill when there is surplus electricity and then let gravity move it back down through turbines to generate power. Surplus electricity can also compress air or supercool it to turn it into a liquid. Energy is released when the compressed air is expanded or the liquid is turned back into air.
+Such systems “can be cheaper and longer-lasting than batteries, without the pollution...or electrochemical degradation,” said 
+
+
+
+      David Sandalow, 
+
+
+
+       a former U.S. Energy Department official. He advises U.K. venture Highview Power Storage, which supplies liquid air storage systems.
+Even NGK is hedging its bets by exploring other kinds of batteries and power-generating fuel cells.
+“The research and development is the fun part,” said NGK’s Mr. Mima. “The selling and the marketing is what’s tough.”
+
+
+David Sandalow said batteries can result in pollution and electrochemical degradation. An earlier version of this article incorrectly quoted him as saying batteries can result in pollution from electrical-chemical degradation. (Oct. 27, 2016)
+
+Mayumi Negishi at
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-posts-second-profitable-quarter-ever-1477513454
+Technology/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Updated Oct. 26, 2016 8:27 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Generates a Profit
+
+    Electric-car maker’s deliveries more than double ahead of vote on SolarCity merger
+
+posted a surprise $22 million profit in its latest period, buoyed by record sales of its pricey electric cars and boosting Chief Executive 
+
+
+
+      Elon Musk’s
+
+
+
+       plan to sharply lift output ahead of its release of a sedan to compete against mass-market rivals.
+The Palo Alto, Calif., company reported its first profit after 12 quarterly losses amid a push to generate cash for building its $35,000 Model 3. The company has pledged to lift annual production to 500,000 cars in 2018, from about 50,000 last year.
+The quarter’s profit—a record and only the second time ever—was driven higher by improved sales of the Model S sedan and Model X sport-utility vehicle, a reduction in spending and a boost from selling pollution tax credits to other auto makers. Gross profit from the credits soared to $139 million from $39 million a year ago—above UBS analyst 
+
+
+
+      Colin Langan’s
+
+
+
+       estimate for $30 million during the quarter.
+“One of the criticisms I’ve seen out there is that perhaps Q3 was at the expense of Q4—this is not true,” Mr. Musk told analysts on Wednesday. The company in the current quarter may be profitable on an adjusted basis and maybe without adjustments, he said. “We are headed to have a great fourth quarter.”
+Revenue shot up to $2.3 billion from $936.8 million a year earlier. Tesla delivered 24,821 of its Model S sedans and Model X sport-utility vehicles combined, more than double the year-ago figure.
+Its shares were up 5% to $212.05 in after-hours trading on Wednesday.
+Tesla said it generated free cash flow, repaid $600 million in debt and finished September with $3.1 billion in cash, a decline of $162 million from the end of June.
+Tesla needs about $2.5 billion through the end of 2017 for the Model 3 rollout and the completion of a huge battery factory in Nevada, according to 
+
+
+
+      Brian Johnson, 
+
+
+
+       an automotive analyst at
+
+
+The improved results also could help Mr. Musk make the case that
+
+., which could require additional cash. The combined companies ultimately may need to raise $12.5 billion for spending through 2018, according to
+Tesla and SolarCity shareholders are scheduled to vote on a merger Nov. 17.
+Mr. Musk reiterated on Wednesday that Tesla doesn’t need to raise money this year, adding that the plan to bring out the Model 3 doesn’t include doing so. But he left the door open, noting that the modest war chest could get “a little scary in terms of how much capital we have in the bank relative to our sales volume.”
+“There could be unexpected negative things that occur; there could be some global, macroeconomic slowdown…Who knows what could happen?” Mr. Musk said.
+Sales were likely helped by a new $66,000 version of the Model S, analysts said. The September quarter was the first full quarter in which Tesla offered that vehicle.
+Tesla also lowered its forecast for capital spending this year to $1.8 billion from $2.25 billion. About $1 billion of that spending could occur in the fourth quarter, it said.
+
+Tim Higgins at
+
+Appeared in the Oct. 27, 2016, print edition as 'Tesla Posts Surprise Profit of $22 Million.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-earnings-what-to-watch-1477487831
+Autos/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Oct. 26, 2016 9:17 a.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Earnings: What to Watch
+
+    Analysts expect narrower loss in latest period following record quarter of sales
+
+third-quarter financial results are expected to be released after the market closes on Wednesday. Here’s what you need to know:
+
+: Tesla is expected to post a loss of 74 cents a share, according to the average estimates of six analysts surveyed by FactSet. That compares to a loss of $1.78 a share a year earlier. The narrower loss follows a record quarter of sales, helped by the new Model X sport-utility vehicle.
+
+Third-quarter revenue is forecast to more than double to $2.34 billion from the same period a year ago. Deliveries of Model S sedans and Model X rose to 24,500 during the quarter, more than double the number from the year-ago quarter. That included 8,700 Model Xs, which are new. The increased revenue should help Chairman and Chief Executive 
+
+
+
+      Elon Musk
+
+
+
+       offset rising expenses associated with preparing for his next car, the Model 3. He pushed his employees to cut costs and boost sales during the third quarter.
+
+
+
+Tesla announced plans for shareholders to vote on Nov. 17 to merge with
+
+, where Mr. Musk is also chairman and top shareholder. Analysts have been
+may take Mr. Musk’s attention away from rolling out the Model 3, a sedan aimed at helping boost the company’s production to 500,000 in 2018 from about 50,000 last year. The Tesla plans to layout the financial case for the merger on Nov. 1.
+
+Tesla
+with $3.25 billion in cash after having raised $1.7 billion in a May offering. The company had been saying it would likely raise additional cash before the end of the year, especially needed if the merger with SolarCity goes through, but those plans were apparently scraped in October when
+on Twitter that the companies didn’t, in fact, need to raise money in the fourth quarter. Tesla does have a $1.3 billion revolving credit lines, including $300 million to support its leasing business, that could help Mr. Musk. Analysts say Tesla will need more cash ultimately. The combined companies may ultimately need to raise $12.5 billion for spending through 2018, according to estimates by Oppenheimer.
+
+The company has said it would stop including non-GAAP revenue results, which includes the difference between how leases and vehicle buyback guarantees are treated. “For a growing company like Tesla, revenues under GAAP will be consistently lower than non-GAAP,”
+’ Brian Johnson wrote in a note to investors. “Ironically, while our revised 3Q estimate under the old accounting treatment would have been a quarterly profit (the first non-GAAP profit in two years), the new accounting treatment keeps our estimate at a loss.” On an adjusted basis, Tesla was expected to post break-even earnings, according to the average estimate of 17 analysts surveyed by FactSet, compared with a loss of 58 cents a share in the year-ago period.
+
+Tim Higgins at
+
+********************************************************************************
+
+https://www.wsj.com/articles/renault-and-nissan-to-fuel-connected-cars-push-with-tech-hiring-spree-1477392964
+Autos/By   Sean McLain    Sean McLain  The Wall Street Journal  Biography Sean McLain  @McLainSean  sean.mclain@wsj.com/Oct. 25, 2016 6:56 a.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Renault and Nissan to Fuel ‘Connected Cars’ Push With Tech Hiring Spree 
+
+    Car makers each plan to hire hundreds of software engineers as they focus on making cars more like smartphones
+
+YOKOHAMA, Japan—
+
+
+and
+
+
+each plan to hire hundreds of software engineers as the allied auto makers focus on making cars that have the capabilities of smartphones, an executive said Tuesday.
+Renault, Nissan and other auto makers are racing to offer software services for so-called connected cars that would allow users to do things like access
+and download information about nearby attractions.
+Other applications could protect the vehicle against theft or provide emergency services, receiving regular updates like smartphone apps, said Ogi Redzic, the Renault-Nissan Alliance’s executive in charge of connected vehicles.
+Mr. Redzic said auto makers traditionally focused on features such as horsepower and storage space, but now, “the entire industry needs to put new technology in the vehicle in order to sell a car.”
+Carlos Ghosn,
+, has said the connected car is part of his three-point vision for the automotive future, along with self-driving technology and engines that don’t burn fossil fuels.
+Other car makers are trying something similar.
+In April,
+
+said it would team up with
+
+to make cars more like smartphones. Toyota said its virtual assistant would know “what your blood pressure is doing during stop-and-go, and what restaurants at the next exit might be most to your liking.”
+
+
+already offers regular software upgrades modeled on smartphone upgrades.
+While most of the world’s smartphones run one of two operating systems—Android from
+
+Google or
+
+iOS—the car world remains Balkanized. Even within Renault-Nissan, Renault has R-Link, Nissan has Nissan Connect and its luxury brand, Infiniti, has a system called InTouch.
+These services and similar ones from other large auto makers generally offer navigation assistance and satellite radio, but the quality of service and ease of use lags behind smartphones and personal computers.
+Mr. Redzic said his team was replacing these with a single platform on which to run applications, similar to Google and Android. He said that would make it easier for third-party developers to build apps for cars.
+In September, Renault and Nissan said they would use Microsoft’s Azure cloud-computing service as the back end for the new platform, aiming to provide an easy way to deliver regular updates to cars.
+Hard-to-use software and touch screens in cars have frustrated many car owners. Consumer Reports magazine on Monday
+for
+
+Civic compact in part over complaints about electronics. Honda said it was working to “enhance the usability” of the features.
+When Mr. Redzic finishes hiring engineers for the new team, Renault and Nissan will have close to 1,000 people working on car software. The new hires will have skills more frequently found at the likes of Google or Apple in fields such as smartphone apps, artificial intelligence and analysis of patterns from large quantities of raw data, Mr. Redzic said.
+As cars become more like phones, Renault and Nissan will have to become more like software companies, constantly churning out new software and updates to old software years after the car is sold, he said.
+“You will have some new services that will be unique to us—for a period of time. In the tech industry it is very hard to say that you will have something unique for a very long time,” Mr. Redzic said. “It’s a matter of who is going to be there first and who is going to provide the most value to the customer.”
+
+Sean McLain at
+
+********************************************************************************
+
+https://www.wsj.com/articles/auto-makers-struggle-with-high-tech-dashboard-screens-1477301406
+/By   Christina Rogers/Updated Oct. 24, 2016 5:01 p.m. ET/Business
+            
+
+
+
+
+      
+
+    
+
+
+  
+
+  Auto Makers Struggle With High-Tech Dashboard Screens
+
+    Customers grow frustrated as infotainment systems fail to seamlessly connect smartphones
+
+Traditional auto makers racing against Silicon Valley firms to develop self-driving cars and electric vehicles face more immediate technological challenges with a longstanding mainstay: the dashboard screen.
+Customer frustrations are mounting with infotainment systems that fail to seamlessly connect smartphones and suffer a range of glitches including crashing electronic displays and imperfect voice-recognition features, according to dealers and automobile reviewers.
+The dissatisfaction come despite significant leaps auto makers have made creating systems that function more like popular hand-held electronics.
+Consumer Reports magazine on Monday
+
+
+popular Civic compact car, in part due to owners complaining about the vehicle’s in-car electronics, and its dashboard console needing replacement.
+Problems with the touch screen and climate controls on the Volvo Car Corp.’s new XC90 sport-utility vehicle also plunged the Swedish luxury car maker into the bottom third of Consumer Reports’ reliability rankings this year.
+The influential product-review magazine has in recent years spotlighted growing problems with dashboard technology as a significant friction point for car shoppers.
+When it comes to technological advances in the car cabin, car companies are “getting better and they’re getting worse,” said 
+
+
+
+      Jake Fisher, 
+
+
+
+       Consumer Reports’ head of automotive testing. J.D. Power, another prominent car researcher, in February highlighted software for audio, navigation and voice recognition as “the most problematic area on most vehicles,” adding the issues drag down dependability scores.
+“We see across the board as auto makers introduce complex electronic systems, they’re having more problems,” Mr. Fisher said.
+Honda said it continues “working diligently to enhance the usability and functionality of these in-demand technologies in our unrelenting effort to create new value for our customers.”
+Volvo said the XC90 has won numerous accolades from other third-party reviewers, in part because of its infotainment system, and the touch screen interface is popular with consumers, who once acclimated to it, give it high marks.
+
+
+
+has struggled over the years with bugs in Sync and MyFord Touch Telematics systems, with one engineer in 2011 calling software for the systems a “polished turd,” according to court documents filed in a 2013 consumer lawsuit against the Dearborn, Mich., auto maker that a judge recently granted class-action status.
+At one point, Chairman Bill Ford was forced to pull over to reboot the system after it crashed, and separately an engineer received a photo of broken touch screen used by Chief Executive Mark Fields, with a note saying the executive “may have been a little aggravated” with it, according to internal emails and employee interviews filed in the lawsuit.
+In a statement, Ford said MyFord Touch was “revolutionary” when it launched and like “all new and complex software, continuously evolved and improved after its initial release.” Customers got free software upgrades as engineers improved performance, the company said.
+The challenges come as traditional car makers like Ford,
+
+
+and
+
+
+race to hire more software developers and programmers in an effort to keep pace in a technological arms race with Silicon Valley companies such as
+
+and
+
+Google.
+Tesla this month said it had installed hardware on coming vehicles that will allow them to fully drive themselves despite scrutiny stemming from a fatal crash in May involving a vehicle using its semiautonomous Autopilot system. Google continues to test fully autonomous vehicles but has been relatively tight-lipped about future plans.
+On the dashboard, car shoppers are increasingly looking for rival systems from Alphabet and
+
+that pair smartphones and allow motorists to view and interact with the familiar home screens in their vehicles.
+Car companies are straining to keep pace with the volume and speed with which tech firms update their smartphone software, a lag that can at times confuse the car’s infotainment system and cause it to crash, say analysts and service technicians.
+Traditional auto makers struggle to incorporate new technology quickly, given vehicle development cycles that can take up to three years. Ford is rolling out the third iteration of its Sync system that made its debut in 2007, while Apple is on the seventh generation of its iPhone that first hit the market the same year.
+What is more, customers often have to endure the hassle of visiting a dealership for software upgrades instead of over-the-air updates they have become accustomed to on smartphones.
+Some car makers are starting to debut wireless connections that make updates easier. Ford said its latest version of Sync can fix software bugs, modify on-screen graphics and add new phone-pairing features such as Apple’s CarPlay and Alphabet’s Android Auto through Wi-Fi hot spots.
+“You push the button on the iPhone and it updates in a couple minutes,” said 
+
+
+
+      Bill Graf, 
+
+
+
+       a service manager for Waikem Ford in Massillon, Ohio. “They need to do that with cars. You wouldn’t see half of these people in here.”
+Rick Kearney, 
+
+
+
+       a master diagnostic technician at 
+
+
+
+      Earl Stewart
+
+
+
+       Toyota in Lake Park, Fla., said one frequent problem is phone makers update text-message capabilities, adding emojis or video that current infotainment systems don’t recognize, crashing the software. Then, a customer has to bring the car into the dealership to remedy it.
+“It seems as though the phones have 2020 technology and the cars are stuck in 2005,” Mr. Kearney said.
+Chris Rovik, 
+
+
+
+       Toyota’s general manager for electronic systems, said the company isn’t aware of such text messaging problems but it has staff in Silicon Valley that works closely with Apple and Alphabet’s Android to get ahead of any major mobile-phone updates.
+
+Christina Rogers at
+
+Appeared in the Oct. 25, 2016, print edition as 'Dashboard Screens Bedevil Buyers.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-the-bill-is-still-coming-due-1477518644
+/By   Charley Grant    Charley Grant  The Wall Street Journal  Biography Charley Grant  @CGrantWSJ  charles.grant@wsj.com/Updated Oct. 26, 2016 5:53 p.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Tesla: The Bill Is Still Coming Due 
+
+    Tesla Motors’ third-quarter results aren’t as strong as they seem
+
+At first glance it is hard not to be impressed with
+by
+
+
+
+The company
+, reporting revenue of $2.3 billion and earnings per share of 14 cents. Both topped analyst expectations. Tesla also delivered a record number of cars in the third quarter and expects to meet its full-year target.
+Tesla even reported positive free cash flow, defined as operating cash flow less capital spending, for the first time since 2013, to the tune of $176 million. Shares rose after hours, a sign that fortunes for beleaguered investors might be turning.
+But a closer look suggests that Mr. Musk will have his hands full delivering on his vision. Tesla attributed its positive operating cash flow to higher sales and “careful expense management.” Indeed, accounts payable and accrued liabilities rose by over $600 million from June 30 to $2.3 billion. An increase in payables flatters cash flow under generally accepted accounting principles.
+Furthermore, the sale of regulatory credits to other auto makers generated $139 million of high-margin revenue, but Tesla expects “negligible” sales of them in the fourth quarter. Total net income was just $22 million.
+Get financial insights and commentary on global investing from The Wall Street Journal’s Heard on the Street team.
+
+In the longer term, the key question for the stock remains whether Tesla can deliver its Model 3 sedan on time and on budget. The stock’s sky-high valuation leaves precious little room for a slipup.
+Tesla still says it will begin volume production of the car in the second half of 2017, but there are reasons to be skeptical. The company slashed its 2016 capital expenditures budget by more than $400 million. And Tesla has
+.
+Questions about the stock price’s sustainability won’t go away any time soon.
+
+Charley Grant at
+
+Appeared in the Oct. 27, 2016, print edition as 'Tesla Results Still Leave Questions.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/inside-the-brain-of-the-driverless-car-1477879741
+Journal Reports: Leadership//Oct. 30, 2016 10:09 p.m. ET/Business
+            
+
+
+              
+                
+                    Journal Reports: Leadership
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Inside the Brain of the Driverless Car
+
+    Nvidia’s Jen-Hsun Huang says autonomous cars are pretty safe now, and will get even safer
+
+Few areas of technology are attracting as much interest as self-driving cars. Wall Street Journal Business Editor Jason Anders discussed the heart of that technology with 
+
+
+
+      Jen-Hsun Huang, 
+
+
+
+       chief executive of
+
+
+, whose chips are used to power autonomous driving and other artificial-intelligence applications.
+
+
+
+
+Well, the biggest problem is that the car has to be able to perceive the environment. Reasoning, planning and learning are a big part of artificial intelligence. Without being able to perceive the environment accurately and quickly, it’s simply not possible to have an autonomous vehicle interact in the world around us. And so the thing that deep learning [computer algorithms that enable abstract thinking] did was it made it possible for us to achieve perception at a level that is superhuman.
+
+
+
+
+We can recognize objects better than humans can. The beautiful thing about a car doing perception, using our computers, is that it never gets tired. It has eyes all around the car. It’s never intoxicated. And it’s never angry. It has no emotions. So once you train and test the car, it gets better and better as more and more experiences accumulate.
+
+
+
+
+I’ll just briefly describe how it works. By looking at what’s going on in the environment, you figure out where you are on an absolute basis, and where you are relative to objects around you. Then you have to predict where everything around you will be in the near future, the cars, pedestrians, motorcycles, bicycles, and where you’re going to be. Based on that prediction, you have to reason about what to do. It could be change lanes, keep going, or drive more cautiously. It could be come to a stop. Then you have to plan the action. Most of the time when we’re driving, we figure out, “Is it safe to drive or not?” Using the inverse logic, “Is it free to drive? Is it safe to drive?”, you could teach the network that type of skill. After that, we could teach the car the driving skills, the behavior of driving itself.
+
+
+
+
+As soon as I get on the highway.
+
+
+
+
+Yeah. I’m paying attention. But even the current-generation Tesla’s doing a fairly good job on highways. But it’s going to do a ton better.
+
+
+
+
+If you don’t develop the technology and deploy it, it never gets better. At some level, you have to put it on the road. But what’s important is it’s a massive software problem. So companies like Tesla who have a great deal of software capability have an advantage. There’s a rigorous methodology of developing software. The software becomes better and better over use.
+
+
+
+
+A whole lot of stuff. We’re going to have an AI inside the car that’s going to look around corners. So even if you’re driving, the AI might prevent you from an accident. There’s all kinds of things that the AI could predict on your behalf.
+
+
+
+
+The thing to realize is the quality of the software improves over time, whereas people’s performance of driving decreases.
+
+
+
+
+Making sure we don’t cause an accident is something we can control, and we ought to do that as quickly as possible.
+But the cars will learn from every other car’s experience. We’re going to see capabilities of computers grow way faster than at any time in the history of our industry.
+
+
+
+Appeared in the Oct. 31, 2016, print edition as 'Inside the Brain of The Driverless Car.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/chip-makers-cut-deals-as-cars-get-smarter-1477606639
+Technology/By   Don Clark and   Don Clark  The Wall Street Journal  Biography Don Clark  @donal888  www.facebook.com/DonClark  Don.Clark@wsj.com     Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Oct. 27, 2016 6:17 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Chip Makers Cut Deals as Cars Get Smarter
+
+    Automotive industry is becoming more attractive as companies differentiate offerings
+
+and other chip makers are cutting deals furiously as cars turn into self-driving mobile computers. But the jury is out on whether the merger wave will help cars get smarter faster.
+The high stakes were underscored Thursday by Qualcomm’s
+to buy
+
+NV, the biggest acquisition in the history of the semiconductor industry and the second-largest tech deal of all time. NXP is the No. 1 supplier of chips for cars, a major attraction as Qualcomm
+from selling chips to the slowing smartphone market.
+The average new car has 616 chips in it compared with 550 in 2013, the research
+estimates. Their value has soared to about $350 per vehicle this year from about $250 in 2000, according to
+
+
+Qualcomm wasn’t the first to place a big bet on the automotive industry, which is becoming more attractive to chip makers as car companies differentiate their offerings with everything from hands-free calling to internet-powered radios. The race is becoming particularly intense as companies move to perfect
+, technology that requires more sophisticated and expensive semiconductors.
+
+
+,
+
+and others have said
+in the next few years, while
+has a semiautonomous system already on the road. Tesla last week began shipping vehicles that include hardware that could one day be empowered by software, which must be validated and approved by regulators, to operate in a fully autonomous mode. Tesla Chief Executive Officer 
+
+
+
+      Elon Musk
+
+
+
+       aims to demonstrate
+by the end of next year.
+
+
+cited auto applications as a key motivation in a deal announced in July to buy
+
+in a cash-and-stock deal valued at $14.8 billion. NXP became the top auto chip supplier by striking
+last year to buy Freescale Semiconductor Inc.
+But the market for years has been fragmented among many suppliers with different specialties competing on price. Where an iPhone has one central chip to power its computing functions, many parts of cars have long used separate chips—a situation that could become even more complex as car makers add more features for safety and other purposes.
+“Those will all require more processing capability and likely will be supplied by different suppliers who are not exactly working together,” said 
+
+
+
+      Dave Sullivan, 
+
+
+
+       an automotive industry analyst at AutoPacific, in an interview.
+The push toward autonomous driving is a countervailing force, requiring more powerful chips and software that can analyze feeds from cameras, radar and other sensors using technologies such as deep learning. Tesla Motors Inc. has moved toward a central computing system, announcing last week it had picked chip maker
+
+as part of
+it has vowed to include in all its new vehicles.
+The chip makers, meanwhile, want to use deals
+that will help them build influence in shaping what future cars will do. That means more direct discussions between chip executives and decision makers in the car industry, which should speed the pace of innovation, said 
+
+
+
+      Vincent Roche, 
+
+
+
+       chief executive of Analog Devices, in an interview earlier in October.
+Qualcomm Chief Executive 
+
+
+
+      Steve Mollenkopf
+
+
+
+       said its executives routinely fly around the world talking to counterparts at top smartphone makers. It doesn't now have that kind of cachet in the car industry, though it sells wireless chips for cars.
+NXP has much more influence. “That is the DNA of the NXP team,” Mr. Mollenkopf said.
+Rick Clemmer, 
+
+
+
+       NXP’s CEO, has previously discussed how adding Freescale technology allowed his company to build multichip modules to carry out new functions in cars. On Thursday, he said NXP needed expertise like Qualcomm’s in deep learning.
+“We needed increased computing horsepower,” he said during a conference call with analysts.
+Jim Hines, 
+
+
+
+       an analyst with Gartner Inc, agreed Qualcomm could gain a more strategic position through the deal with car makers. At the same time, such combinations tend to increase chip maker leverage in pricing negotiations with auto makers, something they may be less excited about.
+In any case, Qualcomm will face plenty of competition. Besides Nvidia, Israel-based
+NV built an early lead in chips and software to support driver-assistance features.
+
+has also made selling chips for smartcars a top corporate priority.
+NXP has many more attractions than car chips, Mr. Mollenkopf said. The company has a vast array of products sold to more than 25,000 customers, and a much larger selection of distribution channels that can help Qualcomm’s own technology find a wider audience, he said.
+Both will help in the broader push known as the Internet of Things, or IoT, a phrase used to describe the addition of sensors, computing and communications to all kinds of products. “There is going to be a huge change in the technology that goes into autos and the IoT,” Mr. Mollenkopf said.
+
+Don Clark at
+and Tim Higgins at
+
+********************************************************************************
+
+https://www.wsj.com/articles/nxp-deal-adds-to-qualcomm-ceos-tumultuous-tenure-1477598394
+Technology/By   Don Clark    Don Clark  The Wall Street Journal  Biography Don Clark  @donal888  www.facebook.com/DonClark  Don.Clark@wsj.com/Oct. 27, 2016 3:59 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  NXP Deal Adds to Qualcomm CEO’s Tumultuous Tenure 
+
+    Steve Mollenkopf is confident about the company’s ability to integrate NXP and transform its business
+
+Steve Mollenkopf
+
+
+
+       started his career as a chip engineer, helping design the unseen chips used in mobile phones. But an ambitious move to reshape his company promises to thrust this low-key manager into the limelight.
+
+
+
+chief executive is leading the semiconductor industry’s largest-ever acquisition,
+for
+
+NV that will transform its business, double the number of employees and usher the chip designer into manufacturing and a major role in chips for cars.
+Mr. Mollenkopf acknowledged the challenges ahead in his customary understated manner, the same coolheaded outlook he maintained during as a major antitrust investigation in China and high-profile pressure from an activist investor.
+“We’ve been through a lot,” Mr. Mollenkopf said in an interview. Never one to brag, he said he “feels good” about his ability to tackle the massive job of integrating NXP, a Netherlands-based company with sprawling semiconductor operations, most of which began more than 60 years ago as part of
+NV and
+
+
+“This feels like the type of ambition that is Qualcomm,” Mr. Mollenkopf said.
+The deal, he said, will help Qualcomm more quickly move into automotive chips and other products that are adding communications and processing power to cars. That push is increasingly important as Qualcomm’s core business in chips for smartphones comes under pressure from slowing sales in that market.
+Associates say the 47-year-old carries an air of authority and confidence, even when he doesn’t say much. Mr. Mollenkopf “is pretty reserved,” said 
+
+
+
+      Jodi Shelton, 
+
+
+
+       president of industry group Global Semiconductor Alliance, where Mr. Mollenkopf was chairman for two years. But, she said, he has a way of observing people closely, saying a lot with few words. “When he walks in, you know he is a CEO,” she said.
+Mr. Mollenkopf rose through the ranks, becoming CEO in 2014 after nearly 20 years at the company. He took the reins from Chairman 
+
+
+
+      Paul Jacobs, 
+
+
+
+       the son of founder and former CEO 
+
+
+
+      Irwin Jacobs
+
+
+
+      —the first person outside the Jacobs family to lead the company. The company called the transition a long-planned decision, but also indicated it may have been accelerated by overtures from other potential employers.
+An electrical engineer by training—he studied at Virginia Polytechnic Institute before earning a master’s degree in the field from the University of Michigan—Mr. Mollenkopf has a low-key personal style, even compared with the staid habits of his predecessor. He said he currently drives a sport-utility vehicle.
+“I used to drive a Tesla,” he said, referring to Silicon Valley executives’ favorite ride. “I’m waiting to get the next one.”
+Mr. Mollenkopf spearheaded what had previously been Qualcomm’s biggest acquisition, a $3.1 billion deal in 2011 for Atheros Communications Inc. that added a substantial business in Wi-Fi chips.
+That tie-up pales in comparison with the $39 billion deal to acquire NXP, which has roughly 44,000 employees compared with Qualcomm’s roughly 30,000 by Mr. Mollenkopf’s estimate. The Dutch company, which last year completed the acquisition of Motorola spinoff Freescale Semiconductor Inc., sells thousands of products to more than 25,000 customers. Qualcomm, by contrast, sells a much narrower line of chips.
+Industry executives say chip fabrication will require entirely new skills of Qualcomm, which relies on external manufacturing services to produce chips it designs.
+
+They learned a lot along the way.
+
+But Mr. Mollenkopf and some analysts say people tend to overlook the expertise Qualcomm has built up over the years through overseeing its manufacturing partners.
+Qualcomm will lean heavily on NXP’s existing managers to oversee day-to-day manufacturing operations, Mr. Mollenkopf said, noting they successfully integrated Freescale’s factories with their own. “They learned a lot along the way,” he said.
+While Qualcomm is best-known for designing chips—long used in smartphones from the likes of
+
+and Samsung Semiconductor Co.—the company gets more than half of its profit from licensing wireless patents to handset makers.
+In February 2015, Qualcomm agreed to pay a $975 million fine to Chinese authorities as part of an antitrust settlement, which also included several changes to Qualcomm’s practices in licensing patents for mobile phones sold in China.
+That business model came under more scrutiny the same year when activist investor Jana Partners LLC purchased a stake worth more than $2 billion in Qualcomm and pressed for changes aimed at boosting the company’s share price. .
+Mr. Mollenkopf argued that the investments Qualcomm makes in inventing and patenting technology provide an advance look at what features will be needed in chips as markets such as smartphones evolve.
+
+Don Clark at
+
+********************************************************************************
+
+https://www.wsj.com/articles/blackberry-earns-tier-one-supplier-status-with-ford-1477944901
+Autos/By   John D. Stoll/Oct. 31, 2016 4:15 p.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  BlackBerry Earns Tier One Supplier Status With Ford 
+
+    Designation allows software maker to cut out middleman, deal directly with the auto maker
+
+is now a “Tier One” supplier for
+
+
+, a designation that cuts out the use of a middleman in supplying products or services to the auto maker.
+The move, announced Monday, represents an “inflection point” taking place in the global car business, said 
+
+
+
+      John Wall, 
+
+
+
+       head of BlackBerry’s QNX Software Systems. BlackBerry, a once-dominant smartphone maker, has increased its focus on software development after losing significant market share to Apple Inc.,
+
+and others in the global handset wars.
+Being recognized as a Tier One supplier, rather than having to go through other suppliers to sell to companies like Ford, is important for BlackBerry’s future in the automotive industry. The Canadian company is developing software for several challenges facing car companies, including helping to coordinate functions for autonomous vehicles.
+Ford, which is being lapped on self-driving car testing or electric cars by some tech companies and startups, including
+
+and Google’s car project, aims to have a
+next decade. BlackBerry aims to offer products that can enable so-called connected cars but faces a barrage of competition both from the traditional auto-supply base and tech firms.
+BlackBerry’s QNX Software is already in tens of millions of cars, spanning
+
+to
+
+Its relationship with Ford dates back several years and relates to software needed as an operating system in the auto maker’s SYNC infotainment service.
+
+In an interview, Mr. Wall said BlackBerry typically deals with auto makers early in vehicle development, but then works through an auto supplier that is supplying a component to the auto maker with BlackBerry’s product embedded in it. The transition comes as auto makers are continually adding lines of software code to their vehicles and scrambling to boost the security and capability of systems ranging from mapping to vehicle-to-vehicle communication.
+Apple, Samsung, Google parent
+
+and other tech companies are looking to ink supply agreements with auto makers or are developing their own systems for autonomous vehicles and other services. At the same time, Apple’s iOS mobile operating system and Google’s Android are becoming more ubiquitous in light vehicles due to new systems being installed by auto makers that allow occupants to plug in their smartphones so that the device’s operating system can take over.
+Mr. Wall said working as a Tier One supplier likely will lead to more BlackBerry QNX deployment in cars. Mr. Wall didn’t comment on how the arrangement will affect BlackBerry’s pricing power with companies like Ford.
+
+John D. Stoll at
+
+Appeared in the Nov. 01, 2016, print edition as 'BlackBerry Teams Up With Ford.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/acquisitions-seen-in-self-driving-market-1477433446
+Technology/By   Greg Bensinger    Greg Bensinger  The Wall Street Journal  Biography Greg Bensinger  @GregBensinger  Google+  Greg.Bensinger@wsj.com/Updated Oct. 25, 2016 10:46 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Acquisitions Seen in Self-Driving Market
+
+    Larger companies will probably acquire smaller ones rather than develop the technology in-house, investor says at WSJ tech conference
+
+LAGUNA BEACH, Calif.—The largest companies with the aim of creating self-driving vehicles will probably acquire smaller ones rather than develop the technology in-house, said 
+
+
+
+      Niklas Zennstrom, 
+
+
+
+       founder and chief executive of venture firm Atomico Ventures.
+“It’s really hard for an incumbent to transition themselves into a technology company,” Mr. Zennstrom said Tuesday at the
+here. “You’ll see more and more acquisitions.”
+The Wall Street Journal is hosting WSJDLive, an annual event that brings together tech leaders and luminaries. Click
+and join
+.
+There have been some signs of consolidation already.
+
+
+
+Cruise Automation Inc. for around $1 billion and
+into Lyft Inc. with the goal of introducing self-driving cars as soon as next year.
+Stephen Jurvetson, 
+
+
+
+       partner at venture firm DFJ, said on the same panel that
+
+
+
+known as Autopilot pushed other companies to consider entering the self-driving vehicle market.
+Earlier at the conference, Lyft President 
+
+
+
+      John Zimmer
+
+
+
+       said he expects autonomous vehicles to represent
+on the ride-hailing service.
+Separately, when asked about the
+of blood-testing firm Theranos Inc., in which DFJ was an early investor, Mr. Jurvetson said, “There is not much we can do when they fail.” Mr. Jurvetson said his firm has had little day-to-day dealings with Theranos.
+DFJ was not on the Theranos board of directors, Mr. Jurvetson said, and couldn’t affect the company’s operations. He noted DFJ was Theranos’ first investor, with a $500,000 injection, and then took a back seat. “She was off and did her own thing,” he said, referring to Theranos founder and CEO Elizabeth Holmes.
+Responding to a question about whether investors should play a more active role in their portfolio companies, 
+
+
+
+      Jenny Lee, 
+
+
+
+       a GGV Capital managing partner, said venture capitalists need to be assertive. They have to support entrepreneurs, but when the companies overstep, “even if we’re not on the board, we should go knock on the door and say, ‘we need to talk.’ ”
+Mr. Jurvetson chided The Wall Street Journal for its “ad nauseam” coverage of the Silicon Valley company over the past year, saying it was “relishing” Theranos’s struggles.
+A Dow Jones spokesman said: “The Journal is proud of our award winning coverage on Theranos, which has engendered significant reader support.”
+
+Greg Bensinger at
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-earnings-the-moment-of-truth-1477422167
+Ahead of the Tape/By   Steven Russolillo    Steven Russolillo  The Wall Street Journal  Biography Steven Russolillo  @srussolillo  steve.russolillo  Google+  Steven.Russolillo@wsj.com/Oct. 25, 2016 3:02 p.m. ET/Markets
+            
+
+            
+              Stocks
+            
+
+              
+                
+                    Ahead of the Tape
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Earnings: The Moment of Truth 
+
+    Tesla Motors has a low bar to hurdle in Wednesday’s earnings report as analysts have slashed estimates
+
+Chief Executive 
+
+
+
+      Elon Musk
+
+
+
+       raised the ante for third-quarter results. Analysts have been lowering it ever since.
+In a staff memo sent in late August and
+, Mr. Musk pleaded with employees to slash costs and deliver “every car we possibly can” to show positive cash flow. He called it Tesla’s “last chance” to show investors it can be profitable before the Model 3 hits full production. “It would be awesome to throw a pie in the face of all the naysayers on Wall Street who keep insisting that Tesla will always be a money-loser,” Mr. Musk wrote.
+He might need to wait before he enters that pie-throwing competition. Wall Street analysts have cut their estimates sharply ahead of Wednesday’s quarterly report. Those polled by FactSet estimate Tesla lost 4 cents a share on an adjusted basis. As recently as March, they had expected a quarterly profit of 52 cents a share. And in summer 2015, this estimate was as high as $1.09 a share.
+Using generally accepted accounting principles, Tesla is expected to log a loss of 59 cents a share. Since going public in 2010, Tesla only has reported one profitable quarter under this basis. That came in 2013, when the stock surged from the mid-$30s to nearly $200. It has been volatile ever since, currently still trading around $200 with a silly valuation.
+Whether or not the quarter is profitable, investors will want to hear about future production, which they are counting on
+.
+, Tesla reported third-quarter deliveries of its vehicles more than doubled from a year earlier to 24,500. It also reiterated its forecast earlier this month that it would produce 50,000 vehicles in the second half of 2016. And it maintains it will deliver 500,000 cars by 2018, thanks to the Model 3 mass-market sedan.
+But Tesla has repeatedly overpromised and underdelivered. In the past five years, Tesla has failed to meet more than 20 of Mr. Musk’s projections,
+.
+There are other reasons for caution: the
+with
+
+,
+and
+from Consumer Reports. Now, one-third of analysts have sell ratings on Tesla, more than double from the summer of 2015 and the most since it went public.
+Time to hit the brakes on this stock.
+
+Steven Russolillo at
+
+Appeared in the Oct. 26, 2016, print edition as 'The Moment of Truth for Tesla.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-says-solarcity-deal-would-boost-balance-sheet-1478035626
+/By   Tim Higgins and   Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com     Cassandra Sweet    Cassandra Sweet  The Wall Street Journal  Biography Cassandra Sweet  @CassandraSweet  Google+  Cassandra.Sweet@wsj.com/Updated Nov. 1, 2016 8:19 p.m. ET/Business
+            
+
+
+
+
+      
+
+    
+
+
+  
+
+  Tesla Says SolarCity Deal Would Boost Balance Sheet
+
+    Merger would add more than $500 million during next three years, auto maker says
+
+would add more than $500 million in cash to
+
+Inc.’s balance sheet during the next three years
+, the auto maker said.
+The solar business would contribute more than $1 billion in revenue next year, Tesla said in
+Tuesday as part of Chief Executive 
+
+
+
+      Elon Musk’s
+
+
+
+       continued effort to persuade shareholders to accept the proposed merger on Nov. 17.
+SolarCity had nearly $400 million in revenue in 2015 through leasing solar panels that it installs on homeowners’ roofs, but the company plans to sell more panels for cash in the years ahead. Analysts polled by FactSet are expecting SolarCity to reach $694 million in sales this year.
+During a call Tuesday that included SolarCity’s senior leaders, Mr. Musk, who is chairman of both companies, told analysts that he anticipated shareholders would approve the deal.
+“I’m pretty optimistic about where the vote is going,” he said. “The early votes so far have been overwhelmingly in favor.”
+Mr. Musk said it would be difficult for Tesla and SolarCity as separate companies to play the leading role they envision in consumer and utility power, and that a single, unified brand would be more powerful. “Would you go to an Apple store,” he asked, “and expect to see six different cellphones [for sale]?”
+Mr. Musk last week showed how the companies would work together at a Los Angeles event where he unveiled a product suite that
+, energy storage and electric cars.
+SolarCity has been spending more than $200 million a quarter, while taking in less than that in revenue, a burn rate that has worried some investors.
+The company, which is run by Mr. Musk’s cousins, has built its business by leasing the panels, often for no money down, in return for monthly payments over several years. Such leases would generate $8 billion over the next 20 years, according to Tesla. SolarCity’s plans to sell more panels also would boost its cash reserve.
+“As SolarCity further shifts its product mix to cash sales and loans, it will further increase the upfront cash generation of new installations and expects to increase its cash balance even more in Q4 2016,” Tesla said on its website.
+SolarCity increased its cash in the third quarter from the second quarter this year, Tesla said. That included a $305 million cash equity transaction last September with Quantum Strategic Partners Ltd., the hedge fund of billionaire investor 
+
+
+
+      George Soros.
+In addition, Tesla said the companies planned to accelerate SolarCity’s cost-cutting as part of “strict cost discipline.”
+Mr. Musk has been making the case since summer for accelerating his vision of an auto maker that sells a suite of products to enable sustainable car ownership. Mr. Musk also is laying the groundwork for cars that drive themselves and could be rented out to make money when not in use by the owner.
+Mr. Musk on Friday demonstrated glass-tile solar panels that look like traditional roofing materials. He didn’t say when they would be available for sale.
+“By combining SolarCity with Tesla, we expect to significantly expand our total addressable market to include a solar market that generates $12 billion in the U.S. alone, and that is expected to grow at a compounded annual growth rate of between 15-20% in the next five years,” Tesla said in the statement.
+“Additionally, with the new products that we have shown, we expect that solar’s share of the nation’s $400 billion in annual retail electricity sales will increase more than anyone currently expects,“ the statement said, referring to solar roof tiles shown by Tesla last week.
+The statement outlining the financial impact of a Tesla-SolarCity merger followed Tesla’s announcement last week of
+, buoyed by record sales and reduced manufacturing costs along with the sale of Zero Emission Vehicle credits to other auto makers. Mr. Musk said Tesla is on track for another profitable quarter on adjusted basis in the current quarter ending in December.
+Tesla is preparing to ramp up assembly of the forthcoming Model 3 sedan, a vehicle Mr. Musk said he believes will take the company’s production to 500,000 vehicles in 2018 from about 50,000 last year. He is on track to produce about 80,000 vehicles this year, Mr. Musk said last week.
+SolarCity is scheduled to report third-quarter financial results next week.
+
+Tim Higgins at
+and Cassandra Sweet at
+
+Appeared in the Nov. 02, 2016, print edition as 'Tesla Says SolarCity Merger Would Boost Balance Sheet.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/fords-profit-falls-on-recall-costs-1477566558
+Earnings/By   Christina Rogers/Updated Oct. 27, 2016 8:50 a.m. ET/Business
+            
+
+
+              
+                
+                    Earnings
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Ford Reports Lower Profit 
+
+    Softening U.S. volumes underscore concerns about Detroit’s ability to continue increasing sales amid a  market plateau
+
+third-quarter earnings fell 56% compared with the same period in 2015, hurt by hefty recall expenses, weaker U.S. shipments and product-launch costs in its core North American operation.
+The No. 2 U.S. auto maker on Thursday reported nearly $1 billion in profit for the period ended Sept. 30, down from $2.2 billion in the same period a year earlier. The prior-year’s performance benefited from high prices Ford was commanding for the then-newly redesigned F-150 pickup truck.
+The Dearborn, Mich., auto maker said operating profit was 26 cents a share, topping analysts’ expectations for 20 cents a share as recall expenses and marketing costs were lower than investors’ anticipated. Still, results were hit by $600 million in costs tied to faulty door latches.
+Revenue declined 6% to $35.9 billion as weaker sales in the U.S. contributed to a global shipment drop. The company said it had $2 billion in cash outflows in the third quarter, and expects to return to positive cash flow in the fourth quarter.
+While Ford remains profitable, third-quarter sales jitters underscore concerns about Detroit’s ability to continue increasing margins or sales amid a U.S. market plateau. While results at smaller U.S. auto makers
+NV and
+
+recently showed their potential for future earnings or revenue growth,
+
+and Ford posted deteriorating North American margins during the quarter even as U.S. demand for trucks and SUVs surged.
+Ford reaffirmed 2016 guidance of $10.2 billion adjusted pretax profit and reiterated its full-year North American margins will be below that of 2015. The auto maker plans to further trim production in the fourth quarter to reflect softer U.S. volumes.
+“What’s happening in the company is really what’s happening in North America,” said Ford finance chief 
+
+
+
+      Bob Shanks.
+
+
+
+       North American margins exceeded 12% of sales in the third quarter of 2015, but fell to 5.8% in the most recent quarter, or 8.4% excluding recall costs.
+Coming off 2015’s record pre-tax profit, Chief Executive Officer 
+
+
+
+      Mark Fields
+
+
+
+       is combating weak conditions in South America and a weaker outlook in the U.K. resulting from the country’s vote in June
+.
+Rising sales and profitability in China and an uptick in European profits helped counter the quarter’s 57% drop in North American profit, which accounts for more than 90% of Ford’s earnings. Its operating income in North America last quarter was $1.3 billion, compared with $2.9 billion in the same period last year.
+Earlier, the auto maker issued a weaker outlook in the U.S. for its second half and said it expects industry sales to continue falling through 2017, putting pressure on executives to lift earnings in overseas operations.
+In Europe, Ford posted an operating profit of $138 million compared with $9 million in the same year-ago period, sidestepping currency declines and softer sales in the U.K. tied to the Brexit impact.
+Ford took steps to counter industry weakness in the U.K, including raising new-car prices 2.5% in September and reducing dealer stock. The company expects Brexit to lead to $140 million in negative earnings impact in the second half of 2016 and to shave another $600 million from earnings in 2017.
+In Asia Pacific, Ford recorded a $131 million operating profit, up from $22 million a year ago, as its sales in China surged during the quarter. Margins rose in China in the third-quarter to 13.4% versus 12.7% a year ago, but Ford sells a fraction of the volume in China compared with what it sells in the U.S.
+Ford’s operating losses in South America deepened to $295 million, from $163 million in the third quarter a year ago, but Mr. Shanks said the market there is showing signs of bottoming out and the company expects a turnaround next year.
+
+Christina Rogers at
+
+********************************************************************************
+
+https://www.wsj.com/articles/nvidia-ceo-sees-smart-cars-getting-much-smarter-1477426300
+Technology/By   Don Clark    Don Clark  The Wall Street Journal  Biography Don Clark  @donal888  www.facebook.com/DonClark  Don.Clark@wsj.com/Oct. 25, 2016 4:11 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Nvidia CEO Sees Smart Cars Getting Much Smarter   
+
+    At WSJ tech conference, Jen-Hsun Huang says technology for driverless cars evolving ‘way faster than Moore’s Law’
+
+LAGUNA BEACH, Calif.—
+
+
+Chief Executive 
+
+
+
+      Jen-Hsun Huang
+
+
+
+       already lets his Tesla drive him much of the way to work on its own. But he predicts such vehicles will get much smarter in a hurry.
+His company, whose chips are used to power autonomous driving and other artificial-intelligence applications, is just one player pushing the pace, Mr. Huang said Tuesday during an appearance at The Wall Street Journal’s WSJDLive 2016 global technology conference. The bigger factor is the race by just about every company that makes software to exploit what are called AI techniques in cars and other everyday devices, he said.
+The Wall Street Journal is hosting WSJDLive, an annual event that brings together tech leaders and luminaries. Click here for the
+and
+
+That means, once such technology is deployed in something like a smartcar, the software is continually updated over time based on data from all the cars on the road.
+“The software becomes better and better,” Mr. Huang said.
+As a result of the software race, and chips like Nvidia’s, the benefits are going to move much more quickly than the rate at which gains in conventional microprocessors accelerated innovation in industry’s like personal computers—a pace of innovation named after
+
+co-founder 
+
+
+
+      Gordon Moore.
+“It’s going to move way faster than Moore’s Law,” Mr. Huang said.
+Mr. Huang appeared at WSJDLive after two substantial wins for his company’s technology designs announced last week.
+
+said it would use Nvidia’s chips to help power autonomous driving functions that the car maker plans to enable through future software updates.
+
+, meanwhile, disclosed it was using Nvidia chips for its new Switch videogame console. Nvidia hadn’t placed a chip in a major game console since
+
+PlayStation 3, released in 2006.
+Nvidia’s shares have doubled this year, partly on optimism about artificial intelligence applications but also because of steady demand by personal computer users to improve the image quality on their systems.
+Nvidia, based in Santa Clara, Calif., built its business by selling chips called graphics processing units, or GPUs, that help generate images in videogames. About a dozen years ago, Mr. Huang said, it adapted the same technology to be used for high-performance scientific calculations.
+More recently, Mr. Huang has been on a quest to a push GPUs into a branch of AI known as deep learning, which uses computers to sift through vast troves of data for purposes such as image recognition without explicit programming instructions. Most of the big web companies—including Google Inc.,
+
+and
+
+—have used Nvidia technology for deep learning.
+In cars, the Nvidia chips images from videocameras and other sensors to help detect pedestrians and other obstacles and for purposes such as interpreting road signs. In the future, Mr. Huang said, the sensors and other technology could help detect hazards like cars coming around corners or motorcycles splitting lanes.
+Eventually, Mr. Huang would like his car to not just drive him to work, but to recognize who he is, set up his conference calls and handle just about all the functions of a personal assistant. “The AI inside the car is going to be pretty amazing,” he said.
+
+Don Clark at
+
+********************************************************************************
+

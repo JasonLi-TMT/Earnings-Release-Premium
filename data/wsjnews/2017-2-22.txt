@@ -1,0 +1,1221 @@
+https://www.wsj.com/articles/alphabets-waymo-sues-uber-over-self-driving-car-secrets-1487894378
+Technology/By   Tim Higgins and   Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com     Jack Nicas    Jack Nicas  The Wall Street Journal  Biography Jack Nicas  @jacknicas  jnicas  Google+  Jack.Nicas@dowjones.com/Updated Feb. 23, 2017 9:11 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Alphabet’s Waymo Sues Uber Over Self-Driving Car Secrets
+
+    Suit accuses former Waymo employees of downloading information and leaving to join Uber’s Otto
+
+Google parent
+
+
+heated rivalry with Uber Technologies Inc. over self-driving cars has spilled into the courthouse, after the internet giant sued the ride-hailing company for allegedly stealing trade secrets to jump-start its own autonomous vehicle program.
+Anthony Levandowski, a former key manager in the Google self-driving car project, is accused of secretly downloading 14,000 files in December 2015 before departing Alphabet last year to create Otto, a self-driving truck maker acquired last year by Uber.
+This information was allegedly used by Uber to develop a laser sensor for self-driving navigation, according to the lawsuit filed by Alphabet’s Waymo LLC unit on Thursday in U.S. District Court in San Francisco.
+“We take the allegations made against Otto and Uber employees seriously and we will review this matter carefully,” said an Uber spokeswoman, who declined to make Mr. Levandowski available.
+Waymo claims other former employees who are now at Uber also allegedly downloaded confidential information about the laser sensor before they left Waymo, including supplier lists and manufacturing details.
+“Defendants leveraged stolen information to shortcut the process and purportedly build a comparable (laser sensor) system in only nine months,” Waymo’s complaint said.
+Waymo said in a blog post Thursday that it spent thousands of hours and millions of dollars to develop its proprietary laser-sensor system. “Misappropriating this technology is akin to stealing a secret recipe from a beverage company,” the company said.
+Among the records allegedly taken by Mr. Levandowski, according to the suit, were the circuit board designs for Waymo’s lidar, or light detection and ranging system used to guide a vehicle. Waymo said in the suit that a vendor “inadvertently” copied one of its employees on an email in December 2016 discussing an Uber project that contained the machine drawing for Uber’s circuit board that “bore a striking resemblance” to Waymo’s design.
+Waymo alleges in the suit that a month before Mr. Levandowski left the company in January 2016, he “took extraordinary efforts to raid Waymo’s design server and then conceal his activities.” Mr. Levandowski allegedly installed special software on his company laptop to access the specific computer server, and then downloaded 9.7 gigabytes of confidential data from it, according to the suit.
+He then attached an external hard drive to his laptop for eight hours, before erasing the history of his computer, the suit said. After that, he used his company laptop for another few minutes, “and then inexplicably never used it again,” the suit said.
+The suit alleges that on Jan. 14, 2016, Mr. Levandowski met with high-level Uber executives at Uber’s headquarters in San Francisco. A day later, he allegedly registered the company that would become Otto, initially calling it 280 Systems, the suit said. Twelve days later, he left Alphabet, according to the suit.
+Uber bought Otto for $680 million in stock in August 2016—shortly after Mr. Levandowski received his final multimillion-dollar compensation check from Alphabet, the suit said.
+The suit is the latest salvo in the friendship-turned-rivalry between Alphabet and Uber. In 2013, Google’s venture arm invested $258 million in Uber, and longtime Google 
+
+
+
+      executive David Drummond
+
+
+
+       joined the startup’s board. Google has let users book Uber rides in its Google Maps app, and Uber has also used Google’s mapping software to underpin its ride-sharing service.
+But as Uber has expanded its size and ambitions over the past two years, the two companies have increasingly been on a collision course.
+Beyond self-driving cars, Uber has begun developing its own mapping software and started a package- and food-delivery service that competes with a similar Google offering. Google’s Waze navigation app, meanwhile, is
+that lets users carpool with each other to work.
+In August, Mr. Drummond
+“given the overlap between the two companies.”
+The suit comes at a rough time for Uber, which is reeling from sexual harassment charges from a former software engineer. The company this week hired former U.S. Attorney General 
+
+
+
+      Eric Holder
+
+
+
+       to
+and promised to make changes to its human resources department to better handle complaints of sexism and harassment.
+Waymo’s lawsuit follows one filed by
+
+last month in a California state court against the former director of its Autopilot program Sterling Anderson and Chris Urmson, the former chief technology officer of Google’s self-driving project. Tesla has accused the two of
+away from the auto maker to work at their newly formed autonomous car startup. The startup has denied wrongdoing.
+—Greg Bensinger and Sara Randazzo contributed to this article.
+
+Tim Higgins at
+and Jack Nicas at
+
+Appeared in the Feb. 24, 2017, print edition as 'Alphabet Sues Uber Over Trade Secrets.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-faces-life-after-subsidies-in-hong-kong-beacon-city-for-electric-cars-1487852323
+/By   Anjani Trivedi    Anjani Trivedi  The Wall Street Journal  Biography Anjani Trivedi  @anjani_trivedi  anjani.trivedi@wsj.com/Updated Feb. 23, 2017 7:36 p.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Tesla Faces Life After Subsidies In Hong Kong, ‘Beacon City’ For Electric Cars
+
+    Hong Kong, one of Tesla’s best markets in the world, is curbing an electric vehicle subsidy, which could prove very painful.
+
+A beacon of light has dimmed for Tesla in one of its most promising markets in the world. Navigating
+, without subsidies, will be tough.
+Hong Kong has been a playground for Teslas. They are literally everywhere in the tiny territory, thanks to a generous tax subsidy for electric cars. That is all changing. The Hong Kong government announced this week it has capped the tax waiver below what a typical Tesla costs. A basic Tesla Model S used to cost US$73,000. It now costs $119,600. For more expensive models,
+.
+Get financial insights and commentary on global investing from The Wall Street Journal’s Heard on the Street team.
+
+The government’s rationale: if you can buy a Tesla, surely you can afford the tax. Other players like Nissan and Renault, with cheaper electric models, won’t be as affected. Hong Kong has been a big proponent of electric cars and has almost 7,500 on its roads. Tesla doesn’t disclose sales by country but going by government data, over 90% of electric cars registered in recent months have been Teslas.
+Elon Musk
+
+
+
+       visited Hong Kong in January last year, calling it “a beacon city” for electric cars. Then, in November, Tesla’s global sales head, 
+
+
+
+      Jon McNeill
+
+
+
+       inaugurated one of Tesla’s largest service centers there. At the time, local press reported that Tesla was working with regulators to stave off changes to the tax subsidy.
+Tesla now says it is disappointed by the government’s move, but will continue to support its “owner community” and deliver backlogged orders. Anecdotally, the value of offers on a secondhand Tesla shot up to above that of a new Tesla in Hong Kong.
+Going by Tesla’s experience in Denmark, where sales fell sharply after subsidies were phased out, Mr. Musk’s “big plans” for Hong Kong as said at a public event last year, may have to be revised.
+
+Anjani Trivedi at
+
+Appeared in the Feb. 24, 2017, print edition as 'Tesla’s Road Steepens in Hong Kong.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/here-are-the-five-quickest-cars-1487951807
+//Feb. 24, 2017 10:56 a.m. ET
+
+    
+    
+      
+      12 COMMENTS/Here Are the Five Quickest Cars
+
+      Motor Trend magazine has been testing vehicles for more than 60 years. Here are the five models that go fastest from zero to 60 miles an hour, and their times.
+
+  
+    Feb. 24, 2017 10:56 a.m. ET
+
+    
+    
+      
+      12 COMMENTS
+
+
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-earnings-what-to-watch-1487768403
+Technology/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Feb. 22, 2017 8:00 a.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Earnings: What to Watch 
+
+    Auto maker’s fourth-quarter earnings report follow November acquisition of SolarCity
+
+fourth-quarter financial results are expected to be released after the market closes on Wednesday. Here’s what you need to know:
+This will be the first time Tesla reports earnings
+SolarCity Corp. in mid-November. The auto maker has done little to guide the market for how to expect results, leading some analysts to exclude the solar panel business from their estimates until greater clarity is provided. As a result, the estimates between analysts vary widely. Ben Kallo, an analyst for Robert W. Baird & Co., told his clients the results could be “noisy.”
+
+
+
+The clock is ticking for CEO 
+
+
+
+      Elon Musk
+
+
+
+       to meet his deadline of starting production to bring out the new Model 3 this year. The $35,000 mid-sized sedan is his bet that he can offer an all-electric car to a broader audience beyond those willing to spend on average $100,000 for the Model S. He has set a July 1 deadline for his suppliers and internal teams to be ready for production. Investors will be listening for any information about the status of the Model 3.
+
+Mr. Musk has a history of setting ambitious targets and missing deadlines. Jeffrey Osborn, an analyst for Cowen and Co., wonders if the influence of Chief Financial Officer 
+
+
+
+      Jason Wheeler, 
+
+
+
+       after about 18 months into his job
+
+
+will be seen in setting more conservative 2017’s targets. “We believe there is potential for the company to issue relatively conservative unit guidance,” Mr. Osborn wrote in a Feb. 15 note.
+
+Mr. Musk also faces the challenge of integrating SolarCity into Tesla. He dropped the word “Motors” from the company’s name earlier this month as he looks to make a fully integrated company that makes solar powers to generate energy, large batteries for storing that power at home and offices and electric cars that can run on it. Since the deal closed on Nov. 21, Tesla shares have risen almost 50% yet questions about how Mr. Musk will pull off the integration remain. Investors will look for early signs of that work.
+
+One of the big knocks against the SolarCity deal was the effect it would have on Tesla’s cash pile just as it prepares to introduce the Model 3. Mr. Musk has said he has enough money, though signaled he might raise additional cash through the capital or debt markets. Tesla’s guidance in October suggested it planned to spend about $1 billion on capital expenditures in the fourth quarter. Tesla finished September with $3.1 billion in cash.
+-0-
+
+********************************************************************************
+
+https://www.wsj.com/articles/daimler-shifts-gears-with-its-smart-cars-1487287908
+Autos/By   Adrienne Roberts    Adrienne Roberts  The Wall Street Journal  Biography Adrienne Roberts  @AdrRoberts  adrienne.roberts@wsj.com/Updated Feb. 17, 2017 1:58 a.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Daimler Shifts Gears With Its Smart Cars 
+
+    Auto maker to exclusively sell electric versions of its small city cars after model year ends
+
+is planning a risky shift for its Smart brand in the U.S., deciding the struggling unit will exclusively sell electric versions of the small city cars after the current model year ends.
+The move, communicated to 85 Smart dealers earlier this week, comes amid weak demand for both electric vehicles and compact cars and an increased appetite for pickups and sport utilities. Smart, which launched in the U.S. in 2008 with minicars that are much smaller than most automobiles on American roadways, competes in a compact segment that is shrinking.
+Most Smart dealers also sell Mercedes-Benz products, which represent the bulk of Daimler’s sales in the U.S.
+Daimler’s rethinking of Smart reflects broader strategy shifts related to small cars.
+
+
+for instance, recently killed off a Dodge small car and retooled its strategy for the tiny Fiat 500 by
+and allowing dealers to scale back on overhead.
+Smart cars are used in certain car-sharing fleets, where the short range of electric cars and charging needs are less of an impediment than they are for private owners. Daimler’s
+, for instance, offers Smart cars in various cities.
+While electric vehicles represent a sliver of  U.S. sales and competent EVs are hard to find, the strategy of selling an electric-only lineup has seen success. Tesla Motors Co., selling vehicles that cost five times as much as Smart products, has
+even as most other electric vehicles have struggled.
+While a handful of electric-only brands have fizzled, startups—including
+backed by Chinese investors—are planning to enter the market with EV lineups in coming years.
+Electric vehicles accounted for 0.37% of all new car sales in the U.S. in 2016, according to Edmunds.com. Tesla sold 76,230 vehicles last year, a substantial portion of which was delivered to U.S. buyers.
+Not all efforts are considered as successful.
+
+has a small i3 that can travel as far as 114 miles on a single charge. Even after extending the range on the i3 electric vehicle in July by about 33 miles the auto maker only sold 7,625 of them in the U.S. in 2016.
+Like many auto makers, Mercedes-Benz owner Daimler is spending heavily on electric vehicles to meet emissions requirements and in expectation of an eventual uptick in consumer demand. Converting the niche Smart lineup to electric in the U.S. is likely one step in a process that will include the launch of more capable electric luxury cars.
+“Electric is central to our long-term powertrain strategy in the U.S., and the smart Fortwo electric drive will play an important role in carrying this forward,” Daimler said in its dealer letter. Smart’s electric vehicles can achieve 68 miles of driving on a single charge and are currently on sale in the U.S..
+Selling electric cars can help auto makers meet emissions requirements even when having a disproportionate reliance on less-efficient vehicles, including certain SUVs. In January, for instance, Mercedes relied on SUVs for 49.3% for its U.S. sales, according to Autodata.
+Daimler recently redesigned the two-seat Smart Fortwo coupe and the Fortwo convertible that are currently on sale with a $14,600 base price. The electric versions of those cars, which will be the lone offerings when the 2018 model-year lineup debuts, has a $12,490 base price.
+“We’re sorry to see the gasoline-powered Smart cars go, but they’re not a huge part of our business,” said 
+
+
+
+      Kim Patterson, 
+
+
+
+       general manager of Mercedes-Benz of Plano, Texas. He said the company sells an average 185 Mercedes products a month, compared to five Smart cars.
+Smart sold 6,211 vehicles in the U.S. last year, a decrease of 17% when compared to 2015 and 74.8% from the 24,622 vehicles it sold in 2008 when it made its debut in the U.S. Daimler launched Smart in the late 1990s for European markets, where city cars have long enjoyed more popularity and fuel prices are typically much higher than in the U.S..
+
+Adrienne Roberts at
+
+********************************************************************************
+
+https://www.wsj.com/articles/todays-top-supply-chain-and-logistics-news-from-wsj-1487849882
+/By   Paul Page/Feb. 23, 2017 6:38 a.m. ET/Business
+            
+
+            
+              Logistics Report
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Today’s Top Supply Chain and Logistics News From WSJ
+
+    Delivering up-to-the minute news, analysis, interviews and explanatory journalism on logistics, supply-chain management, e-commerce and more
+
+With one click,
+.
+
+The aerospace giant is proposing to overhaul the manufacturing process by
+, the WSJ’s Andy Pasztor reports. That would mark a big change in a satellite business that traditionally has relied on highly customized, manual assembly procedures that keep production slow and costs high. But new methods and new technology are aimed at bringing together standardized, pretested components and sidestepping most of the painstaking testing and integration currently that’s now carried out on the factory floor. That will mean lower supplier and labor costs in the near term, but Boeing also expects to become more nimble in its manufacturing by being able to upgrade technology even while production is underway. Those processes could filter into Boeing’s aircraft and, if it flies, become a model for other manufacturers.
+
+, but it still has a long way to go.
+, the WSJ’s Tim Higgins reports. The quarter was Tesla’s second-best ever for deliveries in a business that has struggled with supplier problems and production delays. But the 27% year-over-year growth in the last quarter left the company about 4,000 vehicles short of the 50,000 deliveries that Tesla Chief Executive 
+
+
+
+      Elon Musk
+
+
+
+       had targeted for the second half of 2016. The targets are significant for a business that is trying to redraw motor vehicle supply chains as it changes consumer buying behavior. The company will have to ramp up the pace: it plans to start sales of its Model 3 later this year, a sedan that is supposed to expand annual production to 500,000 cars next year—nearly six times the current rate.
+
+. Zhejiang Geely Holding Group Co., the Chinese auto maker that owns Volvo Cars,
+Proton Holdings Bhd., the WSJ’s Yantoultra Ngui, Trefor Moss and Kane Wu report. The effort comes as Proton’s parent is looking for a foreign strategic partner, and France’s PSA Group, which makes
+and Citroën cars, also has submitted a bid. But Geely’s offer could have the biggest impact. The company is looking to get a piece of the big auto market outside China, and could scale up quickly with the Malaysian manufacturer: Cars built in any of the 10 members of the Association of Southeast Asian Nations can be sold throughout the bloc tariff-free. That would boost Geely in the consumer market and on the production end helping the auto maker build bigger scale with its parts suppliers.
+
+with a decision to eliminate antibiotics in its products.
+
+
+, the WSJ’s Jacob Bunge reports, a market where products can command premium prices but also cost more to produce. It’s part of Tyson’s broader push to shift from its roots as a bulk commodity supplier into a branded, higher-grade distributor in its own right. The impact of the no-antibiotics decision will ripple across farms and supply chains since Tyson processes more than one-fifth of all poultry sold in the U.S. It’s a big win for groups fighting the use of antibiotics in food supply chains since Tyson’s big scale will make it more economical for more farms to operate without the drugs.
+
+We cannot continue to do what we’ve been doing and stay competitive.
+
+Decline in U.S. trade in goods with eurozone countries in 2016 from 2015, according to the U.S. Commerce Department.
+U.S. home sales
+to the highest level since February 2007. (WSJ)
+Mexico’s economic growth
+as a sluggish industrial sector offset robust gains in domestic consumption. (WSJ)
+China sharply
+in the weeks before Beijing suspended the coal trade. (WSJ)
+Workers at Japan’s
+want the company to
+amid surging demand and a shortage of manpower. (Nikkei Asian Review)
+Up to 20,000 metric tons of cocoa is
+and might not be sold following a wave of defaults by exporters. (Reuters)
+Rail equipment maker
+
+profit
+as railroads restrained spending in a tight freight market. (Pittsburgh Post-Gazette)
+Texas-based less-than-truckload carrier Central Freight Lines Inc.
+of Wilson Trucking Corp., based in Fisherville, Va. (Staunton News Leader)
+The union representing Spain’s port workers set a
+to protest a port liberalization plan. (Lloyd’s List)
+U.S. domestic container line
+
+
+to $19.4 million as rising fuel costs offset a 5% gain in revenue. (American Shipper)
+The new Seoul-based SM Shipping container line will
+with a single string of ships sailing between Asia and the U.S. West Coast. (Korea Pulse)
+Container ship owner
+
+
+in the fourth quarter as it took a $205 million charge related to bankrupt Hanjin Shipping. (Seatrade Maritime)
+APM Terminals will nearly
+at Port Elizabeth, N.J., to $200 million to prepare for larger container ships. (Port Technology)
+Libyan militia forces allied with a powerful warlord
+traveling through the Mediterranean. (Maritime-Executive)
+Discount retailer
+
+will build a
+in central New York state, its 16th in the U.S. (Business Journals)
+New Zealand is
+of apples and pears after record crops this year. (FruitNet)
+Paul Page is deputy editor of WSJ Logistics Report. Follow him at
+, and follow the entire WSJ Logistics Report team:
+,
+and
+and follow the WSJ Logistics Report on Twitter at
+.
+Subscribe to this email newsletter by clicking here:
+
+
+
+Paul Page at
+
+********************************************************************************
+
+https://www.wsj.com/articles/gm-tech-industry-at-loggerheads-over-self-driving-cars-1487932204
+Autos/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Feb. 24, 2017 5:30 a.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  GM, Tech Industry at Loggerheads Over Self-Driving Cars
+
+    Car maker backs state legislation that tech companies say could put them at a disadvantage in autonomous vehicles. GM denies the claim.
+
+When Illinois state Rep. 
+
+
+
+      Michael Zalewski
+
+
+
+       crafted state legislation that would allow car makers to operate self-driving taxi services, he leaned heavily on
+
+
+His bill, introduced Feb. 8, would limit access to the business to companies that make their own vehicles. That means GM would be eligible, but not tech companies like Uber Technologies Inc. that are developing their own self-driving cars and don’t make their own vehicles.
+“General Motors approached me about it and suggested that they had success last year in Michigan [with a similar bill], and they consider Chicago a big market for them,” Mr. Zalewski, a Democrat, said in an interview. “We went from there.”
+GM’s involvement in the legislation
+between Motor City car makers that have long done it their way, and Silicon Valley tech companies that aim to rewrite the rules of the road.
+After falling behind in self-driving cars, GM has unleashed its powerful lobbying team to cultivate relationships with statehouses. The largest U.S. vehicle maker by sales has a long history of backing legislation to preserve its interests, including a bill in Indiana last year that would stop electric-vehicle maker
+
+from operating its own stores there.
+GM denied it is trying to keep tech companies out of the market for autonomous vehicles, noting that ultimately the lawmakers make the decision on what’s filed and that the company has worked with policy makers who have different views on the degree of legislation they want to support. On Thursday, the auto maker said it has been having discussions with Uber and Waymo, a unit of Google owner
+Inc., on language that everyone can support.
+“Our business is to introduce new technology into vehicles safely and that’s what we do,” said 
+
+
+
+      Harry Lightsey, 
+
+
+
+       GM’s executive director of emerging technologies policy. “We don’t have a problem with tech companies being in this business if they can show they are responsible and can be accountable for the performance of their product.”
+Last year, legislators introduced bills in 20 states that involve self-driving cars, according to the National Conference of State Legislatures. This year, lawmakers in several states are looking at legislation modeled after legislation in Michigan that GM endorsed and that originally excluded tech companies from participating in so-called mobility on-demand services, or autonomous taxis.
+Waymo, which
+on U.S. roadways, is fighting back. Michigan’s SAVE Act, enacted in December, was ultimately amended to include Waymo after outcries from the tech giant.
+“Just as Americans should have a choice in what car they buy, they should also have a choice to ride in safer, more advanced self-driving cars,” a Waymo spokesman said in a statement. “This kind of anticompetitive bill will only slow down the rollout of life-saving technology and create an unlevel playing field at the expense of consumer safety.”
+GM’s Mr. Lightsey said he is aware of at least 10 states where the SAVE Act language, which GM views as a model, is circulating among lawmakers, including in bills filed in Maryland, Georgia and Tennessee.
+Tennessee state Rep. 
+
+
+
+      William Lamberth
+
+
+
+       said he consulted with GM and others when drafting legislation similar to the SAVE Act. The Republican said he is cautious about letting tech companies have access to public roads for testing.
+“I know that if a manufacturer of a vehicle puts a car on the roadway it’s going to have gone through a thousand different tests before it ever gets out on the road,” Mr. Lamberth said. He added there is nothing preventing a tech company from partnering with an auto maker.
+In Illinois, where Mr. Zalewski in the past proposed statewide regulations against Uber, the lawmaker said he was prepared to “engage” in a dialogue with the ride-hailing service and other tech companies. “There are always opportunities for amendments,” Mr. Zalewski said.
+Mr. Zalewski’s bill includes a carve-out for Waymo similar to the one in the Michigan legislation, allowing for a company that has tested more than one million miles on public roads to be considered a car manufacturer. The Tennessee legislation doesn’t have such a provision.
+“We think it is early in the life of this technology” for states to enact legislation on self-driving cars, an Uber spokeswoman said in a statement.
+TechNet, a lobbying group founded years ago by Silicon Valley fixtures 
+
+
+
+      John Doerr
+
+
+
+       and 
+
+
+
+      John Chambers
+
+
+
+       to advocate for tech-industry issues, is tracking 60 autonomous-car-related bills that are circulating and expects 10 to 20 more this year.
+In Massachusetts, lawmakers proposed legislation to tax self-driving cars, dubbed by one lawmaker as zombie cars, out of fear of fleets of cars circling Boston without passengers. In California, after Uber last year
+, a bill has been filed to make such a violation punishable with a fine of up to $25,000 a day.
+Eric Paul Dennis, 
+
+
+
+       an analyst at the Center for Automotive Research in Ann Arbor, Mich., cautioned states from quickly adopting legislation.
+“The
+to which these laws would apply is at least 2021,” he said. ”By that time, our knowledge of the topic may have changed so much that anything passed now will be obsolete.”
+
+Tim Higgins at
+
+Appeared in the Feb. 27, 2017, print edition as 'Tension Grows as Auto, Tech Industries Converge.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/you-have-to-stop-renaissance-executive-tells-boss-about-trump-support-1487845803
+//Updated Feb. 23, 2017 2:07 p.m. ET/‘You Have to Stop,’ Renaissance Executive Tells Boss About Trump Support
+
+David Magerman says he was in his home office in suburban Philadelphia earlier this month when the phone rang. His boss, hedge-fund billionaire 
+
+
+
+
+      Robert Mercer, 
+
+
+
+
+       was on the line.
+“I hear you’re going around saying I’m a white supremacist,” 
+
+
+
+
+      Mr. Mercer
+
+
+
+
+       said. “That’s ridiculous.”
+In the prior weeks, Mr. Magerman, a registered Democrat who calls himself a centrist, had complained to colleagues about Mr. Mercer’s role as a prominent booster of Donald Trump’s presidential campaign.
+Now word of Mr. Magerman’s criticism had reached Mr. Mercer, co-chief executive of Renaissance Technologies LLC, one of the world’s most successful hedge funds.
+“Those weren’t my exact words,” Mr. Magerman said he told Mr. Mercer, stammering and then explaining his concerns about Mr. Trump’s policy positions, rhetoric and cabinet choices. “If what you’re doing is harming the country then you have to stop.”
+Mr. Mercer declined to comment through a spokesman. In a statement, Renaissance’s chairman and founder, 
+
+
+
+
+      Jim Simons, 
+
+
+
+
+       who has been a prominent financial backer of Democrats, said, “I have worked closely with Bob Mercer since he joined our firm almost 25 years ago. While our politics differ dramatically, I have always thought him to be of impeccable character.”
+A presidential campaign that divided much of the country also has created tensions within companies. Some senior employees, accustomed to settling grievances behind closed doors, are rebelling in unusually public ways, the polarization playing out for the world to see. Days after the election, a partner at 
+
+
+
+
+      Peter Thiel’s
+
+
+
+
+       venture-capital firm, Founders Fund, wrote a blog post expressing fears of a Trump presidency, which Mr. Thiel had worked to promote. A spokesman for the firm declined to comment.
+After the November election, Grub Hub Inc., chief executive Matt Maloney seemingly suggested in an email to staff that employees who supported Mr. Trump should resign, citing the “hateful politics” of the new president. He later said the message had been misconstrued.
+Historically, some leaders of Renaissance, which is based on Long Island, N.Y., have leaned Democratic, including Mr. Simons, who donated to 
+
+
+
+
+      Hillary Clinton’s
+
+
+
+
+       2016 presidential campaign.
+Some Renaissance executives chafed at the unwanted publicity brought to the firm by Mr. Mercer’s activities during the presidential race, according to people close to the matter. In addition to providing crucial financial help when Mr. Trump’s candidacy was lagging, Mr. Mercer and his daughter Rebekah advised the campaign, suggesting the installation of two Mercer family confidantes, Steve Bannon and Kellyanne Conway, atop the campaign. Those two now hold senior White House positions.
+Until now, however, nobody within the tight-lipped hedge fund has gone public with a grievance.
+“His views show contempt for the social safety net that he doesn’t need, but many Americans do,” said Mr. Magerman, 48 years old, during an interview with The Wall Street Journal at the Dairy Café, a kosher restaurant he owns in Bala Cynwyd, Pa. “Now he’s using the money I helped him make to implement his worldview” by supporting Mr. Trump and encouraging that “government be shrunk down to the size of a pinhead.”
+Mr. Magerman, a 20-year Renaissance veteran who helped design the fund’s trading systems, says he is speaking only for himself, and that there is no sign of a broad insurrection at the firm.
+Mr. Magerman makes millions of dollars a year, drives a Tesla and says he gives more than $10 million in charity annually. A research scientist, he is one of 100 partners at the firm, but he isn’t one of Renaissance’s most senior executives.
+“I’d like to think I’m speaking out in a way that won’t risk my job, but it’s very possible they could fire me,” he said. “My wife isn’t comfortable with me jeopardizing my job, but she realizes it’s my prerogative and agrees with my sentiments.”
+He has concluded that every new piece of code he developed for Renaissance helped Mr. Mercer make more money and gave him greater ability to influence the country.
+To try to counteract his boss’s activities, Mr. Magerman says he has been in touch with local Democratic leaders and plans to make major contributions to the party. He says he called Planned Parenthood to offer his assistance and contacted 
+
+
+
+
+      Jared Kushner, 
+
+
+
+
+       Mr. Trump’s son-in-law and White House adviser, to voice his concerns about Ms. Conway and Mr. Bannon. He says he failed to reach Mr. Kushner.
+Mr. Magerman says he first spoke with Mr. Mercer in January, when Mr. Magerman, who donates to local schools, called Mr. Mercer to ask for the opportunity to reach out to Rebekah Mercer to offer the administration help on education policy.
+During the call, they talked politics, disagreeing about some of the administration’s early steps. After airing his concerns with others at the company, Mr. Magerman received the second call from Mr. Mercer two weeks ago.
+The conversation grew strained. After telling Mr. Mercer to stop harming the country, he said Mr. Mercer responded that his goal had been to defeat Mrs. Clinton and that he wouldn’t remain very involved in politics.
+“How can you say you’re not involved?” Mr. Magerman said, citing an outside group Rebekah Mercer was involved in that was aimed at boosting Mr. Trump’s agenda.
+Mr. Magerman has one idea that would reduce the power of people like Mr. Mercer. He said he was thinking about reaching out to Democratic Sen. Elizabeth Warren (D., Mass.) to craft proposals to reduce speculative trading, which presumably would curtail Renaissance’s profits.
+In conversation at his cafe, Mr. Magerman said he hoped his public statements wouldn’t cost him his job. But if he does get fired, he said, he would have more time to devote to politics and other causes.
+“This is my life’s work—I ran a group that wrote the trading system they still use,” he said. “But I feel relieved I’m now doing something, and if they fire me, maybe it’s for the best.”
+On Thursday morning, after an online version of this story appeared, Mr. Magerman received a new phone call from Renaissance. A representative told Mr. Magerman that he was being suspended without pay and no longer could have contact with the company.
+A Renaissance spokesman declined to comment.
+
+Gregory Zuckerman at
+
+********************************************************************************
+
+https://www.wsj.com/articles/cheap-flights-to-europe-bad-for-airlines-fat-margins-1487948056
+/By   Stephen Wilmot    Stephen Wilmot  The Wall Street Journal  Biography Stephen Wilmot  @stephenwilmot  stephen.wilmot@wsj.com/Feb. 24, 2017 9:54 a.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Cheap Flights to Europe: Bad for Airlines’ Fat Margins 
+
+    Last year growth in the number of seats flown between Europe and North America reached 8%
+
+Jet-setters to Europe have rarely had it so good: There are many more flights across the Atlantic at ever cheaper prices. This hasn’t become a problem yet for the big airlines, but business is bound to get tougher.
+Routes between North America and Europe are currently dominated by three huge alliances: American-IAG, Delta-
+
+and United-
+
+With fuel costs falling faster than ticket prices, margins are fat.
+owner IAG, the airline most dependent on trans-Atlantic profits, delighted investors Friday with a €500 million ($529.7 million) share buyback program.
+Get financial insights and commentary on global investing from The Wall Street Journal’s Heard on the Street team.
+
+But the old model is fraying as capacity balloons. Last year growth in the number of seats flown between Europe and North America reached 8% —way ahead of economic growth and the fastest since 2007. By far the most disruptive player is
+—the Tesla of the airline industry, decried and admired in equal measure. Twenty new
+Dreamliners will triple the company’s long-haul capacity over the next two years. Most of it is likely to be deployed in the trans-Atlantic market, where it already flies from London to New York, Los Angeles, Boston and a handful of other U.S. cities.
+For all the cost efficiency of its state-of-the-art fleet, Norwegian’s current long-haul business is only marginally profitable, according to
+
+leaving it highly vulnerable to the rising oil price. Yet it is forcing incumbents to react with rival operations. IAG
+from Barcelona in June; Air France-KLM is
+.
+In time, new jet technology could change everything. Norwegian
+, after it receives an order of cutting-edge Boeing 737 Max planes similar in size to those used for short-haul flights but capable of much longer distances. The new routes could eventually form the kind of point-to-point network with which
+and
+undermined the old hub-and-spoke model within Europe.
+Some consumers will always pay up for a good night’s sleep in the air, so there will be more profits in long-haul than short-haul. But the pie looks likely to be sliced more thinly in future. the trans-Atlantic oligopoly is under threat.
+
+Stephen Wilmot at
+
+********************************************************************************
+
+https://www.wsj.com/articles/carlos-ghosn-resigns-as-nissan-ceo-1487807319
+Autos/By   Sean McLain in Tokyo and   Sean McLain  The Wall Street Journal  Biography Sean McLain  @McLainSean  sean.mclain@wsj.com     John Stoll in Detroit   John Stoll  The Wall Street Journal  Biography John Stoll/Updated Feb. 23, 2017 12:06 a.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Nissan’s Carlos Ghosn Steps Back From CEO Role
+
+    Co-CEO Hiroto Saikawa to replace Ghosn, who will remain chairman of auto maker
+
+Carlos Ghosn
+
+
+
+       is leaving his chief executive role at
+
+, a company he
+and led for nearly two decades, to take a broader oversight role of the alliance that links Nissan with
+
+and
+
+
+Mr. Ghosn, 62, will hand the reins at Nissan in April to 
+
+
+
+      Hiroto Saikawa, 
+
+
+
+       his recently appointed co-CEO, the company said Thursday in Japan. Mr. Ghosn will remain chairman of the Japanese auto company and is expected to stay active in charting Nissan’s path.
+“There comes a time where you have to make some choices. I chose to pass the baton at Nissan,” Mr. Ghosn said in an interview Thursday in Tokyo.
+Born in Brazil to Lebanese parents and educated in France, Mr. Ghosn is
+for engineering Nissan’s comeback
+, a model in the car industry where the need for
+has increasingly outpaced the ability of any single company to respond.
+The Nissan CEO handover addresses one part of the transition to a post-Ghosn era at the alliance, but the largest questions remain unresolved. One is whether the current shareholding arrangement—in which Renault holds 43% of Nissan and Nissan holds 15% of Renault—is sustainable. The other is whether anyone can replicate the role Mr. Ghosn has built as a globe-trotting leader of both companies.
+Pressure is likely to grow on Nissan and Renault to merge, analysts say. “That pressure is coming from the French government, and Renault management people. but Ghosn has been protecting Nissan,” said 
+
+
+
+      Takaki Nakanishi, 
+
+
+
+       a Japanese auto analyst who owns his own research firm.
+As of October, Mr. Ghosn has a third role as chairman of Mitsubishi, the Japanese auto maker in which Nissan
+. Mitsubishi had
+.
+He has long telegraphed plans to step back from running day-to-day operations at Nissan but struggled to cultivate potential successors. Mr. Saikawa was appointed co-CEO after the Mitsubishi deal.
+A lifelong Nissan employee, Mr. Saikawa was among a group of managers sent to Europe in 1999, after Mr. Ghosn arrived at the company. He moved up the ranks to head Nissan’s European operations, before replacing Mr. Ghosn as head of Nissan’s U.S. operations in 2007.
+Mr. Ghosn said Mr. Saikawa’s appointment as co-CEO would allow Nissan to continue to make management decisions even while he took on more responsibilities at Mitsubishi.
+The new Nissan chief will face challenges to pick up where Mr. Ghosn left off. His initial success in meeting bold turnaround targets has waned in recent years. Nissan has fallen short of its most recent goals of 8% for both global market share and profit margin.
+Despite Mr. Ghosn’s best efforts to diversify Nissan’s operations globally, it remains highly dependent on the U.S. market and highly exposed to yen-dollar exchange rate fluctuations.
+Nissan and Renault faced off in late 2015 with the French government over the balance of power in the alliance. The French government owns 20% of Renault and has long wielded influence. Ultimately, the sides reached a truce in which the government under French law took an expanded voting stake in Renault but agreed to use it only on major strategic matters.
+Mr. Ghosn has often said that Nissan wouldn’t merge with Renault as long as the French government was a shareholder.
+With the Mitsubishi acquisition, the Renault-Nissan Alliance grew to become one of the largest car makers in the world.
+The group together produces nearly as many vehicles as General Motors Co., which Mr. Ghosn says allows them to compete on equal footing with GM,
+
+and others.
+Nissan and Renault have been ahead of many competitors in adopting certain technologies, including electrification. The all-electric Nissan Leaf, introduced in 2010, isn't as capable as cars sold by
+
+but it is among the best-selling electric vehicles in history.
+Nissan under Mr. Ghosn has made recent moves to challenge Toyota in its home market. Its Note hybrid has supplanted Toyota’s flagship Prius at the top of the Japanese sales charts in two of the past three months.
+Mr. Ghosn has said Nissan-Renault needs to lead on autonomous vehicle development. The alliance plans to sells 10 models with autonomous driving technology by 2020.
+The management shuffle takes place as more auto makers consider following the Ghosn blueprint. Last week, Peugeot said it
+Opel from GM, a move that would add one million vehicles of annual volume and likely lead to cost savings.
+Peugeot is run by Mr. Ghosn’s onetime lieutenant 
+
+
+
+      Carlos Tavares.
+Sergio Marchionne, 
+
+
+
+       chief of Fiat Chrysler Automobiles NV, has argued that much deeper consolidation is necessary. He advocates a combination of auto makers to form a company that could sell 15 million units a year, dwarfing others.
+
+Sean McLain at
+and John Stoll at
+
+Appeared in the Feb. 23, 2017, print edition as 'Ghosn Leaves Nissan CEO Post.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-loss-narrows-in-fourth-quarter-1487798522
+Technology/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Updated Feb. 22, 2017 8:21 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Sets Aggressive Production Plan for Model 3 
+
+    Company also reports 88% revenue increase for the fourth quarter
+
+laid out an aggressive production plan to bring out the new Model 3 sedan by year’s end, raising the likelihood the auto maker will need to raise more cash to support the rollout.
+The Silicon Valley auto maker said Wednesday it is on track to begin production in July on the car, and announced plans to ramp up to 5,000 vehicles a week in the fourth quarter.
+Tesla chief Elon Musk faces intense scrutiny over whether he can debut the Model 3 on time after years of delays. The $35,000 sedan is part of Mr. Musk’s bet to transform Tesla from a luxury car maker into a sustainable energy company that
+, offers solar power to generate energy, and produces large batteries to store that power at home and offices.
+Mr. Musk’s bold projections have ignited investors’ excitement, pushing the company’s market value to within reach of Ford Motor Co., which is 100 years older.
+Tesla’s share price has risen about 50% since the company
+, where Mr. Musk was also a major shareholder. The inflated market value could help the auto maker raise as much as $2.5 billion, said
+analyst 
+
+
+
+      Brian Johnson.
+Tesla’s projections Wednesday came as it reported its fourth-quarter loss narrowed to $121.3 million, a return to red ink after posting its first quarterly profit three months ago. Revenue jumped 88% to $2.28 billion, ahead of analysts’ expectations.
+Mr. Musk told analysts on a conference call Wednesday that while his plan to bring out the Model 3 doesn’t require additional money, the company’s cash pile will drop “close to the edge.”
+“We are considering a number of options, but I think it probably makes sense to raise capital to reduce risk,” Mr. Musk said.
+Tesla revealed that it spent only about half the $1 billion it projected to spend in the fourth quarter to prepare for production of the Model 3. The company said it shifted some payments with its capital equipment suppliers closer to Model 3 production to secure more favorable terms.
+The approach helped Tesla reserve its cash pile, which
+as Tesla was buying SolarCity just as it would need to spend big to produce the Model 3.
+Tesla finished the quarter with $3.39 billion in cash, up from $3 billion three months earlier. Tesla plans to spend between $2 billion and $2.5 billion this year ahead of Model 3 production.
+The company said it plans to finalize the location for two or three locations for its massive battery factories, called “gigafactories,” later this year. Tesla is finishing
+, which will have the capacity to make batteries for a million vehicles a year, Mr. Musk has said.
+On the call, Mr. Musk reiterated Tesla can build a half-million vehicles next year, and one million in 2020.
+Tesla struck a cautionary tone with its 2017 guidance, given the uncertainty of bringing out a new product, limiting its forecast for vehicle sales to the first half. The company expects to sell between 47,000 to 50,000 Model S and Model X vehicles in the period, roughly the same amount as in the previous six months.
+A new challenge emerging for Mr. Musk at the assembly plant is the possibility of labor unrest. A worker this month began making the case publicly about why the United Auto Workers union would be beneficial to hourly laborers. Mr. Musk said Wednesday that the UAW is making a “strong effort” to unionize the factory in Fremont, Calif.
+Tesla also said its financial chief, 
+
+
+
+      Jason Wheeler, 
+
+
+
+       is stepping down in April to pursue public policy. 
+
+
+
+      Deepak Ahuja, 
+
+
+
+       who retired as Tesla’s CFO in 2015, will replace Mr. Wheeler.
+
+Tim Higgins at
+
+Appeared in the Feb. 23, 2017, print edition as 'Tesla Sets Targets for Model 3 Production.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-drives-on-the-edge-1487803083
+/By   Charley Grant    Charley Grant  The Wall Street Journal  Biography Charley Grant  @CGrantWSJ  charles.grant@wsj.com/Feb. 22, 2017 5:38 p.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Tesla Drives on the Edge 
+
+    Tesla’s recent stock surge is a gift investors should accept
+
+Despite a furious
+,
+
+Inc. is running on fumes.
+The electric-car and clean-energy company
+of $2.3 billion and an adjusted loss of 69 cents a share on Wednesday. Sales topped analyst estimates, and the stock price was higher in late trading.
+But as usual with Tesla, the future matters more than the recent past. Whether Tesla can meet Chief Executive 
+
+
+
+      Elon Musk’s
+
+
+
+       ambitious timeline to deliver its mass market Model 3 Sedan will dictate whether the share price can stay high.
+Tesla announced it expects to deliver about 50,000 of its older Model X and Model S vehicles in the first half of the year. It also said it expects “volume production” of the Model 3 in the fall, in addition to its new solar roofing product.
+That sounds promising, but the prediction comes with some caveats. Tesla has developed
+, and it warned that even a small shift in production timing could have a “meaningful impact on total deliveries.”
+The risk for Tesla is running out of fuel to power its growth. Total liabilities now stand at nearly $17 billion compared with $7 billion a year ago, before Tesla’s acquisition of SolarCity, Mr. Musk’s solar power venture. Meanwhile, total cash and equivalents on hand amount to just $3.4 billion. And while another equity issuance seems likely to boost the cash balance in the near future, that cash is likely to go quickly.
+To ramp up production of the Model 3 as promised, Tesla needs to boost capital spending. Tesla’s free cash outflow swelled to nearly $1 billion in the quarter, despite lighter capital spending than expected. Spending was light because Tesla has deferred payment on some capital equipment. It says it is negotiating terms with some vendors and hopes to make some payments after production starts.
+Get financial insights and commentary on global investing from The Wall Street Journal’s Heard on the Street team.
+
+
+have never troubled shareholders before. Tesla needs to maintain investor confidence to get whatever cash it needs. The latest test is the resignation of the company’s chief financial officer on Thursday. He will be replaced by the old CFO, who left in 2015. But the recent stock surge of about 50% since Dec. 1 shows that faith in Mr. Musk will be tough to shake.
+Still, the dodgy balance sheet, looming electric vehicle competition from traditional manufacturers, and the stock’s exorbitant valuation—more than 200 times expected 2018 earnings—mean investors ought to prepare for the day when the market loses faith in Mr. Musk.
+Appeared in the Feb. 23, 2017, print edition as 'Tesla Is Still Driving on the Edge.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/growth-stocks-lead-again-but-dont-count-out-value-shares-just-yet-1487721370
+Markets Main/By   Chris Dieterich    Chris Dieterich  The Wall Street Journal  Biography Chris Dieterich/Updated Feb. 21, 2017 11:29 p.m. ET/Markets
+            
+
+
+              
+                
+                    Markets Main
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Growth Stocks Lead Again, But Don’t Count Out Value Shares Just Yet 
+
+    Value stocks outperformed growth stocks in 2016, but the tables have turned in the new year
+
+Value stocks snapped out of a slump last year, rising in tandem with an improving U.S. economy. While growth stocks have reclaimed the lead so far this year, thanks largely to technology shares, it is too early to call value a runner-up.
+The Russell 1000 Growth Index is up 7.5% in 2017, compared with 4.2% for its value-stock counterpart. The outperformance of growth stocks is typical of recent years, when investors have favored companies with higher earnings potential over companies that typically are considered to be undervalued by the market, or cheap relative to their fundamentals.
+One reason that growth is on top this year is that investors have piled into some of the largest U.S. technology stocks, making tech the best-performing sector in the S&P 500 so far this year.
+
+Inc. and
+
+
+both in the Russell 1000 Growth Index, are each up more than 15%.
+It isn’t all tech, however:
+
+
+has climbed 30% since the end of 2016.
+That marks a reversal from last year, when value stocks outperformed as yields on government bonds began to climb, the U.S. economy improved and inflation showed signs of picking up. Large-capitalization U.S. value stocks, which generally rely more on the overall economy to power earnings growth, rose 14% last year, compared with 5.3% for growth stocks.
+President 
+
+
+
+      Donald Trump’s
+
+
+
+       surprise election victory acted as an accelerant for value stocks, driving renewed interest particularly in the financial and industrial sectors—those that are expected to benefit from fiscal policies under the Trump administration.
+
+
+shares have risen more than 90% since the election.
+Value stocks were out of favor in the years leading up to 2016. With government-bond yields pinned near all-time lows and a stagnant U.S. economy, investors sought out growth stocks and bid up dividend-paying shares from industries including utilities and consumer staples.
+The Russell 1000 Growth Index advanced, on average, 16% a year from 2009 through 2015, compared with an 11% annual gain for the Russell 1000 Value Index, according to The Wall Street Journal’s Market Data Group.
+An improving U.S. economy or the implementation of tax cuts and infrastructure spending could reignite the rally in value stocks. Plus, they are relatively cheap by historical standards.
+The Russell 1000 Value Index’s price-to-book ratio—a valuation measure that compares share price with book value, or the firm’s intrinsic worth—was 1.92 at the end of last week, according to
+
+slightly below its average since 1995. Growth, at 5.22, is above its long-term average of 4.83.
+“Valuation spreads are still extreme even after there was a real scramble in the fourth quarter to get exposure to value,” said 
+
+
+
+      Michael Barakos, 
+
+
+
+       a portfolio manager at J.P. Morgan Asset Management. “Valuations and earnings momentum coming from deep-value stocks suggest that, over the medium to long term, recent strength in value could be just the tip of the iceberg.”
+
+Chris Dieterich at
+
+Appeared in the Feb. 22, 2017, print edition as 'Growth Stocks Make a Comeback.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/real-estate-is-latest-target-for-would-be-disrupters-1487327401
+Technology/By   Eliot Brown and   Eliot Brown  The Wall Street Journal  Biography Eliot Brown  @eliotwb  Eliot.Brown@wsj.com     Laura Kusisto    Laura Kusisto  The Wall Street Journal  Biography Laura Kusisto  @LauraKusisto  Laura.Kusisto@wsj.com/Feb. 17, 2017 5:30 a.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Real Estate Is Latest Target for Would-Be Disrupters
+
+    Startup Compass attracts billion-dollar valuation; skeptical incumbents say software can only go so far
+
+A real-estate startup called Compass Inc. has hired hundreds of sales agents away from older rivals, collected $225 million from marquee investors and amassed a valuation of over $1 billion, all with the pitch that its software can make brokers more efficient.
+Real-estate veterans say they’re baffled by how the four-year-old firm, active in only a few cities, could be considered one of the most valuable brokerages in the U.S.—a skepticism increasingly familiar to incumbents in old-line industries facing well-funded startups. Property brokerages typically command modest valuations on Wall Street, as they have few assets and limited growth prospects.
+“If they’re worth $1 billion, I’m worth $10 billion,” said 
+
+
+
+      Arthur Zeckendorf, 
+
+
+
+       co-chairman of
+LLC, a private company that owns New York brokerages such as Halstead Property and Brown Harris Stevens. The largest U.S. brokerage,
+
+, whose brands include Century 21 and Coldwell Banker, has a market value of $3.8 billion—not including $3.3 billion in debt.
+Having raised money from the likes of
+
+Peter Thiel’s
+
+
+
+       Founders Fund and mutual-fund manager Wellington Management, including a round in the fall that pushed its valuation over $1 billion, Compass now must show investors it can defy incumbents’ skepticism and deliver on its lofty aspirations.
+Executives at the New York-based firm say it is poised for years of fast expansion, with its software eliminating much busy work for brokers. In theory, this allows them to show more homes and deliver more sales, which, in turn, serves as a recruiting tool—enabling the rapid growth sought by investors. The broader industry has been improving, with total U.S. residential-sale commissions hitting an estimated $70 billion last year, up 67% from 2010, according to data firm Real Facts.
+“The way that we grow our revenue faster is we hire more agents—once they’re here, we help them grow their business faster,” said Compass co-founder and Chief Executive 
+
+
+
+      Robert Reffkin, 
+
+
+
+       a 37-year-old former Goldman Sachs banker whose mother is a Compass real-estate agent.
+Real estate is just the latest industry to witness a disconnect in the perception and value of incumbents and fast-growing startups.
+Home-reservation service Airbnb Inc. boasts a $30 billion valuation that is just 15% below the word’s biggest hotel company by room count,
+
+and 50% more than of No. 2
+
+Electric-car maker
+
+is fast approaching
+
+$49 billion market value despite bringing in less than 7% of the Detroit giant’s revenue.
+Like many of these high-valued startups, Compass pitches itself as more of a software company that specializes in property brokerage than as a traditional real-estate firm. Its tools allow brokers with a new listing to quickly send an email advertising their property to hundreds of other brokers, cutting the need to custom tailor the ads. Flyers for an open house can be created nearly automatically, and Compass says its data helps brokers suggest asking prices that better reflect the market than competing brokerages.
+Brokers at the company in 2016 garnered an average 32% more commission revenue than in the prior year, when most were at different firms, a spokeswoman said.
+Compass has tempted high-earning brokers and young agents from competitors in New York, Los Angeles and San Francisco to its team of about 1,300 brokers. Some were lured by incentives and stock options, though a spokeswoman said the majority got no such incentives.
+Industry veterans say better software only goes so far in a business based on human interaction, particularly for brokers on the priciest homes who produce a disproportionate amount of revenue.
+“Anyone who knows what they’re doing doesn’t need these technology platforms,” said 
+
+
+
+      Will Randow, 
+
+
+
+       an analyst at
+
+who follows the sector. And several former Compass staffers and agents said the company’s technology, while well-designed, isn’t revolutionary.
+Mr. Reffkin said Compass and its technology aren’t a great fit for all agents who, like in most firms, don’t get a salary and make all their money from commissions. Yet the company says it has a high retention rate—98% during 2016, not counting dismissals.
+Compass’s annual revenue last year nearly tripled to $180 million, a spokeswoman said. Most of that money—which came from commissions on home sales—goes right back to individual brokers, as is the industry standard. Compass doesn’t disclose that percentage, but brokerages typically take about 30% of every commission.
+For Compass’s investors, the company’s promise extends beyond sales commissions.
+Todd Chaffee, 
+
+
+
+       a Compass board member and partner at Institutional Venture Partners, which has invested in
+
+and Snap, said Compass can eventually sell its software to smaller brokerages, and develop a large home-search product. That would give Compass some overlap with
+
+or Move Inc., two of the largest real-estate-listing websites. (Move is a subsidiary of
+
+, which also owns The Wall Street Journal.)
+“We are fired up,” Mr. Chaffee said. “We’re planning on this thing being [valued at] north of $20 billion.”
+
+Eliot Brown at
+and Laura Kusisto at
+
+********************************************************************************
+
+https://www.wsj.com/articles/the-great-mystery-behind-teslas-rally-1487709262
+Ahead of the Tape/By   Steven Russolillo    Steven Russolillo  The Wall Street Journal  Biography Steven Russolillo  @srussolillo  steve.russolillo  Google+  Steven.Russolillo@wsj.com/Feb. 21, 2017 3:34 p.m. ET/Markets
+            
+
+            
+              Stocks
+            
+
+              
+                
+                    Ahead of the Tape
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  The Great Mystery Behind Tesla’s Rally 
+
+    Tesla investors are ignoring significant risks ahead of Wednesday’s earnings report, the first to reflect results from SolarCity
+
+A
+masks a much more complex reality for
+
+
+
+Elon Musk’s
+
+
+
+       company, which earlier this month dropped “Motors” from its name, will release its first earnings report Wednesday as an integrated auto and clean-energy company. The results come after Tesla
+of SolarCity in November, combining Mr. Musk’s electric-car and solar-energy companies.
+If an earnings report ever was a black box, this might be it. Tesla has released few details on how it plans to integrate SolarCity into the results. And Wall Street analysts’ projections are all over the place. Yet with the stock surging more than 50% since December and again flirting with records, few investors seem to care.
+Under generally accepted accounting principles, analysts surveyed by FactSet estimate Tesla lost 97 cents a share in the fourth quarter, compared with a per-share loss of $2.44 in the year-earlier period. Estimates vary widely, from a loss of $2.13 to a loss of 30 cents a share. As recently as September, the consensus was for Tesla to be profitable in the final three months of 2016.
+Tesla has only reported a quarterly profit twice on a GAAP basis since going public in 2010. Its profits have fallen short of analysts’ expectations for 12 quarters in a row.
+Judging by Tesla’s share price, investors are more focused on the future and the hype surrounding the Model 3. The mass-market sedan is expected to broaden Tesla’s reach beyond SUVs and luxury vehicles. But expectations are lofty. And Tesla doesn’t exactly have a pristine track record of meeting its own targets.
+Last month Tesla announced it delivered 22,000 cars in the fourth quarter, bringing the year’s total to 76,230. That fell short of its guidance of 80,000 deliveries, thanks to what it called “short-term production challenges.” Tesla missed its quarterly deliveries guidance three times last year. Even so, it maintains that it wants to build 500,000 vehicles annually by 2018 and 1 million by 2020.
+Yet SolarCity’s
+shouldn’t be ignored. Tesla has already been spending heavily on Model 3 production and its giant battery factory.
+Through the third quarter, Tesla had reported 10 consecutive quarters of negative free cash flow, defined as operating cash flow minus capital spending.
+turned positive in the third quarter, although that was probably due to a sharp increase in accounts payable.
+Analysts now expect Tesla will burn through more cash at least through the middle of this year, in part because of losses at SolarCity. “It is increasingly important that Tesla shows SolarCity will not be a free cash flow drain,” RBC Capital Markets analysts wrote to clients.
+Tesla already was a risky bet thanks to its rich valuation and execution issues. UBS said it sees “no fundamental reason” behind the stock’s rally.
+With SolarCity now in the mix, investors are even more susceptible to getting burned.
+
+********************************************************************************
+
+https://www.wsj.com/articles/nissans-hits-and-misses-1487843228
+//Updated Feb. 23, 2017 4:48 a.m. ET
+
+    
+    
+      
+      1 COMMENTS/Nissan’s Hits and Misses
+
+      A look at some Nissan models since Carlos Ghosn became chief executive in 2001
+
+  
+    Updated Feb. 23, 2017 4:48 a.m. ET
+
+    
+    
+      
+      1 COMMENTS
+
+
+
+********************************************************************************
+
+https://www.wsj.com/articles/whats-the-latest-buzz-in-electric-cars-speed-baby-1487953152
+A-hed/By   Tim Higgins    Tim Higgins  The Wall Street Journal  Biography Tim Higgins  @timkhiggins  tim.higgins@wsj.com/Feb. 24, 2017 11:19 a.m. ET/A-hed
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  What’s the Latest Buzz in Electric Cars? Speed, Baby!
+
+    Tesla and other startups are taking a page from the muscle-car era to kill the notion that electric cars are wimpy, pear-shaped green machines; ‘I want my Mommy’
+
+The white four-door sedan rolled up to the starting line at a racetrack outside Los Angeles this month and lurched to a stop. Then the driver floored the pedal with a
+.
+After 2.275507139 seconds—about the time it takes to pick up a penny from the floor—the sedan had reached 60 miles an hour, faster than any production car since Motor Trend magazine began conducting these tests more than 60 years ago. The previous record of 2.34 seconds belonged to a $1.4 million Ferrari LaFerrari.
+After the test, the jubilant chief executive of the company that built this record-smashing beast took to
+to report a time of 2.27 seconds. If rounded up, however, the correct figure was 2.28 seconds, as one respondent noted.
+“Take out the floor mats and its 2.27,” the CEO boasted. For those lusting to go even faster, he offered another weight-saving tip: “Tesla service can remove [the] front trunk liner.”
+Yes, that’s right. The world’s quickest production car is a
+
+With the January software upgrade of the $135,700 version of the all-electric Model S P100D sedan, 
+
+
+
+      Elon Musk’s
+
+
+
+       Silicon Valley auto maker
+
+has claimed bragging rights in an intensifying competition that has become the new obsession—and marketing strategy—among makers of high-end electric cars. Never mind saving the environment, perfecting the lithium-ion battery, or reducing global dependency on fossil fuels. The goal here is gut-busting acceleration.
+If the driver pushes a button labeled “Ludicrous”–a nod to the 1987 movie “Spaceballs”—on the Tesla’s dashboard screen, a message appears that says: “Are you sure you want to push the limits? This will cause accelerated wear of the motor, gearbox and battery.” The two options given are: “No, I want my Mommy,” and “Yes, bring it on!”
+“If you’re looking the wrong way, you get whiplash and your glasses fly off your head,” said Brooks Weisblat, 43 years old, a Tesla owner who posts videos of races on his fan website, DragTimes.com, that attract millions of viewers. “You’ve got old-school, muscle-car guys who cannot handle an electric car beating them.”
+Electric cars have one major advantage over cars with internal combustion engines. Because the delivery of juice to the motor is instantaneous, and the motor reaches maximum power immediately, they have loads of torque and jump off the line with surprising violence—and without making a sound. Motor Trend said the Model S P100D’s acceleration, compared with other cars, is like “the difference between being accidentally pushed by a clumsy person and being aggressively shoved.”
+Tesla and other manufacturers, hoping to shake the image of fuel-efficient vehicles as wimpy, pear-shaped green machines, have taken a page from the muscle-car era of the 1960s. They have pulled out all the stops—and sometimes even stretched the boundaries of credulity—to post the most eye-popping performance numbers.
+Ever since the Model S clocked a zero-to-60 time of 4.4 seconds in 2012, other makers have been fighting to shave hundredths-of-seconds from the mark. The race has escalated in recent months.
+In August, Mr. Musk i
+that helped the highest-end Model S get to 60 mph in 2.5 seconds. Following that, the Menlo Park, Calif., startup Lucid Motors, which counts former Model S chief engineer 
+
+
+
+      Peter Rawlinson
+
+
+
+       among its ranks, demonstrated what its powertrain could do by rigging a Mercedes cargo van—dubbed “Edna”—with its electric motor and batteries. Edna hit 60 mph in 2.74 seconds, according to an Oct. 11 announcement.
+In December, the company said it plans to introduce a sedan, targeted for 2019, that can hit 60 mph in less than 2.5 seconds.
+About a month after the Edna display, Mr. Musk announced his team was working on an upgrade to its software that would
+of its Model S P100D to 2.4 seconds.
+On Jan. 3, Faraday Future, another electric-car startup,
+at a glitzy Las Vegas news conference with a zero-to-60 claim of 2.39 seconds. The Los Angeles-area company showed video of its new model, the FF 91, beating a Tesla during a drag race.
+“2.39—I like the way that sounds,” Peter Savagian, Faraday vice president of propulsion engineering, told the crowd. “It means that, under its own power, the FF 91 accelerates faster than the earth can accelerate if it fell off a cliff—put another way, the FF 91 outruns gravity.”
+The following week, Mr. Musk posted on Twitter that he thought the upgrade to Tesla’s high-end Model S P100D’s Ludicrous+ mode could
+and—if stripped down—the car could do it in 2.1 seconds.
+That’s when Motor Trend got involved.
+Ahead of testing, Tesla had a request. “They asked our test driver how much he weighed and when they found out he weighed 155 pounds, they said, ‘Our figuring has been assuming a 150-pound driver. Can we take the carpet out of the trunk?” Frank Markus, Motor Trend’s technical director said.
+The response: Nope.
+For many years, makers of mainstream hybrids, such as
+
+Prius, have focused on fuel efficiency. But in the superpremium luxury market, where cars sell for about $100,000 or more, speed rules. Only 8% of new vehicle customers in the U.S. last year said they would be willing to pay extra for a more environmentally friendly vehicle, according to a survey by market researcher Strategic Vision.
+“When you talk about performance, we’re talking about, ‘What is the feel of a vehicle while driving?’ And one of the easiest ways to feel that is zero to 60,” said Alexander Edwards, president of Strategic Vision.
+There is one small problem with marketing electric cars as speed machines, however. Short bursts of acceleration are the thing these cars excel at. As speeds increase, a powerful gas-fueled car will surge ahead. Motor Trend noted that the Ferrari LaFerrari was slower to 60 mph, but hit 70 mph a 10th of a second quicker than the Tesla.
+“A Tesla might get a jump off the line against a Cadillac CTS-V,” said 
+
+
+
+      Bob Lutz, 
+
+
+
+       the former vice chairman of
+
+whose long career included developing the Dodge Viper. “But after the first few hundred yards, the Cadillac would draw even and then pull away.”
+Moreover, hard acceleration, Mr. Lutz said, will draw a lot of energy and reduce an electric car’s range.
+Motor Trend’s Mr. Markus said testers haven’t been able to complete a high-speed lap at the 2.2-mile Mazda Raceway Laguna Seca with a Tesla for another reason. “You can’t run it that hard for that long … the battery overheats if you use all of that power,” he said. Tesla says it’s designed the system to avoid overheating in such situations by decreasing the power available, and that Motor Trend hasn’t tested the Model S around that track since the recent improvements.
+Motor Trend’s testers have even tried icing the battery, Mr. Markus said—to no avail.
+
+Tim Higgins at
+
+Appeared in the Feb. 25, 2017, print edition as 'What’s the Buzz in Electric Cars? It’s Speed, Baby!.'
+
+********************************************************************************
+
+https://www.wsj.com/articles/tailored-accounting-takes-companies-into-alternate-reality-1487869300
+/By   Michael Rapoport    Michael Rapoport  The Wall Street Journal  Biography Michael Rapoport  @rapoportwsj  michael.rapoport.7  michael.rapoport@wsj.com/Updated Feb. 23, 2017 12:36 p.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+
+
+      
+
+    
+
+
+  
+
+  ‘Tailored’ Accounting Takes Companies Into Alternate Reality 
+
+    Recent moves by the Securities and Exchange Commission serve as a reminder that non-GAAP corporate results should be digested with a grain of salt
+
+In these days of alternative facts, some companies are pushing alternative accounting.
+The Securities and Exchange Commission is increasingly calling out companies that offer a different flavor of “non-GAAP” accounting—reporting their numbers as if they could calculate them using assumptions or practices not permitted under generally accepted accounting principles. This goes beyond
+like stripping out costs from their customized measures, generally making their numbers look better than under GAAP.
+Get financial insights and commentary on global investing from The Wall Street Journal’s Heard on the Street team.
+
+SEC staffers say what they call “individually tailored” accounting is a particularly worrisome variant of the non-GAAP issue. More examples have emerged in recent days, as the commission released previously confidential comment letters it sent to companies criticizing their practices.
+One area highlighted by the SEC is deferred revenue—revenue received by a company before it delivers its product to a customer. Under standard GAAP rules, that revenue is recognized when the product is delivered, but some companies are adjusting their non-GAAP numbers to account for that revenue.
+Computer-security company
+
+
+and mobile-game developer
+
+were both criticized for doing that in SEC letters to the companies made public last week. When Barracuda’s deferred revenue rose by nearly $6 million in its fiscal quarter ending last August, that boosted a measure of its non-GAAP earnings. Both companies have since told the SEC they would stop the practice.
+Electric-car maker
+
+had a similar issue.
+, Tesla had touted its non-GAAP revenues as if it was allowed to recognize deferred revenue from lease-type arrangements immediately—a practice that added $747 million to Tesla’s preferred measure of revenues for the first half of 2016. After the SEC questioned the move, Tesla said it would stop reporting non-GAAP revenues.
+There are other examples:
+
+which owns senior-citizen residential communities, included in its non-GAAP metrics cash from ventures it hadn’t consolidated on its balance sheet. The company argued it was making its results comparable to real-estate investment trusts, against which it competes. But Brookdale isn’t a REIT; the SEC said the move was unacceptable, and Brookdale said it would revise how it calculates the metrics. The company, which is under pressure from activist shareholders, is
+
+The SEC lets companies give out numbers that don’t follow standard accounting rules, as long as they are accompanied by and reconciled to the GAAP figures.
+That is a pretty forgiving standard. Investors who need to manage risks in this world shouldn’t rely on companies that want to pretend they are in a different one.
+
+********************************************************************************
+

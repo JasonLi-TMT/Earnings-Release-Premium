@@ -1,0 +1,1321 @@
+https://www.wsj.com/articles/digits-1438912703
+Blog: Tech//Aug. 6, 2015 9:58 p.m. ET/Tech
+            
+
+
+              
+                
+                    Blog: Tech
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Digits
+
+Food-delivery startup Sprig is changing its mind again about its workers.
+The San Francisco company said it would convert its contract labor force of a few hundred into employees, likely eating into the nearly $57 million of venture capital it has raised. Sprig is returning to its roots, in a sense, as it started out with an employee workforce before switching to a contractor model about a year ago.
+Sprig and other so-called on-demand companies are facing something of an existential crisis over the employment issue, as a series of lawsuits over potential lost wages and benefits has roiled the industry and threatens to cost them millions. In particular, a court ruling that found one Uber worker is due back pay, and a $228 million FedEx settlement over how it treated contract drivers, have sent shock waves through Silicon Valley.
+Several young firms like Instacart, Luxe and Shyp have recently announced plans to change some or all of their workers to part- or full-time status. Like Sprig, they cite the need to better train and instruct their employees, an impossibility if they wish to keep them as contractors because of rules governing worker classification.
+“The main reason for the switch was about employee training,” said Sprig CEO Gagan Biyani, who said the lawsuits others are facing “was a factor.”
+Mr. Biyani said Sprig would incur new costs to hire the workers, but Sprig would gain delivery efficiency that would help to offset that. The company, which delivers prepared meals to customers in Palo Alto, Calif., San Francisco and Chicago, is planning to expand to new cities in the coming months, he said.
+Another startup, home-cleaning service Homejoy, closed last month in part due to employee lawsuits that the company said hampered its ability to raise more funds.
+Many startups prefer to use contract workers because they are spared expenses such as payroll taxes and health care coverage. However, to avoid triggering a switch to an employee workforce, these startups can’t tell laborers which jobs or rides to accept, when they must work and even require them to wear uniforms.
+According to some company founders, an employee workforce costs at least 20% more, a hefty sum that can scare off some venture capitalists. Presumably Sprig has sufficient profit margin to sustain the switch.
+Biyani said the highest performing deliverers will be eligible for stock option grants.
+—Greg Bensinger
+Tesla arguably makes the most technologically advanced car on earth—it runs on electricity, is permanently connected to the Internet and can upgrade how it accelerates through a software download.
+So, of course, hackers want to break it.
+And they did, sort of, according to research to be unveiled at the Def Con hacker conference in Las Vegas this week. Two researchers said they devised a way to force the car to power down and come to a stop, but only after they had physical access to the vehicle and directly connected a laptop to its onboard computer.
+The findings are the latest indication of the risks auto makers face as they turn cars into rolling computers. Last month, two other researchers made headlines when they showed how they could remotely hack a Jeep Cherokee as it rolled down a St. Louis-area highway. Fiat Chrysler has since issued a fix for that bug.
+Both the Jeep and Tesla hacks take control of the car through the entertainment system.
+In Tesla’s case, 
+
+
+
+      Kevin Mahaffey, 
+
+
+
+       the chief technology officer at Lookout, and Marc Rogers, a researcher at CloudFlare, said they found that Tesla had built in several controls to prevent hacks of the entertainment system from affecting the car’s movement.
+But after testing, they figured out how to effectively power down a Model S by hacking the entertainment system. The maneuver brings the car to a sudden stop if it is traveling less than about 5 mph, the two researchers said. If the car is moving faster, it will gradually coast to a stop.
+Tesla said all Model S customers will have access to a patch for the issue by Thursday. The two researchers are presenting their hack on stage Friday.
+Mr. Mahaffey and Mr. Rogers acknowledge it is unlikely hackers would be able to take advantage of the flaws they found to take over a car, since it would require access to the inside of the vehicle.
+But Mr. Mahaffey said that is likely only temporary consolation. “We assume that bad guys are going to be able to figure out remote access,” he said.
+—Danny Yadron
+
+********************************************************************************
+
+https://www.wsj.com/articles/palmer-luckey-making-virtual-reality-a-reality-1438959172
+Weekend Confidential/By   Alexandra Wolfe    Alexandra Wolfe  The Wall Street Journal  Biography Alexandra Wolfe  @AlexandraWolfe  Alexandra.Wolfe@wsj.com/Aug. 7, 2015 10:52 a.m. ET/Life
+            
+
+            
+              Ideas
+            
+
+              
+                
+                    Weekend Confidential
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Palmer Luckey: Making Virtual Reality a Reality
+
+    The 22-year-old founder of Oculus VR on the promise and challenges of virtual reality
+
+“Why shouldn’t people be able to teleport wherever they want?” asks 
+
+
+
+      Palmer Luckey, 
+
+
+
+       the 22-year-old founder of Oculus VR, the virtual-reality company that
+bought last year for more than $2 billion. Teleportation isn’t happening anytime in the near future, of course. What Mr. Luckey has in mind is virtual travel, whether to Hawaii or Paris or to a corporate conference room for a meeting.
+He is addressing concerns about virtual reality over a video conference call from his company’s Menlo Park, Calif., headquarters. “A lot of people think that virtual reality’s ultimate conclusion is something like ‘The Matrix,’” he says, referring to the 1999 film about a dystopian future in which enslaved humans unknowingly live in a simulated world created by machines. “The point isn’t to copy the practical realities of the real world,” he says. “It’s to try to do things how we would do them if we didn’t have any physical laws governing how we do them.” People are not “going to use virtual reality to simulate walking around the parking lot.”
+In June, Oculus announced the launch of its first consumer product, the Rift headset, which will allow users to play videogames, watch movies and explore virtual worlds with 360-degree vision. The headset is
+when it appears in early 2016, including a computer that can run it. Last week, the company
+, a cartoon called “Henry” that viewers will be able to watch on the Rift. (The release was intended to inspire others to start making similar films.) Viewers can immerse themselves in the movie and watch the action unfold from any angle they like.
+The Rift headset will enter a
+of virtual-reality consumer products, from a basic $25 cardboard viewer that works with a smartphone to a $200 Samsung headset. Sony has also announced the 2016 release of a virtual-reality headset that connects to its PlayStation 4. At this point, Mr. Luckey says, virtual-reality headsets are still a luxury item. “Until it reaches that critical mass, it’s a good thing to have, but not necessary,” he says. He expects that in about 10 years, the headsets (or perhaps lighter versions, like sunglasses) will be fairly widespread among consumers.
+Despite his youth, Mr. Luckey can point to long experience working with this technology. Born in Long Beach, Calif., he grew up being home-schooled by his mother. His father worked at a car dealership. He became interested in virtual reality after reading science fiction books and watching movies like “The Matrix.” For him, he says, “it was one of those technologies that’s up there with flying cars and artificial intelligence and time travel.”
+At age 14, he started taking classes at a local community college while experimenting with building virtual-reality products at home. He built prototypes of headsets in his garage using money he made by fixing damaged iPhones and by working as a sailing coach. He bought discounted 3-D monitors and head-mounted displays from government auctions.
+His flexible schedule gave him the time to work on the prototypes. “It wouldn’t have been possible to work on the technology I was working on…had I been in the traditional public school system,” he says. He’s also grateful that his parents were supportive of his tinkering. “I don’t think they thought I was crazy, but they knew it was beyond their sphere of understanding,” he recalls.
+As he developed more prototypes, Mr. Luckey posted pictures on online message boards. 
+
+
+
+      John Carmack, 
+
+
+
+       the founder of the gaming company id Software, was so impressed that he decided to show one of the prototypes at a 2012 gaming conference. Within a few days, Mr. Luckey dropped out of college and started Oculus VR with his friend 
+
+
+
+      Brendan Iribe, 
+
+
+
+       who is now chief executive of the company.
+
+They launched a Kickstarter campaign to raise $250,000 to produce a few hundred virtual reality kits, but they had no trouble overshooting that mark: More than 9,000 people gave a total of $2.4 million, and the venture-capital firm Andreessen Horowitz led a round of angel funding that raised $75 million. Facebook acquired the company last year.
+Mr. Luckey says that his life hasn’t changed all that much since the windfall. He still walks around barefoot or in flip-flops, even in the office, and spends most of his time working on technology. He did make one big purchase after the sale of his company: a Tesla Model S for $120,000.
+Facebook’s move was a big bet on still-nascent technology. “A lot of people didn’t understand the Facebook acquisition…because they’d been thinking of Oculus as gaming technology” that made videogames more realistic, says Mr. Luckey. He points to science fiction for a broader perspective on what the technology can do. “It’s not primarily about people sitting alone in their rooms playing virtual-reality games,” he says. “Science fiction portrays it as the most social technology that’s ever existed,” with users talking to and interacting with others in various digital worlds. Friends could play virtual Quidditch (from the “Harry Potter” series), school groups could take virtual field trips to the Grand Canyon and couples could go on virtual dates to Venice.
+More practically, doctors could perform virtual open-heart surgery for practice, home buyers could take tours of properties and shoppers could inspect products before buying them.
+Technology is only now making virtual reality an actual reality. Faster motion sensors for following users’ movements have become available at lower prices, and there have been key advances in graphics and in making lightweight, affordable equipment. If the technology is done right, Mr. Luckey says, even if a user knows he’s standing on solid ground, he won’t be able to make himself step forward off a well-rendered virtual reality cliff if that’s what he sees in his headset.
+Many people already worry that technology is taking over our lives and that we spend too much time on our devices at the expense of real-world relationships. But Mr. Luckey isn’t concerned that consumers may balk at living in a virtual world. “I don’t think it’s a philosophical acceptance,” he says. “I think it’s mostly a technology problem.”
+He acknowledges that the value of virtual-reality gear may not be readily apparent at first. “If you told most people today that they could play fairly limited VR content that exists today and all they need is, let’s say, $1,000 for a PC and a Rift, I don’t think that most people in the world would do that,” he says. “But if you told someone, ‘Hey, for the sake of argument, there are these crazy-looking, funky goggles that cost $1,000 overall, but it allows you to experience anything, anywhere in the world with the fidelity of real life,’ I think that’s something that everyone would be interested in.”
+Mr. Luckey now spends most of his time finishing the software for the headset’s debut, and he continues to fantasize about the possibilities that the technology may open up. For one, he says, “I look forward to never taking another long distance cross-Atlantic business trip again.”
+
+********************************************************************************
+
+https://www.wsj.com/articles/decoding-instagram-ceo-kevin-systroms-sharp-style-1438884756
+Fashion/By   Jacob Gallagher/Updated Aug. 6, 2015 3:18 p.m. ET/Life
+            
+
+            
+              Style & Fashion
+            
+
+              
+                
+                    Fashion
+                
+              
+
+
+      
+
+    
+
+      Style Role Model
+
+  
+
+  Decoding Instagram CEO Kevin Systrom’s Sharp Style
+
+    Smartly dressed Instagram CEO Kevin Systrom is a hoodie-averse rebel in a Brioni suit and knit tie. He shares his fashion tips
+
+the world of technology, from executives to coders, relish the
+(hoodie, flip-flops) that has become de rigueur—and cliché. Not so Instagram CEO and co-founder 
+
+
+
+      Kevin Systrom.
+
+
+
+       “I’m probably the only guy in Silicon Valley who enjoys wearing a jacket or a tie and does it unironically,” he said.
+For Mr. Systrom, his industry’s penchant for thinking progressively while dressing sloppily doesn’t add up at all. “Everyone from Tesla to
+to
+
+we all care about crafted products and we have design teams that spend hours on them,” he said. Yet, he continued, it’s almost perceived as indulgent if you spend any time thinking about how you dress. “That contrast has never sat well with me.” By choosing to don sports coats and ties, he has staged a quiet rebellion against the slovenly style monotony of Silicon Valley.
+Mr. Systrom admits he feels more comfortable when suited up rather than dressed down—thanks to his years at boarding school, Middlesex in Concord, Mass. “There was a no-jeans rule,” he said. “We had to wear khakis and a collared shirt. I think that defined a lot of what I’ve decided to wear today.” That said, the laid-back California coast, where he has lived since enrolling at Stanford, in 2002, has also had an influence. He quite often offsets one of his
+with a pair of sneakers.
+That those sneakers come from Lanvin, not New Balance, speaks to his increased involvement with the fashion industry, which has wholeheartedly
+. Earlier this year, he spent time in Paris, where he met with Chanel designer 
+
+
+
+      Karl Lagerfeld
+
+
+
+       as well as
+executive Delphine Arnault and Louis Vuitton designer 
+
+
+
+      Nicolas Ghesquière.
+
+
+
+       No less than Vogue editor 
+
+
+
+      Anna Wintour
+
+
+
+       helped him get outfitted for the Costume Institute gala at the Metropolitan Museum of Art in May. And in June, he accepted an award from the Council of Fashion Designers of America.
+You could view Mr. Systrom as a sort of ambassador working to bridge the gap between the worlds of code and couture. He gave us the inside scoop on the shopping strategies behind his look, and his own style role models.
+
+
+In Silicon Valley, the goal is to not stand out and be too loud. I think you can be fashion-y without being loud. There’s a balance I have to find. I look at folks like Hockney or Sinatra or JFK.
+
+
+My jacket of choice is a Boglioli unstructured jacket. It almost looks like a sweater. I can wear it to anything in Silicon Valley and I don’t look like a stiff or a banker.
+
+
+If I’m going to an event in New York or something more formal, I love Brioni suits for a classic look. That old Italian style is something I really care about. Formal Cashmere Suit,
+
+
+
+I always do button-down shirts. If I’m not going to wear a jacket, a spread collar looks very strange to me. I get custom Hamilton Shirts. I’m 6-foot-5 so any [off-the-rack] shirt that I want to wear just comes untucked. They have a big book of fabrics. I can pick whatever I want.
+
+
+
+I don’t like wearing raw denim, so I really love Civilianaire’s 10-ounce dark jeans because they’re lightweight. I live in San Francisco where it’s cold—50 degrees— in the summer, but my office is in Menlo Park where it’s 80, so I need something that works in both places. Denim Jeans,
+
+
+
+I shop in two places: [website] Mr Porter and Wilkes Bashford, a store in San Francisco that was bought in 2009 by my friend 
+
+
+
+      Tyler Mitchell’s
+
+
+
+       family. Tyler kept seeing me at tech events and was like “Man, we’ve got to help you out.” We became great friends. He can take traditional style and make it young through tailoring, choice of pattern and color.
+
+
+I’m a sucker for Lanvin sneakers because I have big feet and they fit me really well. It’s hard to find a day where I’m not wearing them. I can wear the patent-leather-toe ones with jeans and they look cool, but I can also just throw on a clean, black pair with a suit; they look great and dress it down. Velvet Sneakers with Patent Cap Toe,
+
+
+
+The biggest thing for me was deciding to stop shaving. If you work hard, the last thing you want to do is [obsess over getting a perfect shave]. I just use a beard trimmer—it’s a Philips Norelco—to keep my beard clean, and that has changed my morning routine.
+
+
+I love
+sweaters. You can spend a lot on them, and that’s not a bad thing. But this [less expensive] brand, John Smedley, has sweaters that are perfectly cut and last forever. It makes a lightweight sweater that’s perfect for San Francisco. You can add a layer without it being chunky. John Smedley Cleves Merino Wool Sweater,
+
+
+
+
+Some Instagram accounts inspire me—Public School, 
+
+
+
+      Thom Browne.
+
+
+
+       One that’s awesome is
+. Every day it’s a different jacket, tie, shirt and accessories. It takes something that can seem constrained and makes it really interesting. It gives me a lot of ideas.
+
+
+You won’t ever find me in a regular silk tie. My closet is full of knit ties in different colors. There’s something really old-fashioned about them. If you watch some early James Bond movies, he’s got on a knit tie. I think Charvet makes the best ones. Charvet Silk Knit Ties,
+
+
+
+The offices of Instagram are in Menlo Park, Calif. An earlier version of this story incorrectly stated that they are in Palo Alto. (August 6, 2015)
+
+********************************************************************************
+
+https://www.wsj.com/articles/perrigos-adjustable-mylan-defense-overheard-1438801401
+Heard on the Street Other//Updated Aug. 5, 2015 9:55 p.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+              
+                
+                    Heard on the Street Other
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Overheard: Perrigo’s Adjustable Mylan Defense
+
+At
+
+
+it’s less about the bottom line and more about the slightly-above-the-bottom line.
+Perrigo reported second-quarter results on Wednesday. Net income was $56.4 million under generally accepted accounting principles. Net income as adjusted by the company, however, came to a more attractive $320.3 million. The former, unadjusted figure was down 57%, year over year; the latter showed growth of 37%. Noncash charges, such as amortization and inventory adjustments related to the acquisition of Omega Pharma, accounted for the majority of the adjustments. Some other add-backs include cash charges not expected to recur; for instance, $13 million related to Perrigo’s takeover defense against Mylan.
+Acquisition-related expenses resulted in an $18.6 million adjustment-although it is questionable how one-off such costs really are in the health-care sector these days. Losses on derivative contracts amounted to another $5.5 million. For Perrigo, fending off Mylan’s bid is a high priority: That company’s shareholders will vote on its proposed offer on August 28. Perrigo reiterated on Wednesday that Mylan’s offer undervalues it.
+A few tweaks to the bottom line can certainly help to make that case.
+
+********************************************************************************
+
+https://www.wsj.com/articles/asian-morning-briefing-s-p-500-rises-ahead-of-jobs-report-1438810536
+Markets Main//Aug. 5, 2015 5:35 p.m. ET/Markets
+            
+
+
+              
+                
+                    Markets Main
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Asian Morning Briefing: S&P 500 Rises Ahead of Jobs Report
+
+MARKETS AT A GLANCE
+(Data as of approximately 5 p.m. ET)
+SNAPSHOT:
+The S&P 500 rose and U.S. Treasury bonds fell ahead of an employment report at the end of the week that is likely to shed light on whether the U.S. economy is ready for higher interest rates. The dollar advanced and gold prices slid on robust U.S. service-sector data. Oil prices fell after an inventory report showed an increase in crude production.
+OPENING CALL:
+Unemployment in Australia has fallen in recent months toward 6.0% defying the Reserve Bank of Australia’s forecasts that it would head toward 6.5% this year and remain there for some time. The July jobs report, due out Thursday, is expected by economists to show unemployment rose slightly to 6.1% compared to June’s reading of 6%. Australian central bank Gov. Glenn Stevens has welcomed recent signs of improvement in pockets of the economy, noting that business conditions had improved in industries beyond mining. Employment in the hard-hit mining sector in the June-ended quarter was down 13% from a year earlier, according to government figures. Australia’s central bank left interest rates unchanged on Tuesday, as expected, while leaving the door open for a cut later in the year should the economy falter.
+EQUITIES:
+The S&P 500 rose, rebounding after three sessions of declines, ahead of a key report on the U.S. labor market.
+The Dow Jones Industrial Average fell slightly, dragged down by a tumble in Walt Disney Co. shares.
+Investors are looking ahead to the government’s jobs report for July, due Friday, for more guidance on the timing of the first increase in interest rates in nearly a decade. The Federal Reserve considers employment and inflation data as it makes decisions on monetary policy. The Fed’s low-rate policy has helped boost stocks since the financial crisis, raising some concerns among investors about how the market will react when rates begin to rise.
+Employers are forecast to have added 215,000 jobs in July, according to economists surveyed by The Wall Street Journal.
+Investors got an early look at the employment picture for July, with data showing the private sector added 185,000 jobs, fewer than the 215,000 jobs expected.
+Earnings reports prompted big swings. Disney slumped after it reported earnings, weighing on the blue-chip index. Disney said revenue fell short of forecasts amid slower growth at media networks and its park segment. Shares fell 9.2%.
+First Solar Inc. projected stronger-than-expected profit and sales for the year, as the company said its second-quarter profit surged. Shares rose 17%.
+Priceline Group Inc.’s hotel and car bookings picked up speed in the second quarter despite a strong dollar that sapped its earnings. Shares rose 5.2%.
+Asian shares rose modestly Wednesday after a gauge of China’s service sector reached an 11-month high, outweighing concerns that a rise in U.S. interest rates could be getting closer.
+FOREX:
+The dollar edged higher broadly after a measure of the U.S. service sector surged in July, helping to reinforce recent signals from the Federal Reserve that borrowing costs could rise as early as September.
+Investors moved into the dollar after the Institute for Supply Management reported that the nonmanufacturing purchasing managers index rose to 60.3 in July from 56.0 in June. The number soared above economists’ forecast of 56.1. A reading above 50 signifies an expansion in activity.
+In addition, the ISM employment index rose to 59.6 from 52.7, helping to offset a report by Automatic Data Processing and forecasting firm Moody’s Analytics showing that private payrolls in the U.S. increased by a fewer-than-expected 185,000 jobs last month.
+Investors have been driving the dollar higher over much of the past year on wagers that the Fed will raise short-term interest rates for the first time since 2006 as the U.S. economy improves, a view supported by strong labor-market gains. Higher borrowing costs would boost the dollar’s allure to investors searching for yield.
+But the dollar’s advance has mostly been halting since March, as weaker data early in 2015 raised doubts about the timing of the central bank’s move, pushing back market expectations toward the latter half of 2015 from midyear, and even into 2016.
+The market is looking to nonfarm payrolls numbers for July, which are released Friday morning, to provide more clarity on the state of the labor market and spark a renewed rally in the U.S. currency. Fed officials have recently communicated that the bar is low for a September rate increase, but a move still depends on a strong jobs reports underpinning investor conviction that U.S. labor market gains are holding.
+BONDS:
+U.S. Treasury bonds fell for a second consecutive session after an upbeat report on the service industry bolstered the case for the Federal Reserve to raise interest rates next month.
+The yield on the two-year note, among the most sensitive to changes in the outlook for the Fed’s interest-rate policy, settled at nearly a two-month high and almost breached the highest level of 2015. Yields rise as prices fall.
+After a recent rally, the bond market has been pulling back since Federal Reserve Bank of Atlanta President Dennis Lockhart said in an interview with The Wall Street Journal on Tuesday that it would take a significant deterioration in the data to convince him not to move in September. Mr. Lockhart votes on interest-rate policy this year.
+Ultralow interest rates since the 2008 financial crisis have stoked a rally in the $12.7 trillion market for U.S. government bonds and other credit markets. Many investors are concerned that the start of a tightening cycle will send bond prices lower and yields higher. Higher rates make interest rates on existing bonds relatively unattractive.
+The monthly nonmanufacturing index rose to 60.3 last month from 56 in June. Both the new orders and employment components hit the strongest level since 2005.
+The odds of a rate increase at the September meeting were 50% Wednesday, which has jumped from 38% on Monday, according to Traders. The calculations are based on implied yields from Fed-funds futures which are used by investors and traders to place bets on central-bank policy.
+Bond yields had pared a rise earlier in the session after U.S. private-sector jobs growth last month fell below the 200,000 mark. But the private-sector jobs release hasn’t been an accurate predictor of the nonfarm employment report due Friday, which include employment in both public and private sectors and a key data point to influence the Fed’s interest-rate outlook.
+Economists expect Friday’s nonfarm payrolls report to show that the U.S. economy has added 215,000 new jobs in July, following a net gain of 223,000 in June. The average hourly wage is forecast to have gained 0.2% last month after flat in June.
+COMMODITIES:
+Oil prices fell to new multi-month lows after weekly inventory data showed a small increase in U.S. crude production and President Barack Obama urged lawmakers to support the Iranian nuclear deal.
+Oil prices have slumped in recent weeks on concerns that persistently high production in the U.S. and elsewhere could keep the market oversupplied through the end of the year. Output remains near multiyear highs in the U.S., Saudi Arabia and Iraq, and the Iran nuclear deal could lift sanctions on Iranian crude exports, allowing the country to sell more oil onto the already-glutted market.
+In the U.S., government data show that production peaked in March before falling slightly in April and May. However, the latest weekly estimate for production released Wednesday showed that output rose by 52,000 barrels a day to 9.5 million barrels a day.
+U.S. crude-oil inventories fell more than expected last week, the U.S. Energy Information Administration said, as refineries ran at the highest rate in years to process the glut of crude oil into petroleum products. But stockpiles of gasoline and other fuels rose in the week, suggesting that consumption isn’t high enough to absorb the oversupply in the market.
+“When the refiners run hard, don’t they produce more product?” said Donald Morton, senior vice president at Herbert J. Sims & Co. “Even though demand is strong…the refiners are busier. We’re producing more than we need.”
+Gasoline stockpiles rose by 800,000 barrels, the EIA said. Analysts had predicted stockpiles would fall by 600,000 barrels.
+Distillate stocks, which include heating oil and diesel fuel, rose by 700,000 barrels. Analysts had expected a 1.6 million-barrel increase.
+Gold prices slid after robust U.S. service-sector data bolstered expectations that the Federal Reserve would soon raise interest rates.
+TODAY’S HEADLINES:
+Plane Debris Confirmed as MH370
+Malaysian Prime Minister Najib Razak confirmed that the aircraft debris found on Réunion Island came from Malaysia Airlines Flight 370, which disappeared over a year ago. The development marked the first concrete evidence of the missing plane but left unanswered why it crashed.
+Tesla’s Losses Widened in Second Quarter
+Tesla Motors’ losses grew as spending on the launch of its Model X SUV and battery factory offset higher sales.
+SEC Approves Final CEO Pay-Ratio Rule
+The rule requires companies to disclose median worker pay and compare it with CEO compensation.
+U.S. Service Sector Expands
+The U.S. service sector in July expanded at its fastest rate since the recession, according to data released Wednesday by the Institute for Supply Management.
+U.S. Trade Gap Expands 7%
+The strong dollar is pushing down demand for American-made goods overseas while giving foreign manufacturers an edge in the U.S., creating another hurdle for the U.S. economy.
+Fox Reports Better-Than-Expected Earnings
+21st Century Fox reported better-than-expected fourth-quarter earnings and a new $5 billion stock-buyback program following the media company’s recent leadership transition.
+Time Warner Earnings Tops Views
+Time Warner’s profit easily topped Wall Street expectations in the second quarter, as new videogame releases helped drive revenue higher in its Warner Bros. division.
+Fed’s Powell: No Decision Yet on September Rate Move
+The Federal Reserve isn’t certain to raise short-term interest rates at its September policy meeting, a senior policy maker said.
+Allergan Changes Deal for Kythera
+Allergan amended the terms of its pending $2.1 billion deal for double-chin treatment maker Kythera Biopharmaceuticals by agreeing to pay for it all in cash and dropping the stock component.
+ECB Leaves Emergency Lending to Greek Banks Unchanged
+The European Central Bank left the ceiling on emergency lending to Greek banks unchanged, a person familiar with the matter said. The Greek central bank didn’t request an increase in the emergency lending, the person said.
+RECENT DJ EXCLUSIVES:
+France Looks to Broaden Its MH370 Probe Through Wreckage Analysis
+Deutsche Bank Fires Two Senior Trading Executives
+Morgan Stanley Hires John Shannon to Head Equity Sales, Trading in Canada
+J.P. Morgan to Move 2,150 Jobs From Manhattan to Jersey City
+Top Canaccord Genuity Investment Banker Joins Oxford Park Group
+TODAY’S CALENDAR:
+(All times GMT, followed by country and event)
+0130 AUS Jul Labor Force
+0200 JPN Jul Imported Vehicle Sales
+0500 JPN Jun Indexes of Business Conditions - Preliminary Release
+0600 GER Jun Manufacturing orders
+0700 UK Jul Halifax House Price Index
+0800 UK Jul UK monthly car registrations figures
+0810 EU Jul Eurozone Retail PMI
+0830 UK Jun UK monthly industrial production figures
+0900 SIN Jul Official Foreign Reserves
+0900 GER Q3 Ifo Economic Climate for the Euro Area
+1100 UK Aug Bank of England MPC meeting minutes
+1100 UK Bank of England inflation report
+1100 UK Aug UK interest rate decision
+1130 US Jul Challenger Job-Cut Report
+1215 CAN Jul Official International Reserves
+1230 US U.S. Weekly Export Sales
+1230 US 08/01 Unemployment Insurance Weekly Claims Report - Initial Claims
+1345 US Bloomberg Consumer Comfort Index
+1400 UK Jul NIESR Monthly GDP Estimates
+1430 US 07/31 EIA Weekly Natural Gas Storage Report
+1600 US Jul Monthly U.S. Retail Chain Store Sales Index
+2030 US Federal Discount Window Borrowings
+2030 US Foreign Central Bank Holdings
+2030 US Money Stock Measures
+2301 UK Jul REC and KPMG Report on Jobs
+2350 JPN Jul International Reserves / Foreign Currency
+2350 JPN Jul Provisional Trade Statistics for 1st 20 days of Month
+
+********************************************************************************
+
+https://www.wsj.com/articles/teslas-losses-widened-in-second-quarter-1438808957
+Autos/By   Mike Ramsey    Mike Ramsey  The Wall Street Journal  Biography Mike Ramsey  @MRamseyWSJ/Updated Aug. 5, 2015 6:51 p.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla’s Loss Nearly Tripled in the Second Quarter
+
+    Luxury electric-car maker’s spending on future initiatives offset higher sales
+
+second-quarter loss nearly tripled from a year earlier, as hefty spending on future initiatives overwhelmed the benefits of higher sales and reinforced concern about the electric-car maker’s ability to turn a profit.
+Tesla is plowing money into growth initiatives, including its Model X SUV due later this quarter and a
+slated to open in 2016. It has long-term ambitions to enter the lower-end of the electric-vehicle market and will unveil a preview of the cheaper Model 3 in 2016 with plans to launch it a year later.
+The plan is costly and continues to mire the company in red ink. Cash, meanwhile, is relatively scarce given its costly capital-expenditure targets.
+The company posted a net loss of $184 million in the second quarter, compared with $62 million a year ago, even as revenue climbed 24% to $955 million.
+Tesla’s operating loss of $61 million, or 48 cents a share, solidly outperformed analysts expectations for a loss of 60 cents a share. But the company lowered its annual sales outlook and indicated pricing is under pressure due to currency effects and a shift in the mix of Model S sedans it is selling.
+Shares fell 3% after hours after closing up 1.45% at $270.13 in Wednesday’s session. In a note to shareholders, the company said it is focused on building a long-term success story instead of meeting quarterly sales targets.
+The Palo Alto, Calif., auto maker has generated excitement among investors with the rollout of
+and the promise of new models. Earlier this week,
+, saying many of the rival electric-car offerings on the market resemble toasters and suggesting the auto industry is still underachieving when it comes to improving vehicle emissions.
+Tesla lowered its forecast for deliveries to 50,000 to 55,000 for the year from an earlier 55,000 estimate and said its gross margins may decline in the third quarter. Tesla said it also gained $20 million in new revenue in the second quarter from sales of certified preowned Model S. vehicles.
+Tesla’s
+to 11,532 in the second quarter. It expects to sell about the same number of vehicles in the third quarter, which ends on Sept. 30 and to begin deliveries of the Model X late in the quarter.
+“We do think it’s going to be quite a challenging production ramp on the X,” Tesla CEO 
+
+
+
+      Elon Musk
+
+
+
+       said in a conference call with investors. “We only want to deliver great cars. We don’t want to drive to a number that’s greater than our ability to deliver high-quality vehicles.”
+The auto maker is confident it will have the demand for a production level of between 1,600 and 1,800 Model S and Model X vehicles a week in 2016. That would equate to 83,200 to 93,600 vehicles in 2016, substantially higher than 2015. Mr. Musk said he is still confident the company can achieve 500,000 vehicle sales by 2020.
+Resources, however, are under pressure. Tesla’s cash fell to $1.15 billion at the end of the quarter, down $359 million from the end of the first quarter. This decline came even as the company drew down $50 million of its $500 million revolving credit line.
+Tesla spent $405 million on expanding its Fremont, Calif., plant and the so-called Gigafactory battery plant.
+Mr. Musk said the company should have enough cash going forward without raising money through an equity sale, but he didn’t close the door on it.
+Adjusted gross margins in the quarter were 23.4%, about one percentage point lower than the company had expected. The gross margin indicates how much money the company makes excluding costs for expanding plants or doing research and development.
+Tesla said it expects the pricing on the Model S to erode slightly as more buyers take the less-expensive Model S 70D model vs. the higher-end version.
+Mr. Musk said that the company has booked reservations for $1 billion of stationary storage batteries, which will go into production this quarter. He said the company plans to sell about $40 million of the batteries in 2015, then jump to $400 million to $500 million in 2016.
+
+Mike Ramsey at
+
+********************************************************************************
+
+https://www.wsj.com/articles/electric-cars-as-a-source-of-capital-1438892675
+Letters//August 7, 2015/Opinion
+            
+
+
+              
+                
+                    Letters
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Electric Cars as a Source of Capital
+
+    Electric cars, at least, can be capital goods even when not being driven. Vehicle-to-grid (V2G) technology can turn the big battery in a Tesla, Volt, or other electric car into a power plant
+
+The
+about Uber increasing capital-stock formation is an intriguing notion and, I’m sure, correct as far as it goes. But as economist Don Boudreaux points out, an Uber car is only “a capital good for however long the car owner chooses to operate as an Uber driver.” Presumably the drivers eat and sleep and may have lives.
+Electric cars, at least, can be capital goods even when not being driven. Vehicle-to-grid (V2G) technology can turn the big battery in a Tesla, Volt or other electric car into a power plant, useful in reducing peak loads and hardening the grid against brownouts, outages and other problems. Combined with a rooftop solar installation, it can also produce income, or at least reduce outgo, and lead to greater energy security. And owners of electric cars can still drive their new capital for Uber when they’re feeling ambitious.
+
+********************************************************************************
+
+https://www.wsj.com/articles/new-rule-to-lift-veil-on-tax-breaks-1438725046
+Markets Main/By   Theo Francis    Theo Francis  The Wall Street Journal  Biography Theo Francis  @theofrancis  Google+  theo.francis@wsj.com/Aug. 4, 2015 5:50 p.m. ET/Markets
+            
+
+
+              
+                
+                    Markets Main
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  New Rule to Lift Veil on Tax Breaks
+
+    Accounting standard will require government officials to disclose value of property, sales and income taxes that have been waived
+
+Cities and states have plied companies with tax breaks for decades hoping to attract jobs and commerce. A new accounting standard will force many to disclose the total annual cost.
+The rule approved Monday by the Governmental Accounting Standards Board, the municipal equivalent of the board that sets the standards for corporate reporting, will require government officials to show the value of property, sales and income taxes that have been waived under agreements with companies or other taxpayers. It kicks in starting next year.
+Shelby County, Tenn., which includes the city of Memphis, waived about $48.7 million in property taxes last year, equivalent to 6.5% of its property tax receipts. Chicago channeled $372 million to nearly 150 special taxing districts in 2014, or $1 for every $13 of property taxes billed in the city, according to figures from the Cook County clerk’s office, which collects city taxes. Before it was shut down in 2012, a major California tax-incentive program sent about 12% of statewide property taxes to redevelopment agencies—and more than 25% in some counties—often benefiting private industry.
+Small towns can make big tax commitments as well. Belleville, Ill., with just 43,000 people about 20 miles east of St. Louis, sent $15.6 million of property- and sales-tax receipts—a big part of the city’s nearly $97 million in total revenue—to its 19 special taxing districts last year, where the beneficiaries include developers that built shopping centers and residential homes. Special tax districts typically are created for private or public entities to finance, build or operate infrastructure or facilities.
+The numbers show how the costs of discounted tax bills, special tax zones or outright waivers are piling up for local governments that in some cases have pressing problems with pensions and other budgetary issues. Deals like Nevada’s promise last fall to give
+
+up to $1.3 billion in tax breaks for building a battery plant there and the $8.7 billion of incentives Washington offered
+
+and its suppliers to expand jetliner production in the state have long been subject to complaints that they increase the burden on existing businesses and individual taxpayers while creating too few jobs.
+Now, investors, some government officials and others are becoming concerned that the combined effect of such deals over the years may be significantly limiting the financial flexibility of some cities. Governments rarely sum up the value of the tax breaks they have granted, and the accounting board worries that this leaves investors in the dark about the toll.
+“These agreements reduce the amount of tax revenue you get, but you never see that, because it’s not reflected in the accounting system,” said 
+
+
+
+      Dean Mead, 
+
+
+
+       a research manager at the Governmental Accounting Standards Board. “To understand what they can collect, you need to know about things that would prevent them from collecting taxes.”
+Cities use a number of incentives to lure businesses or keep them there. They may reduce or even suspend tax collections of businesses for years, or transfer tax receipts directly to developers and employers. Another popular approach is to agree to spend any tax revenue from projects to improve the surrounding areas. That spending then benefits the companies that set up shop, directly or indirectly.
+The choices can be difficult, because cities have to compete against rivals in neighboring states for investments that could create jobs. If they don’t bid aggressively, they could lose out entirely. But being too aggressive means missing out on tax revenue.
+“Anything that gives more transparency to what a government is doing and what is behind government finances, I’m all for it,” said 
+
+
+
+      Hugh McGuirk, 
+
+
+
+       head of mutual-fund company
+
+municipal-bond team. “If we find out that, of the potential tax revenue, they’re only realizing 60%, versus another entity that’s realizing 98% of potential, maybe they’ve been a little too generous with their tax incentives.”
+In Shelby County, Tenn., which competes with neighboring Arkansas and Mississippi for many industrial and commercial businesses, Memphis and other local governments have entered into more than 500 multiyear agreements with companies like
+
+typically waiving 70% and often more of the property taxes that would otherwise be owed.
+In a 2013 deal with Nike, Shelby County agreed to abate $30 million of property taxes over 15 years. That was on top of $28 million that Memphis had waived. In return, the sportswear company said it would invest $301 million to expand a distribution center and improve another facility, adding 250 jobs and $8.75 million in payroll.
+
+
+paid just $300 in taxes last year on property in Shelby County that ordinarily would have been taxed at $1.3 million thanks to pacts that extend out as far as 2028. One, a 15-year deal signed in 2012, involved a promise by the steelmaker to add 27 jobs and invest $113 million in its facility there.
+In January, a joint economic-development board for Memphis and the county voted to give Swedish home-furnishings retailer IKEA a combined $9.5 million in tax breaks over 11 years if it builds one of its stores in the county. An IKEA spokesman said the company plans to break ground this fall and open the store a year later. Spokesmen for Nucor and Nike declined to comment.
+Absent such agreements, the county’s overall tax rate could be reduced, said Shelby County Trustee 
+
+
+
+      David Lenoir, 
+
+
+
+       who collects the county’s taxes, to about $4.07 from the current $4.37 per $100 of assessed property value. For a house assessed at $100,000, that would amount to a $300-a-year tax cut.
+“It is a significant amount,” Mr. Lenoir said.
+County economic-development officials said the incentives have paid off. The joint city-county economic development agency that negotiates many of the tax-incentive agreements estimates that they have created or saved nearly 9,500 jobs and spurred $2 billion in capital investment since 2011, in the process generating another $715 million in tax revenue. The estimate includes partial payments by the companies and a computer model’s projection of the taxes that will be generated by newly hired employees and the businesses they patronize.
+Critics of economic-development incentives say such calculations are only as good as the assumptions that underlie them.
+Chicago, meanwhile, has announced plans to eliminate some of the tax districts and freeze spending at others. In Belleville, Mayor 
+
+
+
+      Mark Eckert
+
+
+
+       said the city’s special tax districts are critical to its economic health. With neighboring troubled East St. Louis, Ill., Belleville has had to fight to retain car dealerships and other businesses.
+
+Theo Francis at
+
+********************************************************************************
+
+https://www.wsj.com/articles/to-feed-billions-farms-are-about-data-as-much-as-dirt-1439160264
+Keywords/By   Christopher Mims    Christopher Mims  The Wall Street Journal  Biography Christopher Mims  @mims  christophermims  christopher.mims@wsj.com/Aug. 9, 2015 6:44 p.m. ET/Tech
+            
+
+
+              
+                
+                    Keywords
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  To Feed Billions, Farms Are About Data as Much as Dirt
+
+    Startups such as Google-funded Granular offer software to run farms with precision, efficiency
+
+Mark Bryant is a farmer in Ohio with 12,000 acres, on which he raises corn, soybeans and soft red winter wheat. He is rarely on a tractor, because that isn’t how farms work anymore.
+Instead, Mr. Bryant’s days are spent surveying dashboards full of data gathered from the 20 or so iPhones and five iPads he has supplied to his employees, on which they report on his acreage in real time, thanks to software from a
+-funded startup called Granular. Data gathered from aircraft, self-driving tractors and other forms of automated and remote sensors—for yield, moisture and soil quality—are also essential to how he does his work.
+“Just imagine, up until Granular came, for us everything was done on a Microsoft Excel spreadsheet,” says Mr. Bryant.
+Mr. Bryant isn’t atypical. Increasingly, this is how farming must be done for a farm to remain competitive.
+“If we’re really going to be professional farmers and feed everybody in the world, we really have to utilize this technology to do the job,” says Jeremy Jack, a farmer in Belzoni, Miss., which bills itself as the “Catfish Capital of the World.”
+Here’s the problem we face: We live on a planet of 7 billion people that is projected to have more than 2 billion more mouths to feed by the middle of the century. Another billion or so people will enter the middle class in that time, radically accelerating their demand for calories in the form of meat and other energy-dense foods. The Food and Agriculture Organization of the United Nations projects that the world’s farmers will have to produce 70% more calories by 2050, on less land (perhaps much less land) and with less water than they do today.
+The alternative is people starve, governments clamp down and there is, as there was during the 2007-2008 global food crisis, blood in the streets.
+There is currently a lot of debate about the sustainability of our agricultural system, which is heavily dependent on both water and fossil fuels. People also are divided over GMOs vs. organic, and grass-fed vs. factory-farmed. But in any scenario, with any mix of ad-hoc solutions to these issues, one fact remains: America’s family farmers—97% of America’s 2.1 million farms are family farms—are going to have to produce a lot more food per acre, on top of a century of productivity gains unprecedented in the history of agriculture.
+America has more arable land than any other country on Earth, but that amount is shrinking—3,000 acres are lost to development every day. Despite this, 889 million acres, or 40% of our land area, is devoted to farming, and the U.S. is by far the biggest exporter of grain.
+In a very real sense, America feeds the world.
+Getting more food from every acre without devastating the land for future generations requires accomplishing two contradictory things at once: Making farms ever larger—consolidation leads to efficiency, as in any other industry — and allowing farmers to understand every single thing happening on their farms, down to a resolution of single days, square meters and even individual plants.
+The result is a
+that surprised me, but maybe that’s just because advances in tractors hardly get the media attention that the tiniest iteration in consumer technology warrants.
+And these are technologies that are already in use.
+The world’s largest producer of autonomous four-wheeled vehicles isn’t Tesla or Google, it’s John Deere. And the cab of one of these self-driving tractors is now so full of screens and tablets that it has come to resemble the cockpit of a passenger jet—an accurate comparison in more ways than one, since perhaps only the airline industry can match farming in the degree to which its vehicles have become automated.
+“When you think of John Deere you think of a bunch of mechanical engineers who are designing big steel parts, but we have 2,600 employees who come in every day who are writing software,” says John May, chief information officer of John Deere. (For reference, a tech company like Facebook, which has been hiring like crazy of late, has only about three times as many developers.)
+The result is that John Deere and its competitors aren’t just turning out tractors, combines and trucks that can drive themselves and even each other, automatically coalescing into tight formations as they cross a farmer’s field, like fighter jets at an air show, they are also turning out wirelessly connected sensors that map every field, as well as planting and spraying machines that can variably apply seed and nutrients to a field, as if they were 20-ton print heads for 3D printers.
+Unlike most other areas of technology, this is happening today. John Deere has been selling self-driving tractors for 15 years. What’s new is data-centric companies with Silicon Valley pedigrees, like 2 1/2-year-old Granular and aerial surveillance startup DroneDeploy, that have the ability to tap into all this machinery and run farms as efficiently as Google runs its data centers.
+As I struggled for an analogy to describe what’s going on in America’s farms, 
+
+
+
+      Sid Gorham, 
+
+
+
+       CEO and co-founder of Granular, suggested something unsexy but apt: Farming is finally getting its Enterprise Resource Planning software. This banal but critical area of software, dominated by the likes of SAP, Oracle and Microsoft, is what allows giant corporations to manage their entire supply chains and all their connected parts, including cash flow and human resources.
+This change is revolutionary for those participating in it, like Mr. Bryant, who used to run his farm with paper forms, an Excel spreadsheet and a hard-won collection of gut feelings about when to plant and when to sow.
+Or in other words, the way we will feed the 10 billion people whom demographers project will eventually inhabit this world will be by managing every acre of our farmland with the same precision that allows a company like Apple to deliver tens of millions of iPhones within weeks of each other.
+Follow Christopher Mims on Twitter
+or write to
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-executive-presses-auto-makers-on-electrification-1438715632
+Autos/By   Mike Spector    Mike Spector  The Wall Street Journal  Biography Mike Spector  @MikeSpectorWSJ  Mike.Spector@wsj.com/Aug. 4, 2015 3:13 p.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Executive Presses Auto Makers on Electrification
+
+    Electric-car maker executive Diarmuid O’Connell says GM, other manufacturers lack a ‘compelling product’
+
+TRAVERSE CITY, Mich.—
+
+
+came to a conference here with a tough message for other auto makers: stop building compliance cars.
+An executive at the Silicon Valley electric-car maker on Tuesday bemoaned the inability of
+
+and other manufacturers to have better success selling their own battery-powered vehicles.
+Instead, most other auto makers are producing electric cars to meet minimum regulatory standards while continuing to build and sell less-efficient gas-engine vehicles in droves, said 
+
+
+
+      Diarmuid O’Connell, 
+
+
+
+       Tesla’s vice president of business development.
+Mr. O’Connell said in an interview with The Wall Street Journal the problem for other companies is a lack of “compelling product” in showrooms. Other electric cars tend to be more utilitarian with uninspiring designs and a focus on low cost, he said.
+“For the most part, everyone else is producing compliance vehicles,” Mr. O’Connell said. “I look at some of the vehicles and think of toasters.” He said cars are aspirational and electric vehicles should be designed accordingly to attract shoppers.
+GM and other auto makers contend selling electric vehicles, hybrids and other cleaner cars is challenging as low gasoline prices send consumers flocking to less-efficient—but more profitable—pickup trucks and sport-utility vehicles.
+Sales of trucks currently make up more than half the U.S. market. “Is that a bad thing? No, it’s a representation of the market,” said 
+
+
+
+      John Bozzella, 
+
+
+
+       head of the Association of Global Automakers, a Washington advocacy group representing
+
+,
+
+and others, in a presentation Tuesday.
+“It’s a big country out there,” Mr. Bozzella said. “Right now, customers are choosing light-truck segments.”
+Tesla, founded in 2003, gained success selling electric cars starting around $70,000 and able to travel more than twice as far on a single battery charge than other vehicles. Tesla has a market capitalization surpassing $33 billion, more than half the value of GM, despite founder 
+
+
+
+      Elon Musk’s
+
+
+
+       guidance earlier this year that the company likely won’t be profitable until 2020.
+Other auto makers are investing in electric vehicles. GM is readying the Chevrolet Bolt,
+due out in 2017. Germany’s
+and
+
+of Japan also have promised electric vehicles with ranges similar to Tesla’s models.
+But they point to significant challenges getting customers to buy electric vehicles or other cleaner cars. The 15 fully electric vehicles on sale last year registered 0.4% of overall auto purchases in the U.S., according to the Alliance of Automobile Manufacturers, an industry lobbying group in Washington that represents nearly a dozen auto makers including GM,
+
+and Toyota.
+Hybrids, plug-in hybrids, electric vehicles and clean-diesel vehicles represented about 5.6% of sales in 2014, according to the Alliance.
+Tesla’s Mr. O’Connell said he nevertheless “absolutely” advocates
+that require auto makers sell vehicles averaging 54.5 miles a gallon by 2025. The mileage target suggests manufacturers should jump to develop electric vehicles, he said.
+Other auto makers are more cautious, looking forward to a review of the standards in 2017.
+Mr. O’Connell said other manufacturers in coming years can meet the federal standards and separate regulations for zero-emission vehicles in California.
+Fuel prices, he said, will rebound. “The inexorable trend of gasoline prices is ever higher,” he said. “We are going to see a return to higher gas prices.”
+Tesla benefits from earning money trading credits for exceeding regulatory targets. Mr. O’Connell acknowledged the benefit but emphasized Tesla’s goal of producing mass-market electric vehicles. “We didn’t set up the company to make money on credits,” he said.
+Mr. O’Connell said the adoption of electric plug-in vehicles has been more rapid during a similar time frame than for hybrids.
+He pointed to 480 charging stations across the U.S. providing necessary infrastructure to charge electric cars to 170 miles of traveling range in a half-hour.
+
+Mike Spector at
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-is-a-compliance-company-1438987210
+Business World/By   Holman W. Jenkins, Jr./Aug. 7, 2015 6:40 p.m. ET/Opinion
+            
+
+            
+              Columnists
+            
+
+              
+                
+                    Business World
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Is a Compliance Company
+
+    The electric-car maker’s entire business model 
+		
+			
+		
+	is rapidly becoming a regulatory creation.
+
+Tesla’s $70,000 Model S is as much a “compliance” vehicle as the electric cars built by other auto makers. That’s one truth the audience didn’t hear from 
+
+
+
+      Diarmuid O’Connell, 
+
+
+
+       Tesla vice president of business development, who made a much-noted appearance at a Michigan automotive seminar this week.
+Mr. O’Connell called on Washington to stiffen the already-stiff Obama fuel-mileage mandates. He criticized electric cars churned out by other car makers as mere “compliance vehicles” that are not “compelling” to consumers.
+Uh huh. The kettle speaks. Tesla benefits from a $7,500 buyers tax credit, and generates millions in revenues by selling emissions credits to other car makers under California’s zero-emissions-vehicle mandate and federal greenhouse rules.
+Tesla is a compliance company. Don’t take our word for it. Mr. O’Connell said if other makers don’t want to build electric cars, “they can buy credits from us, and we will invest in electric vehicles for them.”
+As for the Model S, Tesla’s big seller may be “compelling” to its customers but it’s also an absurd, anachronistic take on the electric automotive future it’s supposed to herald. Form eschews function: It apes the conventional sports car with a long, sweeping hood to conceal a powerful piston engine that isn’t there. It appeals to confused consumers who simultaneously want to display ostentation and green virtue.
+Which brings us to Mr. O’Connell’s vocal support for increased mileage mandates. These, in theory, are a mixed bag for Tesla. They generate tradable credits but also pollute the market for electric cars with vehicles built and dumped at a loss. But the rules also prop up Tesla’s share price by making the company a potential acquisition target for a full-line auto maker looking to offset its pickups and SUVs.
+In reality, Mr. O’Connell’s conspicuous plumping for tougher mileage mandates is about something else. Tesla seeks to foster a political mood favorable to the extension of the tax credit without, you know, actually publicly lobbying for a grotesquely regressive handout. Yet it’s easy to extrapolate that Tesla’s entire market capitalization of $34 billion is nothing but the discounted present value of its expected future subsidies. Tesla, like any business, doesn’t leave money on the table in its pricing. And the tax credit will become even more important, and a bigger part of Tesla’s implicit revenue, when it launches its $35,000 Model 3 for the mass market.
+All this emerges right now because of the coming “midterm review” of the Obama 54.5 miles-per-gallon target for 2025, which seems increasingly problematic when gas is selling for $2.63 nationally.
+An instant classic in the annals of central planning is a new report from the National Academy of Sciences, which congratulates the administration on its success so far and predicts continued success. Included is only a slight caveat: The Obama rules require auto makers to make plug-in green cars but don’t require consumers to buy them, and “there is evidence that consumers will not widely adopt technologies that interfere with driver experience, comfort or perceived utility even for large improvements in fuel economy.”
+Weight reduction also is playing a bigger role than Team Obama anticipated, so “there could be a negative impact on safety due to variance in the distribution of the mass across the vehicle fleet.”
+Speaking up as well are previously faceless myrmidons like Margo Oge, the recently retired chief of the Environmental Protection Agency’s fuel-mileage efforts, and 
+
+
+
+      Mary Nichols, 
+
+
+
+       head of California’s all-important Air Resources Board.
+In interviews with the media, both exude confidence in Obama plans to sweep the gasoline engine into history’s trash heap but are imprecise about the benefits of doing so. Ms. Nichols drives an electric Honda Fit around Sacramento—where more than half of electric supply comes from fossil fuels. Ms. Oge, who drives a rechargeable Chevy Volt, is a habitué of D.C. and suburban Virginia, where 60% of the electricity is generated from carbon-emitting sources, predominantly coal.
+But never mind: If every car in America were electric and recharged using only renewables, the impact would be less than 2% of global emissions. Even the new Obama power-plant rules, which would be far more consequential, would prevent only 0.03 degrees Celsius of warming by 2100 (and then only if climate models predicting substantial warming are right).
+So expect the Obama mileage rules to be felt widely—in the steepening price of new cars, in reduced revenues for traditional auto companies and their workers, in growing wealth for Tesla founder 
+
+
+
+      Elon Musk.
+
+
+
+       One place the rules won’t have meaningful impact is climate change.
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-small-skids-matter-at-this-speed-1438815688
+/By   Charley Grant/Aug. 5, 2015 7:01 p.m. ET/Markets
+            
+
+            
+              Heard on the Street
+            
+
+
+
+      
+
+    
+
+
+  
+
+  Tesla: Small Skids Matter at This Speed
+
+    Tesla Motors’ lowered delivery guidance could spell trouble for investors
+
+When your stock trades at more than four times forward revenue estimates, you have to deliver—literally, in Tesla’s case.
+
+
+’ second-quarter results, released late Wednesday, actually
+on revenue and earnings. Yet the stock fell 6% in after-hours trading.
+The disappointment all stemmed from the delivery—or rather the lack of it. Tesla tweaked its guidance for vehicle deliveries this year down to between 50,000 and 55,000 from a prior level of 55,000. This cut came despite the company confirming that its hotly anticipated Model X crossover vehicle is still scheduled to begin production next month.
+Tesla put the reduced expectation on deliveries down to concerns about the ability of some of its suppliers meeting the auto maker’s quality standards: “In a choice between a great product or hitting quarterly numbers, we will take the former.”
+Tesla added that it is “highly confident” of meeting its guidance for deliveries next year of between 82,000 and 94,000 vehicles.
+Hitting that target—profitably—is
+. After negative free cash flow in the second quarter of $565 million, the largest on record, Tesla now has $1.2 billion in cash and equivalents on its balance sheet, and has drawn $50 million on its new line of credit. Net debt has almost tripled since the start of the year, to $1.47 billion.
+The company’s annual capital expenditure guidance of about $1.5 billion implies perhaps a 20% drop in spending in the second half of the year compared with the first. Still, that would slow the cash burn rather than eliminate it. Indeed, Tesla chief 
+
+
+
+      Elon Musk
+
+
+
+       refused to comment in response to an analyst’s question on Wednesday’s call regarding whether Tesla might issue more equity.
+And with very high growth expectations embedded in its valuation, Tesla’s investors should be sensitive to even small signs of slippage.
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-motors-earnings-what-to-watch-1438627728
+Earnings/By   Mike Ramsey    Mike Ramsey  The Wall Street Journal  Biography Mike Ramsey  @MRamseyWSJ/Aug. 3, 2015 2:48 p.m. ET/Business
+            
+
+
+              
+                
+                    Earnings
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Motors Earnings: What to Watch
+
+    Model X, China will be in focus when auto maker reports results
+
+will deliver its second-quarter earnings report after the market closes on Aug. 5. Here’s what you need to know:
+
+Adjusted losses of 59 cents a share is the consensus of analysts polled by Thomas Reuters, compared with an 11-cent a share profit a year earlier. Net losses are forecast to come in at $117 million, more than the $61.9 million loss a year earlier, as Tesla ramped up spending on buildings, engineering and new staff to prepare for growth.
+
+Tesla’s revenue is expected to rise 36% to $1.17 billion, on an adjusted basis. Tesla gives an adjusted revenue figure because of the way it accounts for a residual value guarantee that is linked to its lease program. The company already has reported that its
+in the three months that ended June 30, but not all of the company’s revenues come from vehicle sales.
+
+MODEL X: Tesla is likely to give more performance details about its Model X sport-utility vehicle and
+to start of production. It has been delayed several times, hurting the company’s cash generation. The electric SUV will have a 90 kilowatt-hour battery pack and unique, falcon-wing doors
+
+Tesla had a
+last year, but recently the company says it is showing signs of strengthening in the world’s largest auto market. The company may give details on how it is improving its operations there.
+
+Tesla has
+around its $5 billion battery factory in Nevada and CEO 
+
+
+
+      Elon Musk
+
+
+
+       has mentioned that the huge plant may quickly be filled beyond capacity as demand for its stationary energy storage business grows. Mr. Musk could give an update on where it stands and how it may grow.
+
+Tesla is working on an autopilot function for its Model S. Mr. Musk says he is driving a Model S several times a week that has the software, which will drive a car on the highway and even pass other vehicles on the road. The company may give a timeline for when this feature will be available to customers through an over-the-air update.
+
+How big of a business will Tesla’s stationary storage business become? In April, Tesla unveiled back up batteries for homes, utilities and businesses. Tesla is likely to give more details on this business and perhaps begin breaking it out from automotive operations in its financial statements.
+
+Mike Ramsey at
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-take-big-lead-in-chinas-green-vehicle-market-1438803074
+Autos/By   Jeff Bennett    Jeff Bennett  The Wall Street Journal  Biography Jeff Bennett  @jeffbennettwsj  jeff.bennett1  Google+  jeff.bennett@wsj.com/Updated Aug. 5, 2015 3:44 p.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Takes Big Lead in China’s Green Vehicle Market
+
+    Company has more than 80% of segment for imported plug-in hybrid, electric cars
+
+is dominating China’s “new energy” vehicle market, grabbing more than 80% of the segment for imported plug-in hybrid or electric cars, according to a Chinese auto research group Wednesday.
+In a rare snapshot of Tesla’s operations in China, the China Automotive Technology and Research Center said at an industry conference that 2,147 of the 2,645 green vehicles shipped to China and sold in the country during the first half were Tesla vehicles.
+While Tesla is currently the big player, 
+
+
+
+      Yonghe Huang, 
+
+
+
+       a director with the research group, expects other foreign companies to enter the China market with these types of vehicles and challenge the Silicon Valley electric-vehicle maker. Tesla officials couldn’t immediately comment.
+The disclosure comes shortly before
+. Analysts are keeping a close eye on its progress in China after the company had a slow start in that market last year and was forced to retrench.
+Separately, the analyst said the green-vehicle market is rapidly growing in China although it remains only a tiny sliver of the overall market.
+More than 84,700 green vehicles were produced in the country last year—more than the previous four years combined. Through the first half of this year more than 83,000 vehicles have been produced. Electric and plug-in hybrids comprised 0.32% of overall sales in 2014 and grew to 0.61% for the first half of 2015.
+
+Jeff Bennett at
+
+********************************************************************************
+
+https://www.wsj.com/articles/nvidia-revenue-tops-company-estimate-1438894780
+Technology/By   Don Clark and   Don Clark  The Wall Street Journal  Biography Don Clark  @donal888  www.facebook.com/DonClark  Don.Clark@wsj.com     Josh Beckerman/Updated Aug. 6, 2015 8:37 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Nvidia Bucks Personal-Computer Slowdown
+
+    The Silicon Valley company said revenue generated by its GeForce graphics processors grew 51%
+
+bucked a slowdown in personal computer sales to post strong second-quarter results, a sign that enthusiasts are upgrading their existing computers with chips that generate more lifelike images.
+The Silicon Valley company said revenue generated by its GeForce graphics processors grew 51%. Total revenue came in higher than the company had projected, sending Nvidia shares up more than 10% to $22.60 in after-hours trading.
+Nvidia sells a portion of its graphics chips, known as GPUs, to computer makers for inclusion in new models. But demand has been stronger lately for high-end chips incorporated on cards that plug into desktop computers.
+“The upgrade rate is increasing,” said 
+
+
+
+      Jen-Hsun Huang, 
+
+
+
+       Nvidia’s chief executive in an interview.
+One draw for customers is the steady arrival of new videogames that require faster hardware to run at full visual fidelity, Mr. Huang said. Buyers also want to take advantage of new 4K displays and online gaming services that are turning into full-fledged social networks, he said.
+Not all has been going Nvidia’s way. Sales of GPUs for laptop computers have slowed, reflecting weaker demand and customers waiting to take advantage of new software from
+
+and new chips from
+
+, Mr. Huang said.
+The company has also opted to retreat from a foray into processors and wireless communications chips for smartphones, a business rife with tough competitors and pricing pressures.
+In May, Nvidia said it would wind down its Icera wireless modem business, triggering restructuring charges of about $100 million to $125 million. At the time, Nvidia said it was “open to a sale of the technology or operations,” but said Thursday that “a viable buyer failed to emerge.”
+Including those and other charges, Nvidia reported net income for the quarter ended July 26 of $26 million, or five cents a share, compared with profit in the year-earlier period of $128 million, or 22 cents a share. Excluding stock-based compensation and other items, the figure rose to 34 cents from 30 cents.
+Revenue rose 5% to $1.15 billion. Nvidia had projected revenue of $1.01 billion, plus or minus 2%, indicating a range between $999 million and $1.03 billion.
+For the current quarter, Nvidia projects revenue of $1.18 billion, plus or minus 2%. Analysts polled by Thomson Reuters project $1.1 billion.
+Besides selling GPUs for computers, Nvidia has been aggressively marketing technology to auto makers. It supplies the tablet-like infotainment system in Tesla Motors Inc.’s Model S, for example. The company said Thursday it is working with more than 50 companies in connection with its Nvidia Drive technology for self-driving cars.
+The Santa Clara, Calif., company also said Thursday that it has begun construction of an elaborate headquarters building there, expected to house about 3,000 employees in 500,000 square feet of space. It predicted the project will cost $360 million to $380 million and will be completed at the end of the 2018 fiscal year.
+Mr. Huang said the company would extensively use graphics technology to model the building with unusual levels of detail, such as projecting how the sun would affect light levels during particular dates and times. “We invented a bunch of technology to make this design possible,” he said.
+
+Don Clark at
+and Josh Beckerman at
+
+********************************************************************************
+
+https://www.wsj.com/articles/electric-skateboards-a-totally-rad-ride-1438887877
+Gear & Gadgets/By   Georgia Wells    Georgia Wells  The Wall Street Journal  Biography Georgia Wells  @georgia_wells  georgia.e.wells  Google+  georgia.wells@wsj.com/Aug. 6, 2015 3:04 p.m. ET/Tech
+            
+
+
+              
+                
+                    Gear & Gadgets
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Electric Skateboards: A Totally Rad Ride 
+
+    Self-propelled and easy to master, the latest electric skateboards are a radical way to kick up your ride. Here, we review: the Boosted Single, Evolve Carbon All Terrain and Yuneec E-Go
+
+be an adrenaline-addicted speed fiend to appreciate the appeal of electric skateboards. As modes of transportation go, they’re highly practical. These boards just fly along on their own, no kicking required. They’re as intuitive to control as a Segway, but you look a lot cooler riding one.
+Even if you never skateboarded growing up, riding an electric model is straightforward. You steer it as you’d imagine: To turn right, just lean your weight to the right. Unlike traditional skateboards, these things have brakes. To change your speed, adjust a wheel, slider or lever on a wireless hand-held remote (similar to the kind used to throttle a slot car).
+
+—and as such aren’t technically legal everywhere yet. You can legally ride them in a few states, including Alabama, Pennsylvania and Virginia. California, in the process of legalizing the boards, is expected to reverse a 1977 ban intended to keep noisy, stinky, gas-powered skateboards off the streets. Today’s electric models are light years ahead of those. Thanks to higher-capacity batteries and efficient, brushless motors, they’re as quiet as bicycles and produce no emissions.
+Hop on an electric skateboard to get to and from work, and suddenly your commute is much less of a grind. Unlike with a bike, you won’t have trouble squeezing your board on a subway or train at rush hour; just tuck it between your legs. And when you arrive at the office, you won’t be all sweaty from an uphill climb. For women riders, skateboards are a particular boon: We can ride comfortably in a skirt.
+Most boards have a companion app that essentially turns your smartphone into a dashboard (for use when you’re not cruising). It’ll display the remaining battery life, miles traveled and other metrics. Some even tell you if there are fellow riders nearby.
+I pushed three popular models to their limits, taking them up San Francisco’s most treacherous hills, over the grassy fields of Golden Gate Park and even on a crowded train. The verdict? These are the closest thing we have to a hoverboard for the masses—and that’s undeniably rad.
+
+1,000 watts
+
+18 mph
+
+8 miles
+
+1 hour
+If Tesla manufactured electric skateboards, they would probably ride like this one. Its polished acceleration (and braking) made me feel like I was gliding to work.
+Not that I wasn’t leery at first.
+Yes, that’s how it works. It wasn’t until I hit about 10 mph that I gave any thought to how to stop. The instructions said to reverse the direction of the wheel on the remote to engage the brakes. My main concern: What if the board stopped dead and I went flying?
+But that didn’t happen. The board came to a swift yet gentle stop. The controls were intuitive and responsive, and the remote felt like an extension of my hand, its controller wheel placed right where I wanted it to be.
+The maker of the board sourced components from skateboard powerhouses in creating this: deck by Loaded, trucks from Caliber, wheels by Orangatang. As a result, it looks and rides like a high-end skateboard—one that happens to be motorized.
+
+
+700 watts
+
+23 mph
+
+16 miles
+
+2 hours
+This Hummer of electric skateboards comes with beefy 8-inch, air-filled tires that shrug off a range of inhospitable terrain: cobblestones, grass, even sandy surfaces. And you don’t need to bother lifting your board over patches of gravel or expanses of mud. I was able to steamroll right over those on the Evolve.
+That said, this board is not without its faults. When you plug it in, its charger is as loud as an industrial fan. (The company says it is switching to a quieter but slower charger later this year.) And at 23 pounds, the Evolve Carbon isn’t exactly easy to lug around. (In comparison, the Boosted Single and Yuneec E-Go, both under 14 pounds, are practically featherweights.)
+But those are relatively minor trade offs for the ability to completely dominate your turf.
+
+
+400 watts
+
+12.5 mph
+
+18 miles
+
+5 hours
+For those just starting to explore the electric-skateboard world, Yuneec’s E-Go is an accessible entry point. It costs a few hundred dollars less than its competitors and yet has the longest range of the three models shown here.
+Yuneec has roots in electric aviation, and the company says the E-Go’s motor is just like the one that powers its two-seat light aircraft, albeit smaller. Still, this board lacks the polish of Boosted’s model. Its brakes aren’t as firm; it takes a bit longer to come to a complete stop. Nor is the acceleration quite as smooth (the experience is kind of like driving the car with a sticky gas pedal). That said, it still felt like riding a magic skateboard. Which is to say, fun.
+The E-Go’s app does have an especially handy feature: If you leave the remote at work, it lets you use your smartphone as a replacement controller. This isn’t ideal, since the smartphone screen lacks any knobs or triggers, and, more disconcertingly, the board comes to a complete stop if the phone receives a call. But in a pinch, you can at least set the speed to low to avoid having to push with your feet.
+
+********************************************************************************
+
+https://www.wsj.com/articles/hacking-cars-to-take-focus-at-black-hat-conference-1438723360
+Technology/By   Danny Yadron    Danny Yadron  The Wall Street Journal  Biography Danny Yadron  @dannyyadron  Google+  Danny.Yadron@wsj.com/Aug. 4, 2015 5:22 p.m. ET/Tech
+            
+
+
+              
+                
+                    Technology
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Hacking Cars to Take Focus at Black Hat Conference
+
+    Researchers look for flaws as vehicles increasingly resemble computers on wheels
+
+For two decades, hackers have flocked to Las Vegas each summer to show off how they can take control of computers. Now, they have moved on to cars.
+A
+
+
+engineer who used to work for the National Security Agency plans to reveal Wednesday at the Black Hat hacking conference
+. An executive from a mobile-security startup on Thursday plans to show how he and a friend hacked a Tesla. Another researcher plans to show how he can wirelessly unlock any car, regardless of the owner.
+The presentations underscore how cars increasingly resemble computers on wheels—complete with Internet connections that let drivers stream music or find a nearby gas station. Tesla downloads updates of the car’s operating system via the Internet, tweaking features like boosting acceleration.
+For hackers, those cool new features are inviting targets. They also see them as an indication of how security can be an afterthought in the rush to deploy new technology. That was true of wireless-phone networks and the Internet itself.
+
+
+“Every new area has to be done badly first and then we have to clean it up,” said Ed Skoudis, a fellow at the SANS Institute and founder of Counter Hack, which simulates cyberattacks as training exercises. “There’s probably a rule of economics in there somewhere.”
+When car makers began introducing connectivity features, initial safety concerns focused on distracted driving.
+“Customers can avail themselves of breakthrough features designed to help them stay connected with the outside world, while remaining attentive to the task at hand—driving,” read a 2012 news release for new Uconnect features for Dodge Ram trucks and Viper sports cars. Uconnect is the entertainment and communication system offered by
+NV.
+In Las Vegas this week, two researchers will show how a flaw in the Uconnect system—since fixed—could have been used to take over a Jeep Cherokee from miles away. Fiat Chrysler knew about the flaw as early as January 2014 but didn’t realize it could be used to take over the vehicle, according to federal filings and a person familiar with the matter.
+Fiat Chrysler released a patch for the flaw and
+, just before the research was made public. One of the researchers, Charlie Miller, the Twitter engineer and former NSA employee, said the patch appears to block his hack of the entertainment system—but may not stop hackers from taking over a vehicle in other ways.
+“The software manipulation addressed by this recall required unique and extensive technical knowledge, prolonged physical access to a subject vehicle and extended periods of time to write code,” Fiat Chrysler said in a statement.
+Also at the conference, two researchers plan to share findings “that will allow you to hack a Tesla Model S yourself—both locally and remotely.” A third talk is called “Drive It Like You Hacked It: New Attacks and Tools to Wirelessly Steal Cars.”
+
+
+said members of its security team would discuss the findings at the conference.
+Government officials have taken notice. Last month, two senators introduced legislation that would direct the Federal Trade Commission and National Highway Traffic Safety Administration to set cybersecurity standards for connected cars.
+Two trade groups, the Alliance of Automobile Manufacturers and the Association of Global Automakers, last month created a consortium to share information on cybersecurity threats to their cars.
+“For years auto makers have been working on multiple fronts to address the safety and security of their products,” said 
+
+
+
+      Wade Newton, 
+
+
+
+       spokesman for the Alliance of Automobile Manufacturers, in a written statement. “That work begins from the very first stages of design and development and it is a continuing process.”
+“There are going to be cybersecurity ratings for cars,” said Jacob Olcott, a former Senate aide who now works at BitSight Technologies, a cybersecurity startup that tries to rate the security of companies. He said that auto makers have an interest in trying to head off government rules by developing their own standards.
+“Imagine if a government regulator starts to ask for line-by-line code reviews of cars,” he said. “That’s crazy.”
+
+Danny Yadron at
+
+********************************************************************************
+
+https://www.wsj.com/articles/u-s-stock-futures-slightly-higher-1438863795
+Today's Markets/By   Austen Hufford/August 6, 2015/Markets
+            
+
+
+              
+                
+                    Today's Markets
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  U.S. Stocks Drop on Media Meltdown
+
+    Fears of ‘cord-cutting’ by consumers jolt stocks of traditional media firms
+
+Stocks slumped on Thursday in a selloff led by shares of media companies, which have reported a flurry of disappointing earnings amid concerns about the shift away from traditional television.
+A 14% decline in
+
+dragged down the Nasdaq Composite Index, which fell 83.50, or 1.62%, to 5056.44. Before the opening bell, the media giant reported a
+, fueling worries that more consumers are
+and turning to the Internet for their viewing.
+Shares of
+
+tumbled for a second day after Chief Executive Robert Iger late Tuesday noted subscriber losses at ESPN.
+That again weighed on the Dow Jones Industrial Average, which declined 120.72 points, or 0.69%, to 17419.75. The S&P 500 fell 16.28, or 0.78%, to 2083.56.
+Disney was down 1.8% on Thursday after falling 9.2% Wednesday. 21st Century Fox Inc. declined 6.4% after lowering its expectations for full-year profit for fiscal 2016.
+“Media stocks are getting slaughtered,” said Aaron Clark, a portfolio manager at GW&K Investment Management, which manages $25 billion in assets. “It’s been the long-running fear that we would eventually see cord-cutting. Everyone thought it would be a slow-moving train wreck, but Disney’s comment woke people up.”
+The media downturn spread to other sectors as hedge fund and mutual fund managers tried to reduce risks after taking hits in their media stocks, traders said.
+“There is no question these have been favorite names among mutual funds and hedge funds. It forces selling in other sectors,” said Ian Winer, director of trading at Wedbush Securities. He said fund managers are asking “what else can I do to take down my exposure?”
+Thursday’s losses come against the backdrop of tepid growth in the U.S. and around the world. Many investors are also concerned that elevated valuations on some stocks aren’t supported by earnings growth.
+As well, investors are skittish ahead of the July U.S. jobs report, due out Friday, as they try to gauge the path of interest rates in the U.S.
+The health of the labor market is a key factor in the Federal Reserve’s decision when to raise rates. The central bank has held interest rates near zero since the financial crisis, fueling a rally in stocks, and some investors are worried about how the market will adjust to slightly higher rates.
+“Every data point is becoming increasingly more important,” said Mr. Clark of GW&K Investment Management. The Federal Reserve “left themselves an enormous amount of flexibility to course correct with the data.”
+
+, a proxy for layoffs, rose by 3,000 to 270,000 in the week ended Aug. 1, the Labor Department said Thursday. Economists had forecast 271,000 new claims.
+Across the Atlantic, the Bank of England signaled it remains on course to start slowly lifting rates in the U.K. early next year. The U.K.’s FTSE 100 lost 0.1%, while the Stoxx Europe 600 lost 0.8%.
+Asian stocks were mixed. Chinese shares fell while Japanese stocks rose.
+In commodity markets,
+continued to slide, down 1.1% to $44.66 a barrel.
+“The fact that oil is continuing to sell off, we are in a new spot. We haven’t seen oil bear at these levels for an extended period of time for a number of years,” said 
+
+
+
+      Gordon Charlop, 
+
+
+
+       managing director at Rosenblatt Securities. “The question becomes what is the implication.”
+Despite the drop in oil, energy stocks climbed 1.6%, though they are down 1.7% for the week.
+Gold futures gained 0.4% to $1090.20 an ounce.
+The yield on the 10-year Treasury note slipped to 2.236% from 2.270%. Yields fall as prices rise.
+Investors also focused on earnings outside the media sector.
+
+shares slumped 30% after the company lowered its earnings outlook and reported weak sales. The company best known for its individually brewed coffee pods is preparing to
+.
+
+
+results topped expectations even though
+. Shares rose 11%.
+Budget fitness chain Planet Fitness started its trading debut down 9.4% from its IPO price but ended completely flat at $16.00.
+
+
+second-quarter loss nearly tripled from a year earlier, reigniting concerns about the electric-car maker’s ability to turn a profit. Shares fell 8.9%.
+
+
+shares rose 1.1% after activist investor 
+
+
+
+      William Ackman
+
+
+
+       revealed a $5.5 billion stake in the company. The activist believes
+and cut costs significantly, or sell itself to a rival, The Wall Street Journal reported.
+—Saumya Vaishampayan contributed to this article.
+
+Saumya Vaishampayan at
+
+********************************************************************************
+
+https://www.wsj.com/articles/tesla-presses-its-case-on-fuel-standards-1438559469
+Autos/By   Mike Ramsey    Mike Ramsey  The Wall Street Journal  Biography Mike Ramsey  @MRamseyWSJ/Aug. 2, 2015 7:51 p.m. ET/Business
+            
+
+            
+              Autos & Transportation
+            
+
+              
+                
+                    Autos
+                
+              
+
+
+      
+
+    
+
+
+  
+
+  Tesla Presses Its Case on Fuel Standards
+
+    Tougher fuel-economy targets could benefit the electric-car maker, while posing a challenge for rivals
+
+PALO ALTO, Calif.—Auto makers have been laying the groundwork to seek relief from U.S. regulators on lofty fuel-economy targets. But
+
+
+is rowing in the opposite direction, saying it wants to make the rules even tougher.
+The Silicon Valley electric-car maker is preparing to make a public case this week for leaving mileage and emissions regulations intact, or making them even more stringent, a Tesla executive said. The company also will fight to keep other auto makers from loosening regulations in California, which has more ambitious targets than the federal government.
+U.S. fuel-economy targets call for manufacturers to sell vehicles averaging 54.5 miles a gallon by 2025.
+Tougher regulations could benefit Tesla, while challenging other auto makers that make bigger profits on higher-margin trucks and sport-utility vehicles.
+Tesla’s vice president of development, 
+
+
+
+      Dairmuid O’Connell, 
+
+
+
+       plans to argue to auto executives and other industry experts attending a conferenceon the northern tip of Michigan that car companies can meet regulations as currently written.
+“We are about to hear a lot of rhetoric that Americans don’t want to buy electric vehicles,” Mr. O’Connell said in an interview ahead of a Tuesday presentation in Traverse City, Mich. “From an empirical standpoint, the [regulations] are very weak, eminently achievable and the only thing missing is the will to put compelling products on the road.”
+The presentation likely will further Tesla’s reputation as industry agitator, a role often taken on by founder 
+
+
+
+      Elon Musk, 
+
+
+
+       who rankles rivals with proclamations about their apparent lack of progress in building viable electric vehicles. It also will mark a significant departure from other auto makers that historically have tried to soften fuel-economy regulations.
+The industry typically has agreed to tougher standards under political pressure and only after thorough negotiations. In Detroit earlier this year, Mr. Musk urged auto makers to continue advancing electric vehicles amid falling oil prices, even while disclosing his company likely won’t be profitable until 2020.
+
+
+and
+
+are increasingly selling less-efficient pickup trucks and SUVs amid a sustained run of lower gasoline prices and are readying arguments for less-strict rules when federal regulators review mileage targets in 2017 and California reviews its regulations that require a minimum percentage of electric cars in 2016.
+One route for relief would be getting progress points for autonomous features such as automatic braking that they argue both improve safety and save fuel to offset vehicles that are less fuel efficient than the target.
+“Auto makers are offering consumers more choice than ever in energy-efficient vehicles, but that’s not enough,” said a spokeswoman for the Alliance of Automobile Manufacturers, an industry lobbying group representing a dozen auto makers including GM, Toyota and
+
+“We need consumers to buy them in high volumes to meet the steep climb in fuel-economy standards ahead.”
+The 15 fully electric vehicles on sale last year registered 0.4% of overall auto purchases in the U.S., the spokeswoman said. The share of sales doesn’t brighten much when adding other more-efficient vehicles with so-called alternative powertrains into the mix.
+Hybrids, plug-in hybrids, electric vehicles and clean-diesel vehicles represented about 5.6% of sales in 2014, according to the Alliance. Trucks and SUVs, meanwhile, made up more than half of sales. Electric vehicles, while fuel-efficient, are tougher sells amid low gas prices because of their heftier price tags, even with offsetting tax credits.
+Still, Tesla has established itself by selling electric cars starting around $70,000 and able to travel more than twice as far on a single battery charge than competing vehicles. Founded in 2003, it boasts a market capitalization exceeding $33 billion, more than half that of GM.
+Traditional auto makers aren’t sitting still. GM is readying the Chevrolet Bolt, a 200-mile range electric car due out in 2017. Germany’s Audi and Nissan Motor Co. of Japan also have promised electric vehicles with ranges similar to Tesla’s models.
+Tesla can make extra money by trading regulatory credits it earns for selling cars that make zero pollution in states like California. Tesla reaped $216.3 million from selling credits in 2014. It banked $194.4 million and $40.5 million selling credits in 2013 and 2012, respectively.
+Tesla contends that other auto makers have earned enough of their own credits and made such strides in improving fuel economy that they should be able to meet California regulatory mileage targets through 2022, according to an analysis the company plans to unveil Tuesday. Auto makers can meet current standards even without adding additional so-called zero-emission vehicles to the roads, Tesla says.Fiat Chrysler Automobiles NV Chief Executive 
+
+
+
+      Sergio Marchionne
+
+
+
+       earlier this year suggested the U.S. government give auto makers more time to meet higher targets.
+Regulators so far have been cool to relaxing standards. The Environmental Protection Agency will conduct an evaluation to “decide whether the standards for model years 2022-2025, established in 2012, are still appropriate given the latest available data and information,” an agency official said. The “EPA’s decision could go one of three ways: the standards remain appropriate, the standards should be less stringent, or the standards should be more stringent.”
+Other auto executives often argue that electric vehicles will need to make up a far larger share of sales to meet loftier fuel-economy targets, a tough mandate when gasoline prices are low.
+In addition to federal fuel-economy targets, California and a group of 11 other states require auto makers to sell a certain percentage of their fleets with zero emissionsusually electric cars running on batteries or hydrogen fuel-cell vehicles. Mr. Marchionne, among the industry’s more outspoken executives, has bemoaned losing money on cars manufactured to meet those regulations.
+
+Mike Ramsey at
+
+********************************************************************************
+

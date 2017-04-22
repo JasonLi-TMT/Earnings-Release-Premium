@@ -1,0 +1,58 @@
+https://www.wsj.com/articles/SB10001424052748704171004576148803774491670
+Earnings/By   Shara Tibken/Feb. 16, 2011 7:04 p.m. ET/Earnings
+              
+            
+
+      
+
+    
+
+
+  
+
+  Nvidia Profit Rises on Strong Demand
+
+reported a 31% increase in fourth-quarter earnings and issued better-than-expected first-quarter guidance as the semiconductor company benefits from strong demand for its discrete graphics and mobile processors.
+The Santa Clara, Calif.-based company, which makes graphics chips used for video games and other visually intensive applications, has enjoyed a turnaround of late. After several quarters of product delays and other struggles, Nvidia posted its first fiscal year of revenue growth since 2008 and has positioned itself as a leader in the mobile market with its Tegra chip.
+Chief Executive 
+
+
+
+      Jen-Hsun Huang
+
+
+
+       noted the "strong results underscore" Nvidia's transformation, with Tegra ramping strongly and its Tesla processors becoming "essential" for supercomputers.
+Nvidia hasn't provided specific Tegra revenue projections in recent months but said Wednesday that it expects Tegra sales to exceed revenue from its chipset business in the fiscal first quarter.
+"I can assure you we will blow very well past that," Chief Financial Officer 
+
+
+
+      David White
+
+
+
+       said in an interview with Dow Jones Newswires.
+The company has been winding down its chipset business following a licensing dispute with
+
+
+--something the two companies settled last month.
+
+
+agreed to pay Nvidia $1.5 billion over five years under a patent-licensing deal that also ended litigation between the companies. The pact gave Intel rights to all of Nvidia's patents, while Nvidia received rights to some of Intel's patents but not those covering its x86 technology.
+Meanwhile, Mr. White said margins likely will go above 50% and reach record levels sometime in the current fiscal year, boosted by the Intel licensing fees and the ramp of the higher-margin Tegra and Tesla businesses. Margins were 48.1% in the fourth quarter, up from 44.7% a year ago, and Nvidia projected margins of 48.5% to 49.5% for the first period.
+"I think given where we are today, we can feel pretty comfortable we should do better than that all next year," Mr. White said.
+For the quarter ended Jan. 30, Nvidia reported a profit of $171.7 million, or 29 cents a share, up from $131.1 million, or 23 cents a share, a year earlier. The latest period included a per-share gain of 6 cents from the Intel deal. Analysts polled by Thomson Reuters had forecast earnings of 14 cents a share.
+Revenue dropped 9.8% to $886.4 million. Nvidia's revenue was 5% higher than the third quarter; in November, the company had forecast 3% to 5% revenue growth, which was above analysts' views at the time.
+For the current first quarter, Nvidia forecast revenue growing 6% to 8% from the fourth quarter. Analysts surveyed by Thomson Reuters had expected 0.3% growth to $889 million.
+Nvidia said last month that it's developing its first computer processor aimed at mainstream computing, a move that makes it a direct challenger to Intel and
+
+Nvidia and AMD already compete to provide graphics processors, and Nvidia will be using the popular
+PLC architecture for its mainstream computing chips.
+Meanwhile, Nvidia this week used Mobile World Congress to give the first sneak peek at what it calls Project Kal-El, which the company believes will be the first four-processor chip for mobile devices to reach the market. Customers who make such products are getting sample chips now, and are expecting tablets to reach consumers around August, Nvidia said. Smartphones using the technology are expected by the holiday season.
+—--Matt Jarzemsky contributed to this report
+
+Shara Tibken at
+
+********************************************************************************
+
