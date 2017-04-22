@@ -1,3 +1,25 @@
+%% earning announcement data 
+outputform = 'dd-mmm-yyyy';
+earnings = readtable('06-17 Earnings release.xlsx'); 
+earnings.Date = datetime(earnings.Date,'ConvertFrom','excel');
+earnings.Date = datestr(earnings.Date,outputform);
+
+
+%% for each annoucement, we need to know the date and ticker 
+% earning announcement date 
+announcementdate = cellstr(table2array( earnings(:,'Date')));
+
+% extract & adjust the form of tickers from earning
+tickers_earnings = table2array(earnings(:,'Ticker'));
+[n_row, n_col] = size(earnings);
+for i = 1:n_row
+    ticker = tickers_earnings{i};
+    ticker = strsplit(ticker, ' '); 
+    ticker = ticker{1};
+    tickers_earnings{i} = ticker;
+end
+
+
 %% apply to all 8 indicators 
 
 xlsname = dir(strcat('*.xlsx')); 
@@ -9,7 +31,7 @@ for a = 3:length(xlsname)
     data.Date = datestr(data.Date,outputform);
     
     
-    % extract & adjust the form of tickers and date from ptsr
+    % extract & adjust the form of tickers and date
     [row,col] = size(data);
     tickers_data = data.Properties.VariableNames;
     tickers_data = tickers_data(2:col);
@@ -20,6 +42,12 @@ for a = 3:length(xlsname)
     end
     data.Properties.VariableNames = ['Date' tickers_data];
     data.Date = datenum(data.Date);
+    
+    %% desire matrix 39034*(6*4)
+% for each announcement, we need to find the one with same sticker and date
+% find the info of 6 days before and after announcement date for that
+% sticker
+
     %%
     all_ret = nan(n_row, 24);
     for i = 1:n_row
