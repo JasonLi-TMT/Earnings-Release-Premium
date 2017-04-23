@@ -6,79 +6,99 @@ output: html_notebook
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+```{r}
+packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
+
+# check packages that need to be installed.
+packages.needed=setdiff(packages.used, 
+                        intersect(installed.packages()[,1], 
+                                  packages.used))
+# install additional packages
+if(length(packages.needed)>0){
+  install.packages(packages.needed, dependencies = TRUE)
+}
+```
 
 ```{r}
 library(e1071)
 library(rpart)
-
-short_after_selected <- read.csv("short_after_selected.csv")
+setwd("~/Spr2017-proj5-grp15/data/observation")
+short_after_selected <- read.csv("short_after20.csv")
 short_after_selected$X <- ifelse(short_after_selected$RETURN >0, 1,0)
 short_after_selected <- na.omit(short_after_selected)
-
-test.index <- sample(1:24,4,replace = F)
+short_after_selected <- short_after_selected[,-1]
+short_after_selected <- short_after_selected[,-11]
+test.index <- sample(1:1500,300,replace = F)
 test.sas <- short_after_selected[test.index,]
-test.sas <- test.sas[,-11]
+
 test.sas.x <- test.sas[,-1]
 train.sas <- short_after_selected[-test.index,]
-train.sas <- train.sas[,-11]
+
 
 colnames(train.sas)[1] <-"y"
 colnames(test.sas)[1] <-"y"
+
 train.sas$y <- as.factor(train.sas$y)
 ```
 
 ```{r}
 # SVM
-model.svm <- svm(y ~ ., data = train.sas, cost = 0.5, gamma = 0.4)
+
+model.svm <- svm(y ~ ., data = train.sas, cost = 64, gamma = 0.4)
 pre.svm <- predict(model.svm,test.sas.x,type="class")
 table(pre.svm,test.sas$y)
 ```
+
 ```{r}
 svm_tune <- tune(svm, 
                  y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
                  data=train.sas,
                  kernel="radial", 
-                 ranges=list(cost=2^(-1:9), 
-                             gamma=c(0.4,0.45,0.5)))
+                 ranges=list(cost=2^(5:8), 
+                             gamma=c(0.4,0.5,0.6)))
 
 print(svm_tune)
 plot(svm_tune)
 ```
 
 ```{r}
-# perform a grid search
-tuneResult <- tune(svm, y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
-                   data=train.sas,
-                   ranges = list(epsilon = seq(0.035,0.05,0.01), 
-                                 cost = 2^(2:9))
-)
-print(tuneResult)
-# best performance: 0.02580226
-# best parameters: epslion 0.05, cost=16
-# Draw the tuning graph
-plot(tuneResult)
+# netural network
+model.nnet <- nnet(y ~ ., data = train.sas, linout = F,
+                     size = 10, decay = 0.001, maxit = 200,
+                     trace = F, MaxNWts=6000)
+pre.nnet <- predict(model.nnet,test.sas.x,type="class")
+table(pre.nnet,test.sas$y)
+
 ```
 
 ```{r}
-tunedModel <- tuneResult$best.model
-tunedModelY <- predict(tunedModel, test.sas) 
- 
-error <- short_after_selected$RETURN - tunedModelY  
- 
-# this value can be different on your computer
-# because the tune method  randomly shuffles the data
-tunedModelRMSE <- rmse(error)  # 2.219642  
-tunedModelRMSE
+tune.nnet(y ~ ., data = train.sas, linout = F,
++           size = 1:10, decay = 0.001:0.1, maxit = 200,
++           trace = F, MaxNWts=6000)
 ```
 
 ```{r}
-rmse <- function(error)
-{
-  sqrt(mean(error^2))
-}
+# Random Forest 
+y.index<- which(colnames(train.sas)=="y")
+bestmtry <- tuneRF(y= train.sas$y, x= train.sas[,-y.index], stepFactor=1.5, improve=1e-5, ntree=600)
+best.mtry <- bestmtry[,1][which.min(bestmtry[,2])]
+model.rf <- randomForest(y ~ ., data = train.sas, ntree=600, mtry=best.mtry, importance=T)
+pre.rf <- predict(model.rf,test.sas.x,type="class")
+table(pre.rf,test.sas$y)
+```
+
+
+```{r}
 
 ```
 
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
 
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file).
+```{r}
+
+```
+
+
+```{r}
+
+```
+
