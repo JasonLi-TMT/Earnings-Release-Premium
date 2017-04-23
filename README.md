@@ -10,7 +10,12 @@ Term: Spring 2017
 	+ Yuxin ZHU
 	+ Ke HAN (Presenter)
 
-+ Project summary: Using the stock market data and data science methodologies (including NLP and predictive modeling ) to generate strategy.
++ Project summary: Using the stock market data and data science methodologies (including NLP, predictive modeling and classification model ) to generate strategy. Major steps are: 
+
++Select the major investing horizon as the days befor and after earning release. 
++Using predictive modelling to select the most influential/ potential stocks.
++Using a classification model to predict whether it would be a wise choice to long or short. 
++Using NLP to use the related earning release date information, building up the advanced model on how to trade.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
