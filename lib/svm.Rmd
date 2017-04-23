@@ -1,0 +1,73 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+library(e1071)
+library(rpart)
+
+short_after_selected <- read.csv("short_after_selected.csv")
+short_after_selected$X <- ifelse(short_after_selected$RETURN >0, 1,0)
+short_after_selected <- na.omit(short_after_selected)
+
+test.index <- sample(1:24,4,replace = F)
+test.sas <- short_after_selected[test.index,]
+test.sas <- test.sas[,-11]
+test.sas.x <- test.sas[,-1]
+train.sas <- short_after_selected[-test.index,]
+train.sas <- train.sas[,-11]
+
+colnames(train.sas)[1] <-"y"
+colnames(test.sas)[1] <-"y"
+
+```
+
+```{r}
+# SVM
+model.svm <- svm(y ~ ., data = train.sas, cost = 16, gamma = 0.01)
+test.svm <- predict(model.svm,test.sas.x,type="class")
+table(test.svm,test.sas$y)
+```
+
+```{r}
+# perform a grid search
+tuneResult <- tune(svm, y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
+                   data=train.sas,
+                   ranges = list(epsilon = seq(0.035,0.05,0.01), 
+                                 cost = 2^(2:9))
+)
+print(tuneResult)
+# best performance: 0.02580226
+# best parameters: epslion 0.05, cost=16
+# Draw the tuning graph
+plot(tuneResult)
+```
+
+```{r}
+tunedModel <- tuneResult$best.model
+tunedModelY <- predict(tunedModel, test.sas) 
+ 
+error <- short_after_selected$RETURN - tunedModelY  
+ 
+# this value can be different on your computer
+# because the tune method  randomly shuffles the data
+tunedModelRMSE <- rmse(error)  # 2.219642  
+tunedModelRMSE
+```
+
+```{r}
+rmse <- function(error)
+{
+  sqrt(mean(error^2))
+}
+
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file).
