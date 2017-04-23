@@ -1,0 +1,103 @@
+---
+title: "Untitled"
+author: "zl2528"
+date: "April 22, 2017"
+output: html_document
+---
+
+```{r setup}
+setwd('C:/Users/ZISHUO LI/Downloads/project/data/observation')
+ps <- read.csv('price_to_sales.ratio.csv',header = FALSE)
+n_rows=nrow(ps)
+
+ps_max=data.frame()
+for (i in 1:n_rows){
+  inter=max(ps[i,])
+  ps_max=rbind(ps_max,inter)
+}
+ps['index']=1:n_rows
+ps_sorted=sort(ps[,1],decreasing=TRUE,index.return=TRUE)
+loc_ps=ps_sorted$ix[1:900]
+
+
+mom <- read.csv("momentum39034.csv",header = FALSE)
+n_rows=nrow(mom)
+
+mom_max=data.frame()
+for (i in 1:n_rows){
+  inter=max(mom[i,])
+  mom_max=rbind(mom_max,inter)
+}
+mom['index']=1:n_rows
+mom_sorted=sort(mom[,1],decreasing=TRUE,index.return=TRUE)
+loc_mom=mom_sorted$ix[1:900]
+
+selected=intersect(loc_mom,loc_ps)
+```
+
+```{r}
+Earnings<- read.csv("../06-17 Earnings release.csv")
+stocks_selected=Earnings[selected,'Ticker']
+
+
+DY=read.csv("average_dividend_yield.csv",header=FALSE)
+EBITG=read.csv("EBIT_growth_sequential.csv",header=FALSE)
+EV2EBITDA=read.csv("Enterprise_value_by_EBITDA.csv",header=FALSE)
+MARKET2BOOK=read.csv("market_capitalization_to_bookvalue.csv",header=FALSE)
+MOMENTUM=read.csv("momentum39034.csv",header=FALSE)
+P2B=read.csv("price_to_book_value.csv",header=FALSE)
+P2EARNINGSBEFOREABNORM=read.csv("price_to_Earnings_before_abnorm.csv",header=FALSE)
+P2F=read.csv("price_to_free_cash_flow.csv",header=FALSE)
+P2S=read.csv("price_to_sales.ratio.csv",header=FALSE)
+RETURN=read.csv("return39034.csv",header=FALSE)
+SURPISE=read.csv("surprise.csv",header = FALSE)
+
+file_name <- c(DY,EBITG,EV2EBITDA,MARKET2BOOK,MOMENTUM,P2B,P2EARNINGSBEFOREABNORM,P2F,P2S,RETURN)
+
+for (i in 1:length(file_name)){
+  file_name[i] <- file_name[i]DY[selected,]
+}
+
+
+
+
+
+
+
+
+
+
+long_before <- read.csv('../observation_processed/long_before_earning.csv')
+short_after <- read.csv('../observation_processed/short_after_earning.csv')
+
+long_before_selected <- long_before[selected,2:ncol(long_before)]
+short_after_selected <-short_after[selected,2:ncol(short_after)] 
+write.csv(long_before_selected,'long_before20.csv')
+write.csv(short_after_selected,'short_after20.csv')
+```
+
+```{r}
+
+
+
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
