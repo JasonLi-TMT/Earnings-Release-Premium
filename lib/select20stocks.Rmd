@@ -40,40 +40,33 @@ Earnings<- read.csv("../06-17 Earnings release.csv")
 stocks_selected=Earnings[selected,'Ticker']
 
 
-DY=read.csv("average_dividend_yield.csv",header=FALSE)
-EBITG=read.csv("EBIT_growth_sequential.csv",header=FALSE)
-EV2EBITDA=read.csv("Enterprise_value_by_EBITDA.csv",header=FALSE)
-MARKET2BOOK=read.csv("market_capitalization_to_bookvalue.csv",header=FALSE)
-MOMENTUM=read.csv("momentum39034.csv",header=FALSE)
-P2B=read.csv("price_to_book_value.csv",header=FALSE)
-P2EARNINGSBEFOREABNORM=read.csv("price_to_Earnings_before_abnorm.csv",header=FALSE)
-P2F=read.csv("price_to_free_cash_flow.csv",header=FALSE)
-P2S=read.csv("price_to_sales.ratio.csv",header=FALSE)
-RETURN=read.csv("return39034.csv",header=FALSE)
-SURPISE=read.csv("surprise.csv",header = FALSE)
-
-file_name <- c(DY,EBITG,EV2EBITDA,MARKET2BOOK,MOMENTUM,P2B,P2EARNINGSBEFOREABNORM,P2F,P2S,RETURN)
-
-for (i in 1:length(file_name)){
-  file_name[i] <- file_name[i]DY[selected,]
-}
-
-
-
-
-
-
-
-
-
-
 long_before <- read.csv('../observation_processed/long_before_earning.csv')
 short_after <- read.csv('../observation_processed/short_after_earning.csv')
+nrow_longb=nrow(long_before)
+nrow_shorta=nrow(short_after)
 
-long_before_selected <- long_before[selected,2:ncol(long_before)]
-short_after_selected <-short_after[selected,2:ncol(short_after)] 
-write.csv(long_before_selected,'long_before20.csv')
-write.csv(short_after_selected,'short_after20.csv')
+mom_sa=c()
+for (i in 1:nrow_shorta){
+  inter=max(short_after[i,'MOMENTUM'])
+  mom_sa=c(mom_sa,inter)
+} 
+mom_sa_selected=sort(mom_sa,decreasing=TRUE,index.return=TRUE)
+sa_selected=mom_sa_selected$ix[1:1500]
+sa_data_selected=short_after[sa_selected,]
+
+
+mom_lb=c()
+for (i in 1:nrow_longb){
+  inter=max(long_before[i,'MOMENTUM'])
+  mom_lb=c(mom_lb,inter)
+} 
+mom_lb_selected=sort(mom_lb,decreasing=TRUE,index.return=TRUE)
+lb_selected=mom_lb_selected$ix[1:1500]
+lb_data_selected=long_before[lb_selected,]
+
+
+write.csv(lb_data_selected,'long_before20.csv')
+write.csv(sa_data_selected,'short_after20.csv')
 ```
 
 ```{r}
