@@ -24,14 +24,25 @@ train.sas <- train.sas[,-11]
 
 colnames(train.sas)[1] <-"y"
 colnames(test.sas)[1] <-"y"
-
+train.sas$y <- as.factor(train.sas$y)
 ```
 
 ```{r}
 # SVM
-model.svm <- svm(y ~ ., data = train.sas, cost = 16, gamma = 0.01)
-test.svm <- predict(model.svm,test.sas.x,type="class")
-table(test.svm,test.sas$y)
+model.svm <- svm(y ~ ., data = train.sas, cost = 0.5, gamma = 0.4)
+pre.svm <- predict(model.svm,test.sas.x,type="class")
+table(pre.svm,test.sas$y)
+```
+```{r}
+svm_tune <- tune(svm, 
+                 y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
+                 data=train.sas,
+                 kernel="radial", 
+                 ranges=list(cost=2^(-1:9), 
+                             gamma=c(0.4,0.45,0.5)))
+
+print(svm_tune)
+plot(svm_tune)
 ```
 
 ```{r}
