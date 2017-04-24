@@ -3,9 +3,7 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
-
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+ 
 ```{r}
 packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
 
@@ -20,8 +18,7 @@ if(length(packages.needed)>0){
 ```
 
 ```{r}
-library(e1071)
-library(rpart)
+
 setwd("~/Spr2017-proj5-grp15/data/observation")
 short_after_selected <- read.csv("short_after20.csv")
 short_after_selected$X <- ifelse(short_after_selected$RETURN >0, 1,0)
