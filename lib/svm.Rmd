@@ -89,6 +89,10 @@ table(pre.rf,test.sas$y)
 
 
 ```{r}
+# Majority Vote
+pre=(as.numeric(as.character(bp.pre))+as.numeric(as.character(log.pre))+as.numeric(as.character(svm.pre)))
+pre=ifelse(pre>=2,1,0)
+table(pre,test$y)
 
 ```
 
