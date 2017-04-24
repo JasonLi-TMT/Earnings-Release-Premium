@@ -1,0 +1,88 @@
+---
+title: "Main"
+author: "Yuxin Zhu"
+date: "2017/4/23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Install all packages
+```{r}
+packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
+
+# check packages that need to be installed.
+packages.needed=setdiff(packages.used, 
+                        intersect(installed.packages()[,1], 
+                                  packages.used))
+# install additional packages
+if(length(packages.needed)>0){
+  install.packages(packages.needed, dependencies = TRUE)
+}
+```
+
+
+```{r}
+setwd("~/Spr2017-proj5-grp15/data/observation")
+
+
+```
+
+```{r}
+short_after_selected <- read.csv("short_after20.csv")
+long_after_selected <- read.csv("long_before20.csv")
+```
+
+```{r}
+short_after_selected$X <- ifelse(short_after_selected$RETURN >0, 1,0)
+short_after_selected <- na.omit(short_after_selected)
+short_after_selected <- short_after_selected[,-1]
+short_after_selected <- short_after_selected[,-11]
+test.index <- sample(1:1500,300,replace = F)
+test.sas <- short_after_selected[test.index,]
+
+test.sas.x <- test.sas[,-1]
+train.sas <- short_after_selected[-test.index,]
+
+colnames(train.sas)[1] <-"y"
+colnames(test.sas)[1] <-"y"
+train.sas$y <- as.factor(train.sas$y)
+```
+
+
+# GBM
+```{r}
+gbm.model=train.gbm(train.sas)
+gbm.pre=test.gbm(gbm.model,test.sas.x)
+table(gbm.pre,test.sas$y)
+```
+
+# 
+```{r}
+bp.model=train.bp(train.sas)
+bp.pre=test.bp(bp.model,test.sas.x)
+table(bp.pre,test.sas$y)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
