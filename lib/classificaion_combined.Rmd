@@ -15,6 +15,11 @@ packages.needed=setdiff(packages.used,
 if(length(packages.needed)>0){
   install.packages(packages.needed, dependencies = TRUE)
 }
+library(gbm)
+library(caret)
+library(nnet)
+library(randomForest)
+library(e1071)
 ```
 
 # Load and Process Data 
@@ -41,11 +46,14 @@ train.sas <- short_after_selected[-test.index,]
 train.lbs <- long_after_selected[-test.index,]
 
 train.sas$y <- as.factor(train.sas$y)
+train.lbs$y <- as.factor(train.lbs$y)
 ```
 ```{r}
 source("../lib/evaluation_measures.R")
 ```
 
+
+##### Short After Model 
 # SVM
 ```{r}
 # model.svm <- svm(y ~ ., data = train.sas, cost = 256, gamma = 0.3)
@@ -60,10 +68,10 @@ svm_tune <- tune(svm,
 
 model.svm.sas <- svm_tune$best.model
 pre.svm <- predict(model.svm,test.sas.x,type="class")
-svm <- table(pre.svm,test.sas$y)
-performance_statistics(svm)
+svm.sas <- table(pre.svm,test.sas$y)
+performance_statistics(svm.sas)
 end.time <- Sys.time()
-svm.time <- end.time-start.time
+svm.sas.time <- end.time-start.time
 ```
 
 
@@ -78,10 +86,10 @@ tune_bpnn <- tune.nnet(y ~ ., data = train.sas, linout = F,
           trace = F, MaxNWts=6000)
 model.nnet <- tune_bpnn$best.model
 pre.nnet <- predict(model.nnet,test.sas.x,type="class")
-nnet <- table(pre.nnet,test.sas$y)
-performance_statistics(nnet)
+nnet.sas <- table(pre.nnet,test.sas$y)
+performance_statistics(nnet.sas)
 end.time <- Sys.time()
-nnet.time <- end.time-start.time
+nnet.sas.time <- end.time-start.time
 
 ```
 
@@ -95,10 +103,10 @@ bestmtry <- tuneRF(y= train.sas$y, x= train.sas[,-y.index], stepFactor=1.5, impr
 best.mtry <- bestmtry[,1][which.min(bestmtry[,2])]
 model.rf <- randomForest(y ~ ., data = train.sas, ntree=600, mtry=best.mtry, importance=T)
 pre.rf <- predict(model.rf,test.sas.x,type="class")
-rf <- table(pre.rf,test.sas$y)
-performance_statistics(rf)
+rf.sas <- table(pre.rf,test.sas$y)
+performance_statistics(rf.sas)
 end.time <- Sys.time()
-rf.time <- end.time-start.time
+rf.sas.time <- end.time-start.time
 ```
 
 # GBM
@@ -130,10 +138,62 @@ pre=ifelse(pre>=2,1,0)
 table(pre,test.sas$y)
 
 ```
+###### Long - Before Model 
 
+# SVM
 ```{r}
+# model.svm <- svm(y ~ ., data = train.lbs, cost = 256, gamma = 0.3)
+# Tune svm
+start.time <- Sys.time()
+svm_tune <- tune(svm, 
+                 y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
+                 data=train.lbs,
+                 kernel="radial", 
+                 ranges=list(cost=2^(-1:9), 
+                             gamma=c(0.2,0.3,0.4,0.5,0.6)))
+
+model.svm.lbs <- svm_tune$best.model
+pre.svm <- predict(model.svm.lbs,test.lbs.x,type="class")
+svm.lbs <- table(pre.svm,test.lbs$y)
+performance_statistics(svm.lbs)
+end.time <- Sys.time()
+svm.time <- end.time-start.time
+```
+
+# BPNN
+```{r}
+# netural network
+start.time <- Sys.time()
+# model.nnet <- nnet(y ~ ., data = train.sas, linout = F, size = 10, decay = 0.001, maxit = 200, trace = F, MaxNWts=6000)
+# Tune bpnn
+tune_bpnn <- tune.nnet(y ~ ., data = train.lbs, linout = F,
+          size = 1:10, decay = 0.001:0.1, maxit = 200,
+          trace = F, MaxNWts=6000)
+model.nnet <- tune_bpnn$best.model
+pre.nnet <- predict(model.nnet,test.lbs.x,type="class")
+nnet.lbs <- table(pre.nnet,test.lbs$y)
+performance_statistics(nnet.lbs)
+end.time <- Sys.time()
+nnet.lbs.time <- end.time-start.time
 
 ```
+
+
+# Random Forest 
+```{r}
+# Random Forest
+start.time <- Sys.time()
+y.index<- which(colnames(train.lbs)=="y")
+bestmtry <- tuneRF(y= train.lbs$y, x= train.lbs[,-y.index], stepFactor=1.5, improve=1e-5, ntree=600)
+best.mtry <- bestmtry[,1][which.min(bestmtry[,2])]
+model.rf <- randomForest(y ~ ., data = train.lbs, ntree=600, mtry=best.mtry, importance=T)
+pre.rf <- predict(model.rf,test.lbs.x,type="class")
+rf.lbs <- table(pre.rf,test.lbs$y)
+performance_statistics(rf.lbs)
+end.time <- Sys.time()
+rf.lbs.time <- end.time-start.time
+```
+
 
 ```{r}
 
