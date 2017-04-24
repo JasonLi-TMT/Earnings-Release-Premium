@@ -45,8 +45,7 @@ test.lbs.x <- test.lbs[,-1]
 train.sas <- short_after_selected[-test.index,]
 train.lbs <- long_after_selected[-test.index,]
 
-train.sas$y <- as.factor(train.sas$y)
-train.lbs$y <- as.factor(train.lbs$y)
+
 ```
 ```{r}
 source("../lib/evaluation_measures.R")
@@ -54,10 +53,21 @@ source("../lib/evaluation_measures.R")
 
 
 ##### Short After Model 
+# GBM
+```{r}
+# GBM
+res_gbm = gbm(y~.,data=train.sas,dist="adaboost",n.tree = 400,shrinkage=0.1)
+pred.gbm = predict(res_gbm, test.sas.x, n.tree = 400, type = 'response')
+pred.gbm = ifelse(pred.gbm > 0.5, 1, 0)
+table(pred.gbm,test.sas$y)
+
+```
 # SVM
 ```{r}
 # model.svm <- svm(y ~ ., data = train.sas, cost = 256, gamma = 0.3)
 # Tune svm
+train.sas$y <- as.factor(train.sas$y)
+
 start.time <- Sys.time()
 svm_tune <- tune(svm, 
                  y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days+surprise,
@@ -109,15 +119,7 @@ end.time <- Sys.time()
 rf.sas.time <- end.time-start.time
 ```
 
-# GBM
-```{r}
-# GBM
-res_gbm = gbm(y~.,data=train.sas,dist="adaboost",n.tree = 400,shrinkage=0.1)
-pred.gbm = predict(res_gbm, test.sas.x, n.tree = 400, type = 'response')
-pred.gbm = ifelse(pred.gbm > 0.5, 1, 0)
-table(pred.gbm,test.sas$y)
 
-```
 
 # Logistic
 ```{r}
@@ -144,6 +146,7 @@ table(pre,test.sas$y)
 ```{r}
 # model.svm <- svm(y ~ ., data = train.lbs, cost = 256, gamma = 0.3)
 # Tune svm
+train.lbs$y <- as.factor(train.lbs$y)
 start.time <- Sys.time()
 svm_tune <- tune(svm, 
                  y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
