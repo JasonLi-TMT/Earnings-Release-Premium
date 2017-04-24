@@ -14,6 +14,7 @@ train.gbm <- function(traindata){
 
 ############ BP network ######################
 train.bp<- function(traindata) {
+  traindata$y <- as.factor(traindata$y)
   model.nnet <- nnet(y ~ ., data = train.sas, linout = F,
                      size = 10, decay = 0.001, maxit = 200,
                      trace = F, MaxNWts=6000)
