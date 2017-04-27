@@ -1,9 +1,10 @@
 #from textfile in csv to sentimental features
+
 library(syuzhet)
-sentimental=function(){
+
   #temp=read_excel("news0216-0228.xlsx",col_names = FALSE)
-  temp=read_excel("news050116-022817.xlsx",col_names = FALSE)
-  
+  #temp=read_excel("news050116-022817.xlsx",col_names = FALSE)
+  temp <- read_excel("~/Downloads/Tutorial2/doc/news data-2.xlsx", sheet = "HL", col_names = FALSE)
   colnames(temp)=c("date","fulltext")
   
   output=rep(NA,length(temp$date))
@@ -52,15 +53,3 @@ sentimental=function(){
         }
       }
     }
-}
-#output[i,2]=(emotions$anger)/output[i,1]
-#output[i,3]=(emotions$anticipation)/output[i,1]
-#output[i,4]=(emotions$disgust)/output[i,1]
-#output[i,5]=(emotions$fear)/output[i,1]
-#output[i,6]=(emotions$joy)/output[i,1]
-#output[i,7]=(emotions$sadness)/output[i,1]
-#output[i,8]=(emotions$surprise)/output[i,1]
-#output[i,9]=(emotions$trust)/output[i,1]
-#output[i,10]=(emotions$negative)/output[i,1]
-#output[i,11]=(emotions$positive)/output[i,1]
-#output[i,12]=speech.list$date[i]
