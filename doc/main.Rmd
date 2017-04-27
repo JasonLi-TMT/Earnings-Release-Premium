@@ -22,9 +22,45 @@ output:
 
 ## Step 2: Select the stocks based on their Momentum
 ####• Data source: data/observation
-####• Size: 9 files with a total size of 150MB 
-####• Data Processing: 
+####• Size: 17 files with a total size of 70MB 
+####• Data Processing: Using R to select 1500 observations with highest Momentum and use Python to reorganize data and store them in a proper way. ()
 ####• Result: 
+
+```{r}
+setwd("~/Spr2017-proj5-grp15/data/original/")
+
+### Selected 1500 observations with highest Momentum
+mom <- read.csv("../observation/momentum39034.csv",header = FALSE)
+n_rows=nrow(mom)
+
+## Long_before_earning.csv and Short_after_earning.csv are written using Python
+long_before <- read.csv('../observation_processed/long_before_earning.csv')
+short_after <- read.csv('../observation_processed/short_after_earning.csv')
+nrow_longb=nrow(long_before)
+nrow_shorta=nrow(short_after)
+
+mom_sa=c()
+for (i in 1:nrow_shorta){
+  inter=max(short_after[i,'MOMENTUM'])
+  mom_sa=c(mom_sa,inter)
+} 
+mom_sa_selected=sort(mom_sa,decreasing=TRUE,index.return=TRUE)
+sa_selected=mom_sa_selected$ix[1:1500]
+sa_data_selected=short_after[sa_selected,]
+
+mom_lb=c()
+for (i in 1:nrow_longb){
+  inter=max(long_before[i,'MOMENTUM'])
+  mom_lb=c(mom_lb,inter)
+} 
+mom_lb_selected=sort(mom_lb,decreasing=TRUE,index.return=TRUE)
+lb_selected=mom_lb_selected$ix[1:1500]
+lb_data_selected=long_before[lb_selected,]
+
+# write.csv(lb_data_selected,'../observation_processed/long_before.csv')
+# write.csv(sa_data_selected,'../observation_processed/short_after.csv')
+```
+
 ```{r,warning=F}
 packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
 
@@ -43,9 +79,8 @@ pacman::p_load(text2vec, plyr,qlcMatrix, kernlab, knitr)
 
 # Load and Process Data 
 ```{r}
-setwd("~/Spr2017-proj5-grp15/data/observation/")
-short_after_selected <- read.csv("short_after20.csv")
-long_after_selected <- read.csv("long_before20.csv")
+short_after_selected <- sa_data_selected
+long_after_selected <- lb_data_selected
 
 colnames(long_after_selected)[1] <- "y"
 long_after_selected$y <- ifelse(long_after_selected$RETURN >0, 1, 0)
