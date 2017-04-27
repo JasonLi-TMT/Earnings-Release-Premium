@@ -1,10 +1,12 @@
 ---
 title: "R Notebook"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
  
-```{r}
+```{r,warning=F}
 packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
 
 # check packages that need to be installed.
@@ -15,11 +17,6 @@ packages.needed=setdiff(packages.used,
 if(length(packages.needed)>0){
   install.packages(packages.needed, dependencies = TRUE)
 }
-library(gbm)
-library(caret)
-library(nnet)
-library(randomForest)
-library(e1071)
 ```
 
 # Load and Process Data 
@@ -44,173 +41,191 @@ test.sas.x <- test.sas[,-1]
 test.lbs.x <- test.lbs[,-1]
 train.sas <- short_after_selected[-test.index,]
 train.lbs <- long_after_selected[-test.index,]
-
-
 ```
-```{r}
+```{r,warning=F}
 source("../lib/evaluation_measures.R")
+source("../lib/train.R")
+source("../lib/test.R")
+source("../lib/cross_validation.R")
 ```
 
 
-##### Short After Model 
-# GBM
+# Short After Model 
+### GBM
 ```{r}
 # GBM
-res_gbm = gbm(y~.,data=train.sas,dist="adaboost",n.tree = 400,shrinkage=0.1)
-pred.gbm = predict(res_gbm, test.sas.x, n.tree = 400, type = 'response')
-pred.gbm = ifelse(pred.gbm > 0.5, 1, 0)
-table(pred.gbm,test.sas$y)
-
+start.time <- Sys.time()
+res_gbm = train.gbm(train.sas)
+pred.gbm = test.gbm(res_gbm,test.sas.x)
+sas.gbm.sum = table(pred.gbm,test.sas$y)
+end.time <- Sys.time()
+gbm.sas.time <- end.time-start.time
+perf_sas_gbm <- performance_statistics(sas.gbm.sum)
+perf_sas_gbm
 ```
-# SVM
+### SVM
 ```{r}
 # model.svm <- svm(y ~ ., data = train.sas, cost = 256, gamma = 0.3)
 # Tune svm
-train.sas$y <- as.factor(train.sas$y)
-
 start.time <- Sys.time()
-svm_tune <- tune(svm, 
-                 y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days+surprise,
-                 data=train.sas,
-                 kernel="radial", 
-                 ranges=list(cost=2^(3:8), 
-                             gamma=c(0.3,0.4,0.5)))
-
-model.svm.sas <- svm_tune$best.model
-pre.svm <- predict(model.svm,test.sas.x,type="class")
+model.svm.sas <- train.svm(train.sas)
+pre.svm <- test.svm(model.svm.sas,test.sas.x)
 svm.sas <- table(pre.svm,test.sas$y)
-performance_statistics(svm.sas)
 end.time <- Sys.time()
 svm.sas.time <- end.time-start.time
+perf_sas_svm <- performance_statistics(svm.sas)
+perf_sas_svm
+
 ```
 
 
-# BPNN
+### BPNN
 ```{r}
 # netural network
 start.time <- Sys.time()
 # model.nnet <- nnet(y ~ ., data = train.sas, linout = F, size = 10, decay = 0.001, maxit = 200, trace = F, MaxNWts=6000)
 # Tune bpnn
-tune_bpnn <- tune.nnet(y ~ ., data = train.sas, linout = F,
-          size = 1:10, decay = 0.001:0.1, maxit = 200,
-          trace = F, MaxNWts=6000)
-model.nnet <- tune_bpnn$best.model
-pre.nnet <- predict(model.nnet,test.sas.x,type="class")
+model.nnet <- train.bp(train.sas)
+pre.nnet <- test.bp(model.nnet,test.sas.x)
 nnet.sas <- table(pre.nnet,test.sas$y)
-performance_statistics(nnet.sas)
 end.time <- Sys.time()
 nnet.sas.time <- end.time-start.time
+perf_sas_nnet <- performance_statistics(nnet.sas)
+perf_sas_nnet
 
 ```
 
 
-# Random Forest 
+### Random Forest 
 ```{r}
 # Random Forest
 start.time <- Sys.time()
-y.index<- which(colnames(train.sas)=="y")
-bestmtry <- tuneRF(y= train.sas$y, x= train.sas[,-y.index], stepFactor=1.5, improve=1e-5, ntree=600)
-best.mtry <- bestmtry[,1][which.min(bestmtry[,2])]
-model.rf <- randomForest(y ~ ., data = train.sas, ntree=600, mtry=best.mtry, importance=T)
-pre.rf <- predict(model.rf,test.sas.x,type="class")
+model.rf <- train.rf(train.sas)
+pre.rf <- test.rf(model.rf,test.sas.x)
 rf.sas <- table(pre.rf,test.sas$y)
-performance_statistics(rf.sas)
 end.time <- Sys.time()
 rf.sas.time <- end.time-start.time
+perf_sas_rf <- performance_statistics(rf.sas)
+perf_sas_rf
+
 ```
 
 
 
-# Logistic
+### Logistic
 ```{r}
-res_logi = glm(y~.,family = binomial(link="logit"),data=train.sas)
-pred.logi = predict(res_logi, test.sas.x, type = 'response')
-pred.logi = ifelse(pred.logi > 0.5, 1, 0)
-table(pred.logi,test.sas$y)
+start.time <- Sys.time()
+res_logi = train.log(train.sas)
+pred.logi = test.log(res_logi,test.sas.x)
+log.sas <- table(pred.logi,test.sas$y)
+end.time <- Sys.time()
+log.sas.time <- end.time-start.time
+perf_sas_log <- performance_statistics(log.sas)
+perf_sas_log
 
 ```
 
 
 
-# Majority Vote(Equal Weight)
+### Majority Vote(Equal Weight)
 ```{r}
 # Majority Vote
 pre=(as.numeric(as.character(pre.svm))+as.numeric(as.character(pred.gbm))+as.numeric(as.character(pre.rf)))
 pre=ifelse(pre>=2,1,0)
-table(pre,test.sas$y)
-
+mv <- table(pre,test.sas$y)
+perf_sas_mv <- performance_statistics(mv)
+perf_sas_mv
 ```
-###### Long - Before Model 
 
-# SVM
+# Long - Before Model 
+### SVM
 ```{r}
 # model.svm <- svm(y ~ ., data = train.lbs, cost = 256, gamma = 0.3)
 # Tune svm
-train.lbs$y <- as.factor(train.lbs$y)
 start.time <- Sys.time()
-svm_tune <- tune(svm, 
-                 y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
-                 data=train.lbs,
-                 kernel="radial", 
-                 ranges=list(cost=2^(-1:9), 
-                             gamma=c(0.2,0.3,0.4,0.5,0.6)))
-
-model.svm.lbs <- svm_tune$best.model
-pre.svm <- predict(model.svm.lbs,test.lbs.x,type="class")
+model.svm.lbs <- train.svm2(train.lbs)
+pre.svm <- test.svm(model.svm.lbs,test.lbs.x)
 svm.lbs <- table(pre.svm,test.lbs$y)
-performance_statistics(svm.lbs)
 end.time <- Sys.time()
 svm.time <- end.time-start.time
+perf_lbs_svm <- performance_statistics(svm.lbs)
+perf_lbs_svm
 ```
 
-# BPNN
+### BPNN
 ```{r}
 # netural network
 start.time <- Sys.time()
 # model.nnet <- nnet(y ~ ., data = train.sas, linout = F, size = 10, decay = 0.001, maxit = 200, trace = F, MaxNWts=6000)
 # Tune bpnn
-tune_bpnn <- tune.nnet(y ~ ., data = train.lbs, linout = F,
-          size = 1:10, decay = 0.001:0.1, maxit = 200,
-          trace = F, MaxNWts=6000)
-model.nnet <- tune_bpnn$best.model
-pre.nnet <- predict(model.nnet,test.lbs.x,type="class")
+model.nnet <- train.bp(train.lbs)
+pre.nnet <- test.bp(model.nnet,test.lbs.x)
 nnet.lbs <- table(pre.nnet,test.lbs$y)
-performance_statistics(nnet.lbs)
 end.time <- Sys.time()
 nnet.lbs.time <- end.time-start.time
+perf_lbs_nnet <- performance_statistics(nnet.lbs)
+perf_lbs_nnet
 
 ```
 
 
-# Random Forest 
+### Random Forest 
 ```{r}
 # Random Forest
 start.time <- Sys.time()
-y.index<- which(colnames(train.lbs)=="y")
-bestmtry <- tuneRF(y= train.lbs$y, x= train.lbs[,-y.index], stepFactor=1.5, improve=1e-5, ntree=600)
-best.mtry <- bestmtry[,1][which.min(bestmtry[,2])]
-model.rf <- randomForest(y ~ ., data = train.lbs, ntree=600, mtry=best.mtry, importance=T)
-pre.rf <- predict(model.rf,test.lbs.x,type="class")
+model.rf <- train.rf(train.lbs)
+pre.rf <- test.rf(model.rf,test.lbs.x)
 rf.lbs <- table(pre.rf,test.lbs$y)
-performance_statistics(rf.lbs)
 end.time <- Sys.time()
 rf.lbs.time <- end.time-start.time
+perf_lbs_rf <- performance_statistics(rf.lbs)
+perf_lbs_rf
 ```
 
-
+### Logistic
 ```{r}
-
+start.time <- Sys.time()
+res_logi = train.log(train.lbs)
+pred.logi = test.log(res_logi,test.lbs.x)
+log.lbs <- table(pred.logi,test.lbs$y)
+end.time <- Sys.time()
+log.lbs.time <- end.time-start.time
+perf_lbs_log <- performance_statistics(log.lbs)
+perf_lbs_log
 ```
 
+### GBM
 ```{r}
-
+# GBM
+start.time <- Sys.time()
+res_gbm = train.gbm(train.lbs)
+pred.gbm = test.gbm(res_gbm,test.lbs.x)
+sas.gbm.sum = table(pred.gbm,test.lbs$y)
+end.time <- Sys.time()
+gbm.sas.time <- end.time-start.time
+perf_lbs_gbm <- performance_statistics(sas.gbm.sum)
+perf_lbs_gbm
 ```
-
+### Short-After-Model Summary
 ```{r}
-
+compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC","MV"),
+                         precision=c(perf_sas_gbm$precision,perf_sas_svm$precision,perf_sas_nnet$precision,perf_sas_rf$precision,perf_sas_log$precision,perf_sas_mv$precision),
+                         recall=c(perf_sas_gbm$recall,perf_sas_svm$recall,perf_sas_nnet$recall,perf_sas_rf$recall,perf_sas_log$recall,perf_sas_mv$recall),
+                         accuracy=c(perf_sas_gbm$accuracy,perf_sas_svm$accuracy,perf_sas_nnet$accuracy,perf_sas_rf$accuracy,perf_sas_log$accuracy,perf_sas_mv$accuracy),
+                         f1=c(perf_sas_gbm$f1,perf_sas_svm$f1,perf_sas_nnet$f1,perf_sas_rf$f1,perf_sas_log$f1,perf_sas_mv$f1),
+                         time=c(gbm.sas.time,svm.sas.time,nnet.sas.time,rf.sas.time,"NA"))
+                         
+kable(compare_df,caption="Comparision of performance for two different methods(Short-After-Model)", digits=2)
 ```
-
+### Long-Before-Model Summary
 ```{r}
-
+compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC"),
+                         precision=c(perf_lbs_gbm$precision,perf_lbs_svm$precision,perf_lbs_nnet$precision,perf_lbs_rf$precision,perf_lbs_log$precision),
+                         recall=c(perf_lbs_gbm$recall,perf_lbs_svm$recall,perf_lbs_nnet$recall,perf_lbs_rf$recall,perf_lbs_log$recall),
+                         accuracy=c(perf_lbs_gbm$accuracy,perf_lbs_svm$accuracy,perf_lbs_nnet$accuracy,perf_lbs_rf$accuracy,perf_lbs_log$accuracy),
+                         f1=c(perf_lbs_gbm$f1,perf_lbs_svm$f1,perf_lbs_nnet$f1,perf_lbs_rf$f1,perf_lbs_log$f1),
+                         time=c(gbm.lbs.time,svm.lbs.time,nnet.lbs.time,rf.lbs.time,"NA"))
+                         
+kable(compare_df,caption="Comparision of performance for two different methods(Long-Before-Model)", digits=2)
 ```
 

@@ -9,8 +9,9 @@ library(e1071)
 
 test.gbm=function(model,test.data)
 {
-  prediction=ifelse(predict(model$gbm,test.data,n.trees=model$n)>0.5,1,0)
-  return(prediction)
+  test.gbm = predict(model, test.data, n.tree = 400, type = 'response')
+  test.gbm = ifelse(test.gbm > 0.5, 1, 0)
+  return(test.gbm)
 }
 
 ############ BP network ######################
@@ -29,7 +30,8 @@ test.rf <- function(model,test.data) {
 ############ SVM ######################
 test.svm <- function(model,test.data)
 {
-  return(predict(model,test.data,type="class"))
+  pre.svm <- predict(model,test.data,type="class")
+  return(pre.svm)
 }
 
 ############ Logistic ######################
