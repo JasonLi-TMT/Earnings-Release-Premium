@@ -5,7 +5,27 @@ output:
   html_notebook: default
 ---
 
- 
+# Summary 
+#### In this project, ...
+
+
+
+## Step 0: Related Papers and Projects 
+#### We read more than 4 papers including Post-Earnings Announcement Effect, Momentum and Trend Following in Global Asset Allocation, and etc. Details and links of papers can be found in data/paper/ListofStrategyPapers.xlsx. We then implemented methods and algorithms described in those papers. 
+
+
+## Step 1: Data Collection And Processing 
+### Part a: Data Processing Using Matlab 
+####• Data source: Using Bloomberg terminal to get stock related data(including EBIT_growth,Price to book value and 7 other indicators) and 06-17 earning announcement data. Original data can be found in data/original. 
+####• Size: 9 files with a total size of 150MB 
+####• Data Processing: For each announcement, we need to find the correspoding entry with same sticker and date in 9 indicators files respectively. We also calculate 1-year-Momentum = (Closing Price of Date a / Closing Price of Data(a-252) * 100 ). All the processing process took place in Matlab. Codes can be found at lib/data_process_matlab
+####• Result: We 
+
+### Part b:
+####• Data source: 
+####• Size: 9 files with a total size of 150MB 
+####• Data Processing: 
+####• Result: We 
 ```{r,warning=F}
 packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
 
@@ -17,6 +37,9 @@ packages.needed=setdiff(packages.used,
 if(length(packages.needed)>0){
   install.packages(packages.needed, dependencies = TRUE)
 }
+# install packages
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(text2vec, plyr,qlcMatrix, kernlab, knitr)
 ```
 
 # Load and Process Data 
@@ -208,13 +231,13 @@ perf_lbs_gbm
 ```
 ### Short-After-Model Summary
 ```{r}
+library(kernlab)
 compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC","MV"),
                          precision=c(perf_sas_gbm$precision,perf_sas_svm$precision,perf_sas_nnet$precision,perf_sas_rf$precision,perf_sas_log$precision,perf_sas_mv$precision),
                          recall=c(perf_sas_gbm$recall,perf_sas_svm$recall,perf_sas_nnet$recall,perf_sas_rf$recall,perf_sas_log$recall,perf_sas_mv$recall),
-                         accuracy=c(perf_sas_gbm$accuracy,perf_sas_svm$accuracy,perf_sas_nnet$accuracy,perf_sas_rf$accuracy,perf_sas_log$accuracy,perf_sas_mv$accuracy),
                          f1=c(perf_sas_gbm$f1,perf_sas_svm$f1,perf_sas_nnet$f1,perf_sas_rf$f1,perf_sas_log$f1,perf_sas_mv$f1),
-                         time=c(gbm.sas.time,svm.sas.time,nnet.sas.time,rf.sas.time,"NA"))
-                         
+                         accuracy=c(perf_sas_gbm$accuracy,perf_sas_svm$accuracy,perf_sas_nnet$accuracy,perf_sas_rf$accuracy,perf_sas_log$accuracy,perf_sas_mv$accuracy),
+                         time=c(gbm.sas.time,svm.sas.time,nnet.sas.time,rf.sas.time,log.sas.time,"NA"))
 kable(compare_df,caption="Comparision of performance for two different methods(Short-After-Model)", digits=2)
 ```
 ### Long-Before-Model Summary
@@ -222,9 +245,8 @@ kable(compare_df,caption="Comparision of performance for two different methods(S
 compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC"),
                          precision=c(perf_lbs_gbm$precision,perf_lbs_svm$precision,perf_lbs_nnet$precision,perf_lbs_rf$precision,perf_lbs_log$precision),
                          recall=c(perf_lbs_gbm$recall,perf_lbs_svm$recall,perf_lbs_nnet$recall,perf_lbs_rf$recall,perf_lbs_log$recall),
-                         accuracy=c(perf_lbs_gbm$accuracy,perf_lbs_svm$accuracy,perf_lbs_nnet$accuracy,perf_lbs_rf$accuracy,perf_lbs_log$accuracy),
-                         f1=c(perf_lbs_gbm$f1,perf_lbs_svm$f1,perf_lbs_nnet$f1,perf_lbs_rf$f1,perf_lbs_log$f1),
-                         time=c(gbm.lbs.time,svm.lbs.time,nnet.lbs.time,rf.lbs.time,"NA"))
+                         f1=c(perf_lbs_gbm$f1,perf_lbs_svm$f1,perf_lbs_nnet$f1,perf_lbs_rf$f1,perf_lbs_log$f1),                     accuracy=c(perf_lbs_gbm$accuracy,perf_lbs_svm$accuracy,perf_lbs_nnet$accuracy,perf_lbs_rf$accuracy,perf_lbs_log$accuracy),
+                         time=c(gbm.lbs.time,svm.lbs.time,nnet.lbs.time,rf.lbs.time,log.lbs.time))
                          
 kable(compare_df,caption="Comparision of performance for two different methods(Long-Before-Model)", digits=2)
 ```
