@@ -20,12 +20,12 @@ output:
 ####• Data Processing: For each announcement, we need to find the correspoding entry with same sticker and date in 9 indicators files respectively. We also calculate 1-year-Momentum = (Closing Price of Date a / Closing Price of Data(a-252) * 100 ). All the processing process took place in Matlab. Codes can be found at lib/data_process_matlab
 ####• Result: We got 10 processed CSV files and you can find them at data/observation 
 
+
 ## Step 2: Select the stocks based on their Momentum
 ####• Data source: data/observation
 ####• Size: 17 files with a total size of 70MB 
-####• Data Processing: Using R to select 1500 observations with highest Momentum and use Python to reorganize data and store them in a proper way. ()
-####• Result: 
-
+####• Data Processing: Using R to select 1500 observations with highest Momentum and use Python to reorganize data and store them in a proper way. Python code can be found at lib/reorganized.py. 
+####• Result: We got 2 models: Long-Before-Model and Short-After-Model
 ```{r}
 setwd("~/Spr2017-proj5-grp15/data/original/")
 
@@ -61,6 +61,13 @@ lb_data_selected=long_before[lb_selected,]
 # write.csv(sa_data_selected,'../observation_processed/short_after.csv')
 ```
 
+
+## Step 3: Classification model 
+####• Data source: data/obesrvation_processed
+####• Size: 2 files with a total size of 140kb
+####• Data Processing: Devide data into training set(1200 observations) and test set(300 obervations) 
+####• Classification method: GBM, SVM, NNET, Random Forest, and Logistic. We also taken into account majority vote(GBM,SVM and Random Forest) 
+####• Result: 
 ```{r,warning=F}
 packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
 
@@ -84,11 +91,11 @@ long_after_selected <- lb_data_selected
 
 colnames(long_after_selected)[1] <- "y"
 long_after_selected$y <- ifelse(long_after_selected$RETURN >0, 1, 0)
-long_after_selected <- long_after_selected[,c(-2,-12)]
+long_after_selected <- long_after_selected[,-11]
 
 colnames(short_after_selected)[1] <- "y"
 short_after_selected$y <- ifelse(short_after_selected$RETURN >0, 1,0)
-short_after_selected <- short_after_selected[,c(-2,-12)]
+short_after_selected <- short_after_selected[,-11]
 
 test.index <- sample(1:1500,300,replace = F)
 
@@ -99,6 +106,8 @@ test.lbs.x <- test.lbs[,-1]
 train.sas <- short_after_selected[-test.index,]
 train.lbs <- long_after_selected[-test.index,]
 ```
+
+#### Load requred functions 
 ```{r,warning=F}
 source("../lib/evaluation_measures.R")
 source("../lib/train.R")
