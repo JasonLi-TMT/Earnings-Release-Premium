@@ -14,18 +14,17 @@ output:
 #### We read more than 4 papers including Post-Earnings Announcement Effect, Momentum and Trend Following in Global Asset Allocation, and etc. Details and links of papers can be found in data/paper/ListofStrategyPapers.xlsx. We then implemented methods and algorithms described in those papers. 
 
 
-## Step 1: Data Collection And Processing 
-### Part a: Data Processing Using Matlab 
+## Step 1: Data Collection And Processing Using Matlab 
 ####• Data source: Using Bloomberg terminal to get stock related data(including EBIT_growth,Price to book value and 7 other indicators) and 06-17 earning announcement data. Original data can be found in data/original. 
 ####• Size: 9 files with a total size of 150MB 
 ####• Data Processing: For each announcement, we need to find the correspoding entry with same sticker and date in 9 indicators files respectively. We also calculate 1-year-Momentum = (Closing Price of Date a / Closing Price of Data(a-252) * 100 ). All the processing process took place in Matlab. Codes can be found at lib/data_process_matlab
-####• Result: We 
+####• Result: We got 10 processed CSV files and you can find them at data/observation 
 
-### Part b:
-####• Data source: 
+## Step 2: Select the stocks based on their Momentum
+####• Data source: data/observation
 ####• Size: 9 files with a total size of 150MB 
 ####• Data Processing: 
-####• Result: We 
+####• Result: 
 ```{r,warning=F}
 packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
 
