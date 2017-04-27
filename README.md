@@ -12,7 +12,6 @@ Term: Spring 2017
 
 + Project summary: Using the stock market data and data science methodologies (including NLP, predictive modeling and classification model ) to generate strategy. Major steps are: 
 	+ Select the major investing horizon as the days befor and after earning release. 
-	+ Using predictive modelling to select the most influential/ potential stocks.
 	+ Using a classification model to predict whether it would be a wise choice to long or short. 
 	+ Using NLP to use the related earning release date information, building up the advanced model on how to trade.
 	
