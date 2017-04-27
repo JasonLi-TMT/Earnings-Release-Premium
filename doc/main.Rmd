@@ -150,7 +150,7 @@ train.lbs <- long_after_selected[-test.index,]
 ```
 
 #### Load requred functions 
-```{r,warning=F}
+```{r,warning=F,message=F}
 source("../lib/evaluation_measures.R")
 source("../lib/train.R")
 source("../lib/test.R")
@@ -328,7 +328,7 @@ compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC","MV"),
                          f1=c(perf_sas_gbm$f1,perf_sas_svm$f1,perf_sas_nnet$f1,perf_sas_rf$f1,perf_sas_log$f1,perf_sas_mv$f1),
                          accuracy=c(perf_sas_gbm$accuracy,perf_sas_svm$accuracy,perf_sas_nnet$accuracy,perf_sas_rf$accuracy,perf_sas_log$accuracy,perf_sas_mv$accuracy),
                          time=c(gbm.sas.time,svm.sas.time,nnet.sas.time,rf.sas.time,log.sas.time,"NA"))
-kable(compare_df,caption="Comparision of performance for two different methods(Short-After-Model)", digits=2)
+kable(compare_df,caption="Comparision of performance for different methods(Short-After-Model)", digits=2)
 ```
 
 ### Long-Before-Model Summary
@@ -339,6 +339,6 @@ compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC"),
                          f1=c(perf_lbs_gbm$f1,perf_lbs_svm$f1,perf_lbs_nnet$f1,perf_lbs_rf$f1,perf_lbs_log$f1),                      accuracy=c(perf_lbs_gbm$accuracy,perf_lbs_svm$accuracy,perf_lbs_nnet$accuracy,perf_lbs_rf$accuracy,perf_lbs_log$accuracy),
                          time=c(gbm.lbs.time,svm.lbs.time,nnet.lbs.time,rf.lbs.time,log.lbs.time))
                          
-kable(compare_df,caption="Comparision of performance for two different methods(Long-Before-Model)", digits=2)
+kable(compare_df,caption="Comparision of performance for different methods(Long-Before-Model)", digits=2)
 ```
 
