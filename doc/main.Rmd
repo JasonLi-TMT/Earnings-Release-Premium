@@ -14,11 +14,54 @@ output:
 #### We read more than 4 papers including Post-Earnings Announcement Effect, Momentum and Trend Following in Global Asset Allocation, and etc. Details and links of papers can be found in data/paper/ListofStrategyPapers.xlsx. We then implemented methods and algorithms described in those papers. 
 
 
-## Step 1: Data Collection And Processing Using Matlab 
+## Step 1: Data Collection And Processing
+### Part a: Using Matlab to process data
 ####• Data source: Using Bloomberg terminal to get stock related data(including EBIT_growth,Price to book value and 7 other indicators) and 06-17 earning announcement data. Original data can be found in data/original. 
 ####• Size: 9 files with a total size of 150MB 
 ####• Data Processing: For each announcement, we need to find the correspoding entry with same sticker and date in 9 indicators files respectively. We also calculate 1-year-Momentum = (Closing Price of Date a / Closing Price of Data(a-252) * 100 ). All the processing process took place in Matlab. Codes can be found at lib/data_process_matlab
 ####• Result: We got 10 processed CSV files and you can find them at data/observation 
+
+### Part b: Using R to run regression and find the most important indicators 
+####• Data source: data/observation_processed/
+####• Size: 4 files 
+####• Data Processing: Using StepWise AIC in R 
+####• Result: Momentum and PS are two signiciant indicators
+
+#### Load library
+```{r}
+library(DAAG)
+library(MASS)
+library(leaps)
+library(car)
+```
+
+#### Process Data
+```{r}
+setwd("~/Spr2017-proj5-grp15/data/original/")
+longBefore <- read.csv("../observation_processed/long_before_earning.csv")
+longAfter <- read.csv("../observation_processed/long_after_earning.csv")
+shortBefore <- read.csv("../observation_processed/short_before_earning.csv")
+shortAfter <- read.csv("../observation_processed/short_after_earning.csv")
+```
+##### Using stepwise AIC to find the most inportant indicators 
+```{r,message=F}
+longBefore <- longBefore[,-1]
+longAfter <- longAfter[,-1]
+shortAfter <- shortAfter[,-1]
+shortBefore <- shortBefore[,-1]
+fitLongAfter <- lm(RETURN~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days+surprise,data=longAfter)
+stepLA <- stepAIC(fitLongAfter, direction="both")
+summary(stepLA)
+fitLongBefore <- lm(RETURN~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,data=longBefore)
+stepLB <- stepAIC(fitLongBefore, direction="both")
+summary(stepLB)
+fitShortBefore <- lm(RETURN~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,data=shortBefore)
+stepSB <- stepAIC(fitShortBefore, direction="both")
+summary(stepSB)
+fitShortAfter <- lm(RETURN~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,data=shortAfter)
+stepSA <- stepAIC(fitShortAfter, direction="both")
+summary(stepSA)
+```
 
 
 ## Step 2: Select the stocks based on their Momentum
@@ -27,9 +70,8 @@ output:
 ####• Data Processing: Using R to select 1500 observations with highest Momentum and use Python to reorganize data and store them in a proper way. Python code can be found at lib/reorganized.py. 
 ####• Result: We got 2 models: Long-Before-Model and Short-After-Model
 ```{r}
-setwd("~/Spr2017-proj5-grp15/data/original/")
-
 ### Selected 1500 observations with highest Momentum
+setwd("~/Spr2017-proj5-grp15/data/original/")
 mom <- read.csv("../observation/momentum39034.csv",header = FALSE)
 n_rows=nrow(mom)
 
@@ -213,7 +255,7 @@ model.svm.lbs <- train.svm2(train.lbs)
 pre.svm <- test.svm(model.svm.lbs,test.lbs.x)
 svm.lbs <- table(pre.svm,test.lbs$y)
 end.time <- Sys.time()
-svm.time <- end.time-start.time
+svm.lbs.time <- end.time-start.time
 perf_lbs_svm <- performance_statistics(svm.lbs)
 perf_lbs_svm
 ```
@@ -264,14 +306,19 @@ perf_lbs_log
 ```{r}
 # GBM
 start.time <- Sys.time()
+
 res_gbm = train.gbm(train.lbs)
 pred.gbm = test.gbm(res_gbm,test.lbs.x)
-sas.gbm.sum = table(pred.gbm,test.lbs$y)
+lbs.gbm.sum = table(pred.gbm,test.lbs$y)
+
 end.time <- Sys.time()
-gbm.sas.time <- end.time-start.time
-perf_lbs_gbm <- performance_statistics(sas.gbm.sum)
+gbm.lbs.time <- end.time-start.time
+
+perf_lbs_gbm <- performance_statistics(lbs.gbm.sum)
 perf_lbs_gbm
 ```
+
+
 ### Short-After-Model Summary
 ```{r}
 library(kernlab)
@@ -283,12 +330,13 @@ compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC","MV"),
                          time=c(gbm.sas.time,svm.sas.time,nnet.sas.time,rf.sas.time,log.sas.time,"NA"))
 kable(compare_df,caption="Comparision of performance for two different methods(Short-After-Model)", digits=2)
 ```
+
 ### Long-Before-Model Summary
 ```{r}
 compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC"),
                          precision=c(perf_lbs_gbm$precision,perf_lbs_svm$precision,perf_lbs_nnet$precision,perf_lbs_rf$precision,perf_lbs_log$precision),
                          recall=c(perf_lbs_gbm$recall,perf_lbs_svm$recall,perf_lbs_nnet$recall,perf_lbs_rf$recall,perf_lbs_log$recall),
-                         f1=c(perf_lbs_gbm$f1,perf_lbs_svm$f1,perf_lbs_nnet$f1,perf_lbs_rf$f1,perf_lbs_log$f1),                     accuracy=c(perf_lbs_gbm$accuracy,perf_lbs_svm$accuracy,perf_lbs_nnet$accuracy,perf_lbs_rf$accuracy,perf_lbs_log$accuracy),
+                         f1=c(perf_lbs_gbm$f1,perf_lbs_svm$f1,perf_lbs_nnet$f1,perf_lbs_rf$f1,perf_lbs_log$f1),                      accuracy=c(perf_lbs_gbm$accuracy,perf_lbs_svm$accuracy,perf_lbs_nnet$accuracy,perf_lbs_rf$accuracy,perf_lbs_log$accuracy),
                          time=c(gbm.lbs.time,svm.lbs.time,nnet.lbs.time,rf.lbs.time,log.lbs.time))
                          
 kable(compare_df,caption="Comparision of performance for two different methods(Long-Before-Model)", digits=2)
