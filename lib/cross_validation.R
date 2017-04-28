@@ -37,7 +37,7 @@ cv.function <- function(data, K){
     pred.log <- test.log(fit.log, test.data)
     cv.error.log[i] <- mean(pred.log != test.data$y)
     
-    pre=(as.numeric(as.character(pred.BP))+as.numeric(as.character(pred.log))+as.numeric(as.character(pred.svm)))
+    pre=(as.numeric(as.character(pred.gbm))+as.numeric(as.character(pred.rf))+as.numeric(as.character(pred.svm)))
     pre=ifelse(pre>=2,1,0)
     cv.error.vote[i] <- mean(pre != test.data$y)
   }			

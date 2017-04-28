@@ -318,10 +318,8 @@ perf_lbs_gbm <- performance_statistics(lbs.gbm.sum)
 perf_lbs_gbm
 ```
 
-
 ### Short-After-Model Summary
 ```{r}
-library(kernlab)
 compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC","MV"),
                          precision=c(perf_sas_gbm$precision,perf_sas_svm$precision,perf_sas_nnet$precision,perf_sas_rf$precision,perf_sas_log$precision,perf_sas_mv$precision),
                          recall=c(perf_sas_gbm$recall,perf_sas_svm$recall,perf_sas_nnet$recall,perf_sas_rf$recall,perf_sas_log$recall,perf_sas_mv$recall),
