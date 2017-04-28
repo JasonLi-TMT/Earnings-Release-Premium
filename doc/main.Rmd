@@ -6,12 +6,12 @@ output:
 ---
 
 # Summary 
-#### In this project, ...
+#### In this project, we combined core value of 8 published articles related to Earnings Release and improve it with machine learning strategy.  Finally, we got two models: long-before earning release and short-after earning release. Our model could tell you, if you long the stock before earning announcement, whether you could earn a positive return. If you short the stock after earning announcement, whether you could get a positive return.
 
 
 
 ## Step 0: Related Papers and Projects 
-#### We read more than 4 papers including Post-Earnings Announcement Effect, Momentum and Trend Following in Global Asset Allocation, and etc. Details and links of papers can be found in data/paper/ListofStrategyPapers.xlsx. We then implemented methods and algorithms described in those papers. 
+#### We read more than 8 papers including Post-Earnings Announcement Effect, Momentum and Trend Following in Global Asset Allocation, and etc. Details and links of papers can be found at data/paper/ListofStrategyPapers.xlsx. We then implemented methods and algorithms described in those papers. 
 
 
 ## Step 1: Data Collection And Processing
@@ -379,22 +379,32 @@ all.features <- read.csv("../all_features.csv")
 
 ### Data Process
 ```{r}
+all.features[is.na(all.features)] <- 0
 all.features$X <- all.features$y.return01
 all.features <- all.features[,-ncol(all.features)]
 colnames(all.features)[1] <- "y"
+all.features <- all.features[,-c(2,3)]
+
+n <- nrow(all.features)
+
+test.ind <- sample(1:n,n/3,replace = F)
+
+test.feature <- all.features[test.ind,]
+test.feature.x <- test.feature[,-1]
+train.feature <- all.features[-test.ind,]
 ```
 
 ### GBM
 ```{r}
 # GBM
 start.time <- Sys.time()
-res_gbm = train.gbm(train.sas)
-pred.gbm = test.gbm(res_gbm,test.sas.x)
-sas.gbm.sum = table(pred.gbm,test.sas$y)
+res_gbm = train.gbm(train.feature)
+pred.gbm = test.gbm(res_gbm,test.feature.x)
+feature.gbm.sum = table(pred.gbm,test.feature$y)
 end.time <- Sys.time()
-gbm.sas.time <- end.time-start.time
-perf_sas_gbm <- performance_statistics(sas.gbm.sum)
-perf_sas_gbm
+gbm.feature.time <- end.time-start.time
+perf_feature_gbm <- performance_statistics(feature.gbm.sum)
+perf_feature_gbm
 ```
 
 ### SVM
@@ -402,13 +412,13 @@ perf_sas_gbm
 # model.svm <- svm(y ~ ., data = train.sas, cost = 256, gamma = 0.3)
 # Tune svm
 start.time <- Sys.time()
-model.svm.sas <- train.svm(train.sas)
-pre.svm <- test.svm(model.svm.sas,test.sas.x)
-svm.sas <- table(pre.svm,test.sas$y)
+model.svm.feature <- train.svm(train.feature)
+pre.svm <- test.svm(model.svm.feature,test.feature.x)
+svm.feature <- table(pre.svm,test.feature$y)
 end.time <- Sys.time()
-svm.sas.time <- end.time-start.time
-perf_sas_svm <- performance_statistics(svm.sas)
-perf_sas_svm
+svm.feature.time <- end.time-start.time
+perf_feature_svm <- performance_statistics(svm.feature)
+perf_feature_svm
 
 ```
 
@@ -418,56 +428,69 @@ perf_sas_svm
 start.time <- Sys.time()
 # model.nnet <- nnet(y ~ ., data = train.sas, linout = F, size = 10, decay = 0.001, maxit = 200, trace = F, MaxNWts=6000)
 # Tune bpnn
-model.nnet <- train.bp(train.sas)
-pre.nnet <- test.bp(model.nnet,test.sas.x)
-nnet.sas <- table(pre.nnet,test.sas$y)
+model.nnet <- train.bp(train.feature)
+pre.nnet <- test.bp(model.nnet,test.feature.x)
+nnet.feature <- table(pre.nnet,test.feature$y)
 end.time <- Sys.time()
-nnet.sas.time <- end.time-start.time
-perf_sas_nnet <- performance_statistics(nnet.sas)
-perf_sas_nnet
-
+nnet.feature.time <- end.time-start.time
+perf_feature_nnet <- performance_statistics(nnet.feature)
+perf_feature_nnet
 ```
 
 ### Random Forest 
 ```{r}
 # Random Forest
 start.time <- Sys.time()
-model.rf <- train.rf(train.sas)
-pre.rf <- test.rf(model.rf,test.sas.x)
-rf.sas <- table(pre.rf,test.sas$y)
+model.rf <- train.rf(train.feature)
+pre.rf <- test.rf(model.rf,test.feature.x)
+rf.feature <- table(pre.rf,test.feature$y)
 end.time <- Sys.time()
-rf.sas.time <- end.time-start.time
-perf_sas_rf <- performance_statistics(rf.sas)
-perf_sas_rf
+rf.feature.time <- end.time-start.time
+perf_feature_rf <- performance_statistics(rf.feature)
+perf_feature_rf
 
 ```
 
 ### Logistic
 ```{r}
 start.time <- Sys.time()
-res_logi = train.log(train.sas)
-pred.logi = test.log(res_logi,test.sas.x)
-log.sas <- table(pred.logi,test.sas$y)
+res_logi = train.log(train.feature)
+pred.logi = test.log(res_logi,test.feature.x)
+log.feature <- table(pred.logi,test.feature$y)
 end.time <- Sys.time()
-log.sas.time <- end.time-start.time
-perf_sas_log <- performance_statistics(log.sas)
-perf_sas_log
-
+log.feature.time <- end.time-start.time
+perf_feature_log <- performance_statistics(log.feature)
+perf_feature_log
 ```
 
 ### Model Summary
 ```{r}
 compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC"),
-                         precision=c(perf_lbs_gbm$precision,perf_lbs_svm$precision,perf_lbs_nnet$precision,perf_lbs_rf$precision,perf_lbs_log$precision),
-                         recall=c(perf_lbs_gbm$recall,perf_lbs_svm$recall,perf_lbs_nnet$recall,perf_lbs_rf$recall,perf_lbs_log$recall),
-                         f1=c(perf_lbs_gbm$f1,perf_lbs_svm$f1,perf_lbs_nnet$f1,perf_lbs_rf$f1,perf_lbs_log$f1),                      accuracy=c(perf_lbs_gbm$accuracy,perf_lbs_svm$accuracy,perf_lbs_nnet$accuracy,perf_lbs_rf$accuracy,perf_lbs_log$accuracy),
-                         time=c(gbm.lbs.time,svm.lbs.time,nnet.lbs.time,rf.lbs.time,log.lbs.time))
+                         precision=c(perf_feature_gbm$precision,perf_feature_svm$precision,perf_feature_nnet$precision,perf_feature_rf$precision,perf_feature_log$precision),
+                         recall=c(perf_feature_gbm$recall,perf_feature_svm$recall,perf_feature_nnet$recall,perf_feature_rf$recall,perf_feature_log$recall),
+                         f1=c(perf_feature_gbm$f1,perf_feature_svm$f1,perf_feature_nnet$f1,perf_feature_rf$f1,perf_feature_log$f1),                      accuracy=c(perf_feature_gbm$accuracy,perf_feature_svm$accuracy,perf_feature_nnet$accuracy,perf_feature_rf$accuracy,perf_feature_log$accuracy),
+                         time=c(gbm.feature.time,svm.feature.time,nnet.feature.time,rf.feature.time,log.feature.time))
                          
 kable(compare_df,caption="Comparision of performance for different methods", digits=2)
 ```
 
-
+### Two Models Comparison 
 ```{r}
-
+compare_df <- data.frame(model=c("Short-After-Model","NLP"),
+                         precision=c(perf_sas_rf$precision,perf_feature_rf$precision),
+                         recall=c(perf_sas_rf$recall,perf_feature_rf$recall),
+                         f1=c(perf_sas_rf$f1,perf_feature_rf$f1),                    accuracy=c(perf_sas_rf$accuracy,perf_feature_rf$accuracy),
+                         time=c(rf.sas.time,rf.feature.time))
+                         
+kable(compare_df,caption="Comparision of performance for two different models", digits=2)
 ```
 
+# Conclusion
+##• Stock market is known as a chaotic system. We get more information on news by limiting our scope to earning release day, and are able to build the prediction model of more than 85% accuracy. However, with the help of NLP our model does not improve but worse off. We may need to reconsider the weight of each features and do better feature selection. 
+##• Models and features: GBM, SVM, NNET, RF, Logistic, and Random forest. Random forest gives us the best among all of them
+##• Further, it is observed that data visualization from different companies shows that data set from a certain company is much more distinguishable than mixing data (portfolio and index)
+##• Compared with our goal, we just made it. We may check whether the strategy still works with recent 10 years data, improve the model with statistical technique and redict whether to long or short before & after Earnings Release and so on. 
+##• We use their core value: long before Earnings Release, Short after Earnings Release and use machine learning model to improve it
+##• NLP analysis: The sentiment result from toolkit is too general to apply for financial news and our word vector list is quite limited
+##• Model Improvement: high dimension can be handled better
+  
