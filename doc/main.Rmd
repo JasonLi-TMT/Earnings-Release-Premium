@@ -344,7 +344,7 @@ kable(compare_df,caption="Comparision of performance for different methods(Long-
 
 
 ## Step 4: Including news features from NLP
-### Part a: Using R to clean news data
+### Part a: Using R to clean and match news data
 ####• Data source: Bloomberg and WSJ 
 ####• Purpose: For every news data we found, we use R to find the corresponding indicators(previous financial features) with the same date and ticker. We reorganized them and save them as RData file. 
 ####• Data Processing: Using R, and you can find the code at lib/features_matching.R
@@ -353,9 +353,10 @@ kable(compare_df,caption="Comparision of performance for different methods(Long-
 # source("../lib/features_matching.R")
 ```
 
-####• Data source: Bloomberg and WSJ 
+### Part b: NLP 
+####• Data source: previous step 
 ####• Purpose: We would like to analyze if these articles from mainstream media could influence stock market and investor’s trading strategie
-####• Data Processing: Scraping news and earnings from Bloomberg and WSJ, extracting features using NLP and we do model evalution 
+####• Data Processing: Extracting features using NLP and we do model evalution 
 ####• Result: As follows
 ```{r}
 
