@@ -3,7 +3,7 @@
 Term: Spring 2017
 
 + Team #15
-+ Projec title: Stock strategy based on NLP and Time series?
++ Projec title: Stock strategy based on Time series, Trading on news?
 + Team members
 	+ Jason LI
 	+ Dejian WANG
