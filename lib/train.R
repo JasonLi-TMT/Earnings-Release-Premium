@@ -15,7 +15,7 @@ train.gbm <- function(traindata){
 train.svm<- function(traindata) {
   traindata$y <- as.factor(traindata$y)
   svm_tune <- tune(svm, 
-                   y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days+surprise,
+                   y~.,
                    data=traindata,
                    kernel="radial", 
                    ranges=list(cost=2^(3:8), 
@@ -51,17 +51,4 @@ train.rf<- function(traindata) {
 train.log <- function(train_data){
   model.log <- glm(y~.,family = binomial(link="logit"),data=train_data)
   return(model.log)
-}
-
-############ SVM-2 ###########################
-train.svm2<- function(traindata) {
-  traindata$y <- as.factor(traindata$y)
-  svm_tune <- tune(svm, 
-                   y~DY+EBITG+EV2EBITDA+M2B+MOMENTUM+PB+PE+PF+PS+days,
-                   data=traindata,
-                   kernel="radial", 
-                   ranges=list(cost=2^(-1:9), 
-                               gamma=c(0.2,0.3,0.4,0.5,0.6)))
-  model.svm<- svm_tune$best.model
-  return(model.svm)
 }
