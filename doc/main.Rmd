@@ -342,16 +342,22 @@ kable(compare_df,caption="Comparision of performance for different methods(Long-
 
 
 ## Step 4: Including news features from NLP
-### Part a: NLP 
-####• Data source: Bloomberg and WSJ news headlines, stored in a csv file (news_Bloomberg.csv)
+### Part a: Get Data 
+####• Data source: Bloomberg and WSJ news and headlines
+####• Purpose: Web scrapying using Python from WSJ and Bloomberg. You can find the code at lib/wsj_news_scrape_python/run.py and extract_news.ipynb. 
+####• Data Processing: Using scrapy and python package "selenium"
+####• Result: WSJ news stored at data/wsjnews and Bloomberg headlines stored at news_Bloomberg.csv
+
+### Part b: NLP 
+####• Data source: from previous step
 ####• Purpose: We would like to analyze if these articles from mainstream media could influence stock market and investor’s trading strategie
-####• Data Processing: Extracting features using NLP. Specifically, we use R built-in pacakge "syuzhetand" and word_count method. 
+####• Data Processing: Extracting features using NLP. Specifically, we use R built-in pacakge "syuzhetand" and word_count. 
 ####• Result: As follows
 ```{r}
 # source("../lib/sentimental.r")
 ```
 
-### Part b: Used R to match and clean news data
+### Part c: Used R to match and clean news data
 ####• Data source: From previous steps
 ####• Purpose: For every news data we found, we use R to find the corresponding indicators(previous financial features) with the same date and ticker. We reorganized them and save them as RData file. 
 ####• Data Processing: We use R, and you can find the code at lib/features_matching.R
