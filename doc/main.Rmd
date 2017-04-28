@@ -477,10 +477,10 @@ kable(compare_df,caption="Comparision of performance for different methods", dig
 ### Two Models Comparison 
 ```{r}
 compare_df <- data.frame(model=c("Short-After-Model","NLP"),
-                         precision=c(perf_sas_rf$precision,perf_feature_rf$precision),
-                         recall=c(perf_sas_rf$recall,perf_feature_rf$recall),
-                         f1=c(perf_sas_rf$f1,perf_feature_rf$f1),                    accuracy=c(perf_sas_rf$accuracy,perf_feature_rf$accuracy),
-                         time=c(rf.sas.time,rf.feature.time))
+                         precision=c(perf_sas_rf$precision,perf_feature_nnet$precision),
+                         recall=c(perf_sas_rf$recall,perf_feature_nnet$recall),
+                         f1=c(perf_sas_rf$f1,perf_feature_nnet$f1),                    accuracy=c(perf_sas_rf$accuracy,perf_feature_nnet$accuracy),
+                         time=c(rf.sas.time,nnet.feature.time))
                          
 kable(compare_df,caption="Comparision of performance for two different models", digits=2)
 ```
