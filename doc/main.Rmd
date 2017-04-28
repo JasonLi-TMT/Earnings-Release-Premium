@@ -21,6 +21,7 @@ output:
 ####• Data Processing: For each announcement, we need to find the correspoding entry with same sticker and date in 9 indicators files respectively. We also calculate 1-year-Momentum = (Closing Price of Date a / Closing Price of Data(a-252) * 100 ). All the processing process took place in Matlab. Codes can be found at lib/data_process_matlab
 ####• Result: We got 10 processed CSV files and you can find them at data/observation 
 
+
 ### Part b: Using R to run regression and find the most important indicators 
 ####• Data source: data/observation_processed/
 ####• Size: 4 files 
@@ -109,7 +110,7 @@ lb_data_selected=long_before[lb_selected,]
 ####• Size: 2 files with a total size of 140kb
 ####• Data Processing: Devide data into training set(1200 observations) and test set(300 obervations) 
 ####• Classification method: GBM, SVM, NNET, Random Forest, and Logistic. We also taken into account majority vote(GBM,SVM and Random Forest) 
-####• Result: 
+####• Result: as following codes weill show 
 ```{r,warning=F}
 packages.used=c("gbm", "caret","DMwR" ,"nnet","randomForest","e1071")
 
@@ -273,7 +274,6 @@ end.time <- Sys.time()
 nnet.lbs.time <- end.time-start.time
 perf_lbs_nnet <- performance_statistics(nnet.lbs)
 perf_lbs_nnet
-
 ```
 
 
@@ -340,5 +340,28 @@ compare_df <- data.frame(method=c("GBM","SVM","NNET","RF","LOGISTIC"),
                          time=c(gbm.lbs.time,svm.lbs.time,nnet.lbs.time,rf.lbs.time,log.lbs.time))
                          
 kable(compare_df,caption="Comparision of performance for different methods(Long-Before-Model)", digits=2)
+```
+
+
+## Step 4: Including news features from NLP
+### Part a: Using R to clean news data
+####• Data source: Bloomberg and WSJ 
+####• Purpose: For every news data we found, we use R to find the corresponding indicators(previous financial features) with the same date and ticker. We reorganized them and save them as RData file. 
+####• Data Processing: Using R, and you can find the code at lib/features_matching.R
+####• Result: RData file for futher processing. 
+```{r}
+# source("../lib/features_matching.R")
+```
+
+####• Data source: Bloomberg and WSJ 
+####• Purpose: We would like to analyze if these articles from mainstream media could influence stock market and investor’s trading strategie
+####• Data Processing: Scraping news and earnings from Bloomberg and WSJ, extracting features using NLP and we do model evalution 
+####• Result: As follows
+```{r}
+
+```
+
+```{r}
+
 ```
 
