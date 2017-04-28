@@ -346,7 +346,8 @@ kable(compare_df,caption="Comparision of performance for different methods(Long-
 ####• Data source: Bloomberg and WSJ news and headlines
 ####• Purpose: Web scrapying using Python from WSJ and Bloomberg. You can find the code at lib/wsj_news_scrape_python/run.py and extract_news.ipynb. 
 ####• Data Processing: Using scrapy and python package "selenium"
-####• Result: WSJ news stored at data/wsjnews and Bloomberg headlines stored at news_Bloomberg.csv
+####• Result: WSJ news stored at data/wsjnews and Bloomberg headlines stored at data/news_Bloomberg
+
 
 ### Part b: NLP 
 ####• Data source: from previous step
