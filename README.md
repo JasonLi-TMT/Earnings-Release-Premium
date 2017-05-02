@@ -27,6 +27,7 @@ Term: Spring 2017
 + Initially, we use 1000 stocks data in 10 years, got 963 K observation and use forward stepwise to select the most important two factors which are momentum. This step is to find a pattern of stocks which are sensitive to Earning announcement.
 
 + Based on the pattern we found in step 1, we selected fewer observations and use machine learning model to do classification and got 0.88 accurate rate with Random Forest
+
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
