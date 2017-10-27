@@ -1,4 +1,4 @@
-# Projec title: Earnings Release Premium Strategy 
+# Project Title: Earnings Release Premium Strategy 
 
 + Project summary: Using the stock market data and data science methodologies (including NLP, predictive modeling and classification model ) to generate strategy. Major steps are: 
 	+ Select the major investing horizon as the days befor and after earning release. 
